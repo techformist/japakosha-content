@@ -1,0 +1,20 @@
+{
+  "name": "japakosha-content",
+  "version": "1.0.0",
+  "description": "Canonical mantra/prayer content for JapaKosha",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "catalog": "node scripts/generate-catalog.mjs",
+    "convert": "node scripts/convert-xlsx.mjs"
+  },
+  "keywords": ["mantras", "stotras", "hindu", "prayers"],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2",
+  "devDependencies": {
+    "glob": "^13.0.3",
+    "gray-matter": "^4.0.3",
+    "xlsx": "^0.18.5"
+  }
+}

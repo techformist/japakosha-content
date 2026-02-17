@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://japakosha.org/schemas/meta.schema.json",
+  "title": "JapaKosha Mantra Metadata",
+  "description": "Schema for content/mantras/<canonical_id>/meta.json files",
+  "type": "object",
+  "required": [
+    "canonical_id",
+    "slug",
+    "deity_theme",
+    "source",
+    "license",
+    "status",
+    "created_at",
+    "updated_at"
+  ],
+  "properties": {
+    "canonical_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable, language-neutral identifier. Lowercase kebab-case. Never rename once assigned."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "URL-friendly identifier. Must be unique across all mantras."
+    },
+    "deity_theme": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1,
+      "description": "One or more deity/theme tags (e.g., 'ganesha', 'shiva', 'universal')."
+    },
+    "purpose": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Zero or more purpose tags (e.g., 'peace', 'protection', 'wisdom')."
+    },
+    "source": {
+      "type": "object",
+      "required": ["text"],
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Human-readable source name. Use 'Traditional' if origin is oral tradition."
+        },
+        "citation": {
+          "type": ["string", "null"],
+          "description": "Specific verse/chapter reference."
+        },
+        "url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Link to authoritative reference."
+        }
+      },
+      "additionalProperties": false
+    },
+    "license": {
+      "type": "string",
+      "enum": [
+        "public-domain",
+        "cc-by-4.0",
+        "cc-by-sa-4.0",
+        "contributor-owned"
+      ],
+      "description": "Content license."
+    },
+    "attribution": {
+      "type": ["string", "null"],
+      "description": "Required if license is cc-by-* or contributor-owned."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "pending", "approved", "flagged"],
+      "description": "Moderation status. New content must be 'pending'."
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 creation timestamp."
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 last-update timestamp."
+    }
+  },
+  "additionalProperties": false
+}

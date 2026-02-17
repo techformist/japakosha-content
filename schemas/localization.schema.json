@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://japakosha.org/schemas/localization.schema.json",
+  "title": "JapaKosha Mantra Localization",
+  "description": "Schema for content/mantras/<canonical_id>/localizations/<lang>-<script>.json files",
+  "type": "object",
+  "required": [
+    "canonical_id",
+    "language_code",
+    "script",
+    "title",
+    "body",
+    "quality_level",
+    "created_at",
+    "updated_at"
+  ],
+  "properties": {
+    "canonical_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Must match the parent mantra folder name."
+    },
+    "language_code": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}$",
+      "description": "BCP-47 language code: sa, hi, kn, en, ta, te, mr, gu, pa, bn, ml, or."
+    },
+    "script": {
+      "type": "string",
+      "enum": [
+        "Deva",
+        "Knda",
+        "Latn",
+        "Taml",
+        "Telu",
+        "Gujr",
+        "Guru",
+        "Beng",
+        "Mlym",
+        "Orya"
+      ],
+      "description": "ISO 15924 script code."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Short recognizable title in this script."
+    },
+    "body": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Full mantra text. Use \\n for meaningful line breaks (verse boundaries)."
+    },
+    "phonetic": {
+      "type": ["string", "null"],
+      "description": "Latin-script pronunciation guide (IAST or simplified phonetic)."
+    },
+    "transliteration": {
+      "type": ["string", "null"],
+      "description": "Transliteration from another script. Note source script in translation notes."
+    },
+    "translator": {
+      "type": ["string", "null"],
+      "description": "Attribution for non-canonical translations."
+    },
+    "editor": {
+      "type": ["string", "null"],
+      "description": "Who reviewed/edited this variant."
+    },
+    "quality_level": {
+      "type": "string",
+      "enum": ["verified", "community", "unverified"],
+      "description": "verified = expert-checked; community = contributor-provided; unverified = auto-generated."
+    },
+    "fallback_language": {
+      "type": ["string", "null"],
+      "description": "Suggested fallback language code if this localization is incomplete."
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 creation timestamp."
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 last-update timestamp."
+    }
+  },
+  "additionalProperties": false
+}
