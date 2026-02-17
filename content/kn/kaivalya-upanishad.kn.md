@@ -1,26 +1,29 @@
-﻿---
-id: "kaivalya-upanishad.kn"
-mantra_id: "kaivalya-upanishad"
-language_code: "kn"
-title: "ಕೈವಲ್ಯೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: kaivalya-upanishad.kn
+mantra_id: kaivalya-upanishad
+language_code: kn
+title: ಕೈವಲ್ಯೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
+  content_type:
+    - upanishad
 keywords:
-  - "kaivalya"
-  - "upanishad"
-  - "ಕೈವಲ್ಯೋಪನಿಷತ್"
+  - kaivalya
+  - upanishad
+  - ಕೈವಲ್ಯೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಸಹ ನಾವವತು |
     ಸಹ ನೌ ಭುನಕ್ತು
@@ -106,4 +109,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಓಂ ಸಹ ನಾವವತು |
     ಸಹ ನೌ ಭುನಕ್ತು
-
+

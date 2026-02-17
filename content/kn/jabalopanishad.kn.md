@@ -1,25 +1,28 @@
-﻿---
-id: "jabalopanishad.kn"
-mantra_id: "jabalopanishad"
-language_code: "kn"
-title: "ಜಾಬಾಲೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: jabalopanishad.kn
+mantra_id: jabalopanishad
+language_code: kn
+title: ಜಾಬಾಲೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "jabalopanishad"
-  - "ಜಾಬಾಲೋಪನಿಷತ್"
+  - jabalopanishad
+  - ಜಾಬಾಲೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಪೂರ್ಣಮದಃ ಪೂರ್ಣಮಿದಂ ಪೂರ್ಣಾತ್ ಪೂರ್ಣಮುದಚ್ಯತೇ |
     ಪೂರ್ಣಸ್ಯ ಪೂರ್ಣಮಾದಾಯ ಪೂರ್ಣಮೇವಾವಶಿಷ್ಯತೇ
@@ -116,4 +119,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಓಂ ಪೂರ್ಣಮದಃ ಪೂರ್ಣಮಿದಂ ಪೂರ್ಣಾತ್ ಪೂರ್ಣಮುದಚ್ಯತೇ |
     ಪೂರ್ಣಸ್ಯ ಪೂರ್ಣಮಾದಾಯ ಪೂರ್ಣಮೇವಾವಶಿಷ್ಯತೇ
-
+

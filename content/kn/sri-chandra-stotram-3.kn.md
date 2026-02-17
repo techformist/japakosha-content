@@ -1,27 +1,30 @@
-﻿---
-id: "sri-chandra-stotram-3.kn"
-mantra_id: "sri-chandra-stotram-3"
-language_code: "kn"
-title: "೩"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-chandra-stotram-3.kn
+mantra_id: sri-chandra-stotram-3
+language_code: kn
+title: ೩
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "chandra"
-  - "stotram"
-  - "೩"
+  - sri
+  - chandra
+  - stotram
+  - ೩
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಧ್ಯಾನಮ್ –  
 ಶ್ವೇತಾಂಬರೋಜ್ಜ್ವಲತನುಂ ಸಿತಮಾಲ್ಯಗಂಧಂ  
@@ -66,4 +69,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಇದಂ ನಿಶಾಕರಸ್ತೋತ್ರಂ ಯಃ ಪಠೇತ್ ಪ್ರತ್ಯಹಂ ನರಃ |  
     ಉಪದ್ರವಾತ್ ಸ ಮುಚ್ಯೇತ ನಾತ್ರ ಕಾರ್ಯಾ ವಿಚಾರಣಾ || ೧೨ ||
-
+

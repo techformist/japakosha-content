@@ -1,27 +1,30 @@
-﻿---
-id: "sri-ganesha-hrudayam.kn"
-mantra_id: "sri-ganesha-hrudayam"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganesha-hrudayam.kn
+mantra_id: sri-ganesha-hrudayam
+language_code: kn
+title: ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "ganesha"
-  - "hrudayam"
-  - "ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ"
+  - sri
+  - ganesha
+  - hrudayam
+  - ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶಿವ ಉವಾಚ |  
     ಗಣೇಶಹೃದಯಂ ವಕ್ಷ್ಯೇ ಸರ್ವಸಿದ್ಧಿಪ್ರದಾಯಕಮ್ |  
@@ -159,4 +162,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ವಿಘ್ನೇಶ್ವರಸ್ಯೈವ ಪರಂ ರಹಸ್ಯಮ್ |  
     ಸಪ್ತತ್ರಿನಾಮ್ನಾಂ ಹೃದಯಂ ನರೋ ಯೋ  
 ಜ್ಞಾತ್ವಾ ಪರಂ ಬ್ರಹ್ಮಮಯೋ ಭವೇದಿಹ || ೨೬ ||
-
+

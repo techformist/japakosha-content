@@ -1,29 +1,32 @@
-﻿---
-id: "sri-ganesha-prabhava-stuti.kn"
-mantra_id: "sri-ganesha-prabhava-stuti"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganesha-prabhava-stuti.kn
+mantra_id: sri-ganesha-prabhava-stuti
+language_code: kn
+title: ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stuti"]
+  content_type:
+    - stuti
 keywords:
-  - "sri"
-  - "ganesha"
-  - "mantra"
-  - "prabhava"
-  - "stuti"
-  - "ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ"
+  - sri
+  - ganesha
+  - mantra
+  - prabhava
+  - stuti
+  - ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಮಿತ್ಯಾದೌ ವೇದವಿದೋ ಯಂ ಪ್ರವದಂತಿ  
 ಬ್ರಹ್ಮಾದ್ಯಾ ಯಂ ಲೋಕವಿಧಾನೇ ಪ್ರಣಮಂತಿ |  
@@ -74,4 +77,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಸುಬ್ರಹ್ಮಣ್ಯಾಹ್ವಯಸೂರ್ಯುಕ್ತಾಮನುಯುಕ್ತಾಮ್ |  
     ಉಕ್ತ್ವಾ ಶ್ರುತ್ವಾಪೇಕ್ಷಿತಕಾರ್ಯಂ ನಿರ್ವಿಘ್ನಂ  
 ಮುಕ್ತ್ವಾ ಮೋಹಂ ಬೋಧಮುಪೇಯಾತ್ತದ್ಭಕ್ತಃ || ೧೦ ||
-
+

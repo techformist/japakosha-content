@@ -1,27 +1,30 @@
-﻿---
-id: "santana-ganapati-stotram.kn"
-mantra_id: "santana-ganapati-stotram"
-language_code: "kn"
-title: "ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: santana-ganapati-stotram.kn
+mantra_id: santana-ganapati-stotram
+language_code: kn
+title: ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "santana"
-  - "ganapati"
-  - "stotram"
-  - "ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ"
+  - santana
+  - ganapati
+  - stotram
+  - ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮೋಽಸ್ತು ಗಣನಾಥಾಯ ಸಿದ್ಧಿಬುದ್ಧಿಯುತಾಯ ಚ |  
     ಸರ್ವಪ್ರದಾಯ ದೇವಾಯ ಪುತ್ರವೃದ್ಧಿಪ್ರದಾಯ ಚ || ೧ ||
@@ -40,4 +43,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ತೇ ಸರ್ವೇ ತವ ಪೂಜಾರ್ಥಂ ನಿರತಾಃ ಸ್ಯುರ್ವರೋಮತಃ |  
     ಪುತ್ರಪ್ರದಮಿದಂ ಸ್ತೋತ್ರಂ ಸರ್ವಸಿದ್ಧಿಪ್ರದಾಯಕಮ್ || ೬ ||
-
+

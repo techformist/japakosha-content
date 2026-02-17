@@ -1,28 +1,31 @@
-﻿---
-id: "sri-surya-stavaraja-stotram.kn"
-mantra_id: "sri-surya-stavaraja-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ"
-deity_theme: ["surya"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-surya-stavaraja-stotram.kn
+mantra_id: sri-surya-stavaraja-stotram
+language_code: kn
+title: ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - surya
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "surya"
-  - "stavaraja"
-  - "stotram"
-  - "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ"
+  - sri
+  - surya
+  - stavaraja
+  - stotram
+  - ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಬ್ರಹ್ಮೋವಾಚ |  
     ಸ್ತವನಂ ಸಾಮವೇದೋಕ್ತಂ ಸೂರ್ಯಸ್ಯ ವ್ಯಾಧಿಮೋಚನಮ್ |  
@@ -58,4 +61,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಮಾಸಂ ಕೃತ್ವಾ ಹವಿಷ್ಯಾಂನಂ ಶ್ರುತ್ವಾಽತೋ ಮುಚ್ಯತೇ ಧ್ರುವಮ್ |  
     ಸ್ನಾನಂ ಚ ಸರ್ವತೀರ್ಥಾನಾಂ ಲಭತೇ ನಾತ್ರ ಸಂಶಯಃ || ೧೧ ||
-
+

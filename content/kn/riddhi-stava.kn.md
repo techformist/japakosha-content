@@ -1,26 +1,29 @@
-﻿---
-id: "riddhi-stava.kn"
-mantra_id: "riddhi-stava"
-language_code: "kn"
-title: "ಋದ್ಧಿ ಸ್ತವಃ"
-deity_theme: ["venkateshwara"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: riddhi-stava.kn
+mantra_id: riddhi-stava
+language_code: kn
+title: ಋದ್ಧಿ ಸ್ತವಃ
+deity_theme:
+  - venkateshwara
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "riddhi"
-  - "stava"
-  - "ಋದ್ಧಿ ಸ್ತವಃ"
+  - riddhi
+  - stava
+  - ಋದ್ಧಿ ಸ್ತವಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀಮನ್ವೃಷಭಶೈಲೇಶ ವರ್ಧತಾಂ ವಿಜಯೀ ಭವಾನ್ |  
     ದಿವ್ಯಂ ತ್ವದೀಯಮೈಶ್ವರ್ಯಂ ನಿರ್ಮರ್ಯಾದಂ ವಿಜೃಂಭತಾಮ್ || ೧ ||
@@ -69,4 +72,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಪತ್ಯುಃ ಪ್ರತ್ಯಹಮಿತ್ಥಂ ಯಃ ಪ್ರಾರ್ಥಯೇತ ಸಮುಚ್ಛ್ರಯಮ್ |  
     ಪ್ರಸಾದಸುಮುಖಃ ಶ್ರೀಮಾನ್ ಪಶ್ಯತ್ಯೇನಂ ಪರಃ ಪುಮಾನ್ || ೧೬ ||
-
+

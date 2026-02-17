@@ -1,31 +1,34 @@
-﻿---
-id: "sri-surya-stotram-2-deva-krutham.kn"
-mantra_id: "sri-surya-stotram-2-deva-krutham"
-language_code: "kn"
-title: "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತೋತ್ರಂ 2 (ದೇವ ಕೃತಂ)"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-surya-stotram-2-deva-krutham.kn
+mantra_id: sri-surya-stotram-2-deva-krutham
+language_code: kn
+title: ಶ್ರೀ ಸೂರ್ಯ ಸ್ತೋತ್ರಂ 2 (ದೇವ ಕೃತಂ)
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "surya"
-  - "stotram"
-  - "(deva"
-  - "krutham)"
-  - "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತೋತ್ರಂ 2 (ದೇವ ಕೃತಂ)"
-  - "deva"
-  - "krutham"
+  - sri
+  - surya
+  - stotram
+  - (deva
+  - krutham)
+  - ಶ್ರೀ ಸೂರ್ಯ ಸ್ತೋತ್ರಂ 2 (ದೇವ ಕೃತಂ)
+  - deva
+  - krutham
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ದೇವಾ ಊಚುಃ |  
     ನಮಸ್ತೇ ಋಕ್ಸ್ವರೂಪಾಯ ಸಾಮರೂಪಾಯ ತೇ ನಮಃ |  
@@ -67,4 +70,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಇದಂ ಸ್ತೋತ್ರವರಂ ರಮ್ಯಂ ಶ್ರೋತವ್ಯಂ ಶ್ರದ್ಧಯಾ ನರೈಃ |  
     ಶಿಷ್ಯೋ ಭೂತ್ವಾ ಸಮಾಧಿಸ್ಥೋ ದತ್ತ್ವಾ ದೇಯಂ ಗುರೋರಪಿ || ೧೩ ||
-
+

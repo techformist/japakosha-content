@@ -1,29 +1,32 @@
-﻿---
-id: "ashwini-devata-stotram-mahabharatam.kn"
-mantra_id: "ashwini-devata-stotram-mahabharatam"
-language_code: "kn"
-title: "ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: ashwini-devata-stotram-mahabharatam.kn
+mantra_id: ashwini-devata-stotram-mahabharatam
+language_code: kn
+title: ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "ashwini"
-  - "devata"
-  - "stotram"
-  - "(mahabharatam)"
-  - "ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ"
-  - "mahabharatam"
+  - ashwini
+  - devata
+  - stotram
+  - (mahabharatam)
+  - ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ
+  - mahabharatam
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಪ್ರಪೂರ್ವಗೌ ಪೂರ್ವಜೌ ಚಿತ್ರಭಾನೂ  
 ಗಿರಾವಾಶಂಸಾಮಿ ತಪಸಾ ಹ್ಯನಂತೌ|  
@@ -84,4 +87,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಚಕ್ಷುರ್ವಿಹೀನಃ ಪಥಿ ಸಂಪ್ರಮೋಹಃ|  
     ದುರ್ಗೇಽಹಮಸ್ಮಿನ್ಪತಿತೋಽಸ್ಮಿ ಕೂಪೇ  
 ಯುವಾಂ ಶರಣ್ಯೌ ಶರಣಂ ಪ್ರಪದ್ಯೇ || ೧೨ ||
-
+

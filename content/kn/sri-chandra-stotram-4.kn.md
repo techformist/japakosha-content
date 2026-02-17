@@ -1,27 +1,30 @@
-﻿---
-id: "sri-chandra-stotram-4.kn"
-mantra_id: "sri-chandra-stotram-4"
-language_code: "kn"
-title: "೪"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-chandra-stotram-4.kn
+mantra_id: sri-chandra-stotram-4
+language_code: kn
+title: ೪
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "chandra"
-  - "stotram"
-  - "೪"
+  - sri
+  - chandra
+  - stotram
+  - ೪
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಧ್ಯಾನಮ್ –  
 ಶ್ವೇತಾಂಬರಾನ್ವಿತವಪುರ್ವರಶುಭ್ರವರ್ಣಂ  
@@ -47,4 +50,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಕ್ಷಯಾಪಸ್ಮಾರಕುಷ್ಠಾದಿ ತಾಪಜ್ವರನಿವಾರಣಮ್ |  
     ಇದಂ ನಿಶಾಕರಸ್ತೋತ್ರಂ ಯಃ ಪಠೇತ್ ಸತತಂ ನರಃ |  
     ಸೋಪದ್ರವಾತ್ ಪ್ರಮುಚ್ಯೇತ ನಾತ್ರ ಕಾರ್ಯಾ ವಿಚಾರಣಾ || ೬ ||
-
+

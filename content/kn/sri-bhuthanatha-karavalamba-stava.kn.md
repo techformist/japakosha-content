@@ -1,28 +1,31 @@
-﻿---
-id: "sri-bhuthanatha-karavalamba-stava.kn"
-mantra_id: "sri-bhuthanatha-karavalamba-stava"
-language_code: "kn"
-title: "ಶ್ರೀ ಭೂತನಾಥ ಕರಾವಲಂಬ ಸ್ತವಃ"
-deity_theme: ["ayyappa"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-bhuthanatha-karavalamba-stava.kn
+mantra_id: sri-bhuthanatha-karavalamba-stava
+language_code: kn
+title: ಶ್ರೀ ಭೂತನಾಥ ಕರಾವಲಂಬ ಸ್ತವಃ
+deity_theme:
+  - ayyappa
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "bhuthanatha"
-  - "karavalamba"
-  - "stava"
-  - "ಶ್ರೀ ಭೂತನಾಥ ಕರಾವಲಂಬ ಸ್ತವಃ"
+  - sri
+  - bhuthanatha
+  - karavalamba
+  - stava
+  - ಶ್ರೀ ಭೂತನಾಥ ಕರಾವಲಂಬ ಸ್ತವಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ‍ಕಾರರೂಪ ಶಬರೀವರಪೀಠದೀಪ  
 ಶೃಂಗಾರ ರಂಗ ರಮಣೀಯ ಕಲಾಕಲಾಪ |  
@@ -178,4 +181,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಶೋಭಾಯಮಾನ ಸುರಸಂಚಯ ಸಾರ್ವಭೌಮ |  
     ಶ್ರೀಪಾಂಡ್ಯ ಪೂರ್ವಸುಕೃತಾಮೃತ ಪೂರ್ಣಧಾಮ  
 ಶ್ರೀಭೂತನಾಥ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್ || ೩೧ ||
-
+

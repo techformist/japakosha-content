@@ -1,30 +1,33 @@
-﻿---
-id: "agni-stotram-markandeya-puranam.kn"
-mantra_id: "agni-stotram-markandeya-puranam"
-language_code: "kn"
-title: "ಅಗ್ನಿ ಸ್ತೋತ್ರಂ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: agni-stotram-markandeya-puranam.kn
+mantra_id: agni-stotram-markandeya-puranam
+language_code: kn
+title: ಅಗ್ನಿ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "agni"
-  - "stotram"
-  - "(markandeya"
-  - "puranam)"
-  - "ಅಗ್ನಿ ಸ್ತೋತ್ರಂ"
-  - "markandeya"
-  - "puranam"
+  - agni
+  - stotram
+  - (markandeya
+  - puranam)
+  - ಅಗ್ನಿ ಸ್ತೋತ್ರಂ
+  - markandeya
+  - puranam
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶಾಂತಿರುವಾಚ |  
     ಓಂ ನಮಃ ಸರ್ವಭೂತಾನಾಂ ಸಾಧನಾಯ ಮಹಾತ್ಮನೇ |  
@@ -174,4 +177,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಯತ್ತೇ ವಹ್ನೇ ಶಿವಂ ರೂಪಂ ಯೇ ಚ ತೇ ಸಪ್ತ ಹೇತಯಃ |  
     ತಃ ಪಾಹಿ ನಃ ಸ್ತುತೋ ದೇವ ಪಿತಾ ಪುತ್ರಮಿವಾತ್ಮಜಮ್ || ೪೪ ||
-
+

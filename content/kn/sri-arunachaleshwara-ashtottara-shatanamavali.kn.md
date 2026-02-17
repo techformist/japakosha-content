@@ -1,28 +1,31 @@
-﻿---
-id: "sri-arunachaleshwara-ashtottara-shatanamavali.kn"
-mantra_id: "sri-arunachaleshwara-ashtottara-shatanamavali"
-language_code: "kn"
-title: "ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
-deity_theme: ["shiva"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-arunachaleshwara-ashtottara-shatanamavali.kn
+mantra_id: sri-arunachaleshwara-ashtottara-shatanamavali
+language_code: kn
+title: ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+deity_theme:
+  - shiva
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtottara"]
+  content_type:
+    - ashtottara
 keywords:
-  - "sri"
-  - "arunachaleshwara"
-  - "ashtottara"
-  - "shatanamavali"
-  - "ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
+  - sri
+  - arunachaleshwara
+  - ashtottara
+  - shatanamavali
+  - ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಶೋಣಾದ್ರೀಶಾಯ ನಮಃ  
 ಓಂ ಅರುಣಾದ್ರೀಶಾಯ ನಮಃ  
@@ -143,4 +146,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಓಂ ಕಾಲಮೂರ್ತಯೇ ನಮಃ  
 ಓಂ ಸ್ಮೃತಿಮಾತ್ರೇಣಸಂತುಷ್ಟಾಯ ನಮಃ  
 ಓಂ ಶ್ರೀಮದಪೀತಕುಚಾಂಬಾಸಮೇತ ಶ್ರೀಅರುಣಾಚಲೇಶ್ವರಾಯ ನಮಃ || ೧೦೮ ||
-
+

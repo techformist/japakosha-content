@@ -1,28 +1,31 @@
-﻿---
-id: "sri-vishwaksena-ashtottara-shatanamavali.kn"
-mantra_id: "sri-vishwaksena-ashtottara-shatanamavali"
-language_code: "kn"
-title: "ಶ್ರೀ ವಿಷ್ವಕ್ಸೇನಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
-deity_theme: ["vishnu"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-vishwaksena-ashtottara-shatanamavali.kn
+mantra_id: sri-vishwaksena-ashtottara-shatanamavali
+language_code: kn
+title: ಶ್ರೀ ವಿಷ್ವಕ್ಸೇನಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+deity_theme:
+  - vishnu
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtottara"]
+  content_type:
+    - ashtottara
 keywords:
-  - "sri"
-  - "vishwaksena"
-  - "ashtottara"
-  - "shatanamavali"
-  - "ಶ್ರೀ ವಿಷ್ವಕ್ಸೇನಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
+  - sri
+  - vishwaksena
+  - ashtottara
+  - shatanamavali
+  - ಶ್ರೀ ವಿಷ್ವಕ್ಸೇನಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಶ್ರೀಮತ್ಸೂತ್ರವತೀನಾಥಾಯ ನಮಃ |  
     ಓಂ ಶ್ರೀವಿಷ್ವಕ್ಸೇನಾಯ ನಮಃ |  
@@ -146,4 +149,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
     ೧೦೮  
 ಓಂ ಶ್ರೀಮತೇ ವಿಷ್ವಕ್ಸೇನಾಯ ನಮಃ |
     ೧೦೯
-
+

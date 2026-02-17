@@ -1,28 +1,31 @@
-﻿---
-id: "sri-ganesha-hrudaya-kavacham.kn"
-mantra_id: "sri-ganesha-hrudaya-kavacham"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganesha-hrudaya-kavacham.kn
+mantra_id: sri-ganesha-hrudaya-kavacham
+language_code: kn
+title: ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["kavacham"]
+  content_type:
+    - kavacham
 keywords:
-  - "sri"
-  - "ganesha"
-  - "hrudaya"
-  - "kavacham"
-  - "ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ"
+  - sri
+  - ganesha
+  - hrudaya
+  - kavacham
+  - ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮಸ್ತಸ್ಮೈ ಗಣೇಶಾಯ ಸರ್ವವಿಘ್ನವಿನಾಶಿನೇ |  
     ಕಾರ್ಯಾರಂಭೇಷು ಸರ್ವೇಷು ಪೂಜಿತೋ ಯಃ ಸುರೈರಪಿ || ೧ ||
@@ -140,4 +143,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ನ ಪ್ರಕಾಶ್ಯಂ ಮಹೇಶಾನಿ ಕವಚಂ ಯತ್ರ ಕುತ್ರಚಿತ್ |  
     ದಾತವ್ಯಂ ಭಕ್ತಿಯುಕ್ತಾಯ ಗುರುದೇವಪರಾಯ ಚ || ೩೭ ||
-
+

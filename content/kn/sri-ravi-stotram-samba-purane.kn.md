@@ -1,31 +1,34 @@
-﻿---
-id: "sri-ravi-stotram-samba-purane.kn"
-mantra_id: "sri-ravi-stotram-samba-purane"
-language_code: "kn"
-title: "ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)"
-deity_theme: ["surya"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ravi-stotram-samba-purane.kn
+mantra_id: sri-ravi-stotram-samba-purane
+language_code: kn
+title: ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)
+deity_theme:
+  - surya
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "ravi"
-  - "stotram"
-  - "(samba"
-  - "purane)"
-  - "ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)"
-  - "samba"
-  - "purane"
+  - sri
+  - ravi
+  - stotram
+  - (samba
+  - purane)
+  - ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)
+  - samba
+  - purane
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ತ್ವಂ ದೇವ ಋಷಿಕರ್ತಾ ಚ ಪ್ರಕೃತಿಃ ಪುರುಷಃ ಪ್ರಭುಃ |  
     ಛಾಯಾ ಸಂಜ್ಞಾ ಪ್ರತಿಷ್ಠಾಪಿ ನಿರಾಲಂಬೋ ನಿರಾಶ್ರಯಃ || ೧ ||
@@ -56,4 +59,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ದಮನೋಽಸಿ ತ್ವಂ ದುರ್ದಾಂತಃ ಸಾಧ್ಯಾನಾಂ ಚೈವ ಸಾಧಕಃ |  
     ಬಂಧುಃ ಸ್ವಬಂಧುಹೀನಾನಾಂ ನಮಸ್ತೇ ಬಂಧುರೂಪಿಣೇ || ೧೦ ||
-
+

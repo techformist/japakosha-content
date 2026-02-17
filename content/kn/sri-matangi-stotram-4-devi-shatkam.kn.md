@@ -1,31 +1,34 @@
-﻿---
-id: "sri-matangi-stotram-4-devi-shatkam.kn"
-mantra_id: "sri-matangi-stotram-4-devi-shatkam"
-language_code: "kn"
-title: "ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "tantric"
+---
+id: sri-matangi-stotram-4-devi-shatkam.kn
+mantra_id: sri-matangi-stotram-4-devi-shatkam
+language_code: kn
+title: ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: tantric
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "matangi"
-  - "stotram"
-  - "(devi"
-  - "shatkam)"
-  - "ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)"
-  - "devi"
-  - "shatkam"
+  - sri
+  - matangi
+  - stotram
+  - (devi
+  - shatkam)
+  - ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)
+  - devi
+  - shatkam
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಂಬ ಶಶಿಬಿಂಬವದನೇ ಕಂಬುಗ್ರೀವೇ ಕಠೋರಕುಚಕುಂಭೇ |  
     ಅಂಬರಸಮಾನಮಧ್ಯೇ ಶಂಬರರಿಪುವೈರಿದೇವಿ ಮಾಂ ಪಾಹಿ || ೧ ||
@@ -59,4 +62,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಮದಾಲಸಾಂ ಮಂಜುಳವಾಗ್ವಿಲಾಸಾಮ್ |  
     ಮಾಹೇಂದ್ರನೀಲದ್ಯುತಿಕೋಮಲಾಂಗೀಂ  
 ಮಾತಂಗಕನ್ಯಾಂ ಮನಸಾ ಸ್ಮರಾಮಿ || ೯ ||
-
+

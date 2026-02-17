@@ -1,31 +1,34 @@
-﻿---
-id: "visuchika-nivarana-mantra-yoga-vasistham.kn"
-mantra_id: "visuchika-nivarana-mantra-yoga-vasistham"
-language_code: "kn"
-title: "ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: visuchika-nivarana-mantra-yoga-vasistham.kn
+mantra_id: visuchika-nivarana-mantra-yoga-vasistham
+language_code: kn
+title: ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["mantra"]
+  content_type:
+    - mantra
 keywords:
-  - "visuchika"
-  - "nivarana"
-  - "mantra"
-  - "(yoga"
-  - "vasistham)"
-  - "ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)"
-  - "yoga"
-  - "vasistham"
+  - visuchika
+  - nivarana
+  - mantra
+  - (yoga
+  - vasistham)
+  - ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)
+  - yoga
+  - vasistham
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀ ವಸಿಷ್ಠ ಉವಾಚ |  
     ಅಥ ವರ್ಷಸಹಸ್ರೇಣ ತಾಂ ಪಿತಾಮಹ ಆಯಯೌ |  
@@ -92,4 +95,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಗಗನಗಸಿದ್ಧಗೃಹೀತ ಸಿದ್ಧಮಂತ್ರಃ |  
     ಗತ ಉಪಗತಶಕ್ರವಂದ್ಯಮಾನೋ  
 ನಿಜಪುರಮಕ್ಷಯಮಾಯಮುಜ್ಜ್ವಲಶ್ರೀಃ || ೧೮ ||
-
+

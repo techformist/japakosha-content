@@ -1,26 +1,29 @@
-﻿---
-id: "ishavasya-upanishad.kn"
-mantra_id: "ishavasya-upanishad"
-language_code: "kn"
-title: "ಈಶಾವಾಸ್ಯೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: ishavasya-upanishad.kn
+mantra_id: ishavasya-upanishad
+language_code: kn
+title: ಈಶಾವಾಸ್ಯೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
+  content_type:
+    - upanishad
 keywords:
-  - "ishavasya"
-  - "upanishad"
-  - "ಈಶಾವಾಸ್ಯೋಪನಿಷತ್"
+  - ishavasya
+  - upanishad
+  - ಈಶಾವಾಸ್ಯೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಪೂರ್ಣ॒ಮದ॒: ಪೂರ್ಣ॒ಮಿದಂ॒ ಪೂರ್ಣಾ॒ತ್ಪೂರ್ಣ॒ಮುದ॒ಚ್ಯತೇ ।  
 ಪೂರ್ಣ॒ಸ್ಯ ಪೂರ್ಣ॒ಮಾದಾ॒ಯ ಪೂರ್ಣ॒ಮೇವಾವಶಿ॒ಷ್ಯತೇ ॥  
@@ -63,4 +66,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಓಂ ಪೂರ್ಣ॒ಮದ॒: ಪೂರ್ಣ॒ಮಿದಂ॒ ಪೂರ್ಣಾ॒ತ್ಪೂರ್ಣ॒ಮುದ॒ಚ್ಯತೇ ।  
 ಪೂರ್ಣ॒ಸ್ಯ ಪೂರ್ಣ॒ಮಾದಾ॒ಯ ಪೂರ್ಣ॒ಮೇವಾವಶಿ॒ಷ್ಯತೇ ॥  
 ಓಂ ಶಾ॒ಂತಿಃ ಶಾ॒ಂತಿಃ ಶಾ॒ಂತಿಃ ॥
-
+

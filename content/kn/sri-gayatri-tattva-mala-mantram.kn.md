@@ -1,29 +1,33 @@
-﻿---
-id: "sri-gayatri-tattva-mala-mantram.kn"
-mantra_id: "sri-gayatri-tattva-mala-mantram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ"
-deity_theme: ["surya", "universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-gayatri-tattva-mala-mantram.kn
+mantra_id: sri-gayatri-tattva-mala-mantram
+language_code: kn
+title: ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ
+deity_theme:
+  - surya
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["mantra"]
+  content_type:
+    - mantra
 keywords:
-  - "sri"
-  - "gayatri"
-  - "tattva"
-  - "mala"
-  - "mantram"
-  - "ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ"
+  - sri
+  - gayatri
+  - tattva
+  - mala
+  - mantram
+  - ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಸ್ಯ ಶ್ರೀಗಾಯತ್ರೀತತ್ತ್ವಮಾಲಾಮಂತ್ರಸ್ಯ ವಿಶ್ವಾಮಿತ್ರ ಋಷಿಃ ಅನುಷ್ಟುಪ್ ಛಂದಃ ಪರಮಾತ್ಮಾ ದೇವತಾ ಹಲೋ ಬೀಜಾನಿ ಸ್ವರಾಃ ಶಕ್ತಯಃ ಅವ್ಯಕ್ತಂ ಕೀಲಕಂ ಮಮ ಸಮಸ್ತಪಾಪಕ್ಷಯಾರ್ಥೇ ಶ್ರೀಗಾಯತ್ರೀ ಮಾಲಾಮಂತ್ರ ಜಪೇ ವಿನಿಯೋಗಃ 
 ಚತುರ್ವಿಂಶತಿ ತತ್ತ್ವಾನಾಂ ಯದೇಕಂ ತತ್ತ್ವಮುತ್ತಮಮ್ |  
@@ -52,4 +56,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಅಭಕ್ಷ್ಯಭಕ್ಷಣಾತ್ಪೂತೋ ಭವತಿ |
     ಅಗಮ್ಯಾಗಮನಾತ್ಪೂತೋ ಭವತಿ
-
+

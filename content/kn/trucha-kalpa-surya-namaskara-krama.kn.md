@@ -1,29 +1,32 @@
-﻿---
-id: "trucha-kalpa-surya-namaskara-krama.kn"
-mantra_id: "trucha-kalpa-surya-namaskara-krama"
-language_code: "kn"
-title: "ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: trucha-kalpa-surya-namaskara-krama.kn
+mantra_id: trucha-kalpa-surya-namaskara-krama
+language_code: kn
+title: ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "trucha"
-  - "kalpa"
-  - "surya"
-  - "namaskara"
-  - "krama"
-  - "ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ"
+  - trucha
+  - kalpa
+  - surya
+  - namaskara
+  - krama
+  - ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಆಚಮ್ಯ । ಪ್ರಾಣಾನಾಯಮ್ಯ । ದೇಶಕಾಲೌ ಸಂಕೀರ್ತ್ಯ । ಗಣಪತಿ ಪೂಜಾಂ ಕೃತ್ವಾ ।
 ಸಂಕಲ್ಪಃ –  
@@ -77,4 +80,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಹ್ರಾಂ ಹ್ರೀಂ ಹ್ರೂಂ ಹ್ರೈಂ ಹ್ರೌಂ ಹ್ರಃ ಹ್ರಾಂ ಹ್ರೀಂ ಹ್ರೂಂ ಹ್ರೈಂ ಹ್ರೌಂ ಹ್ರಃ ಓಂ । ಮಿತ್ರ ರವಿ ಸೂರ್ಯ ಭಾನು ಖಗ ಪೂಷ ಹಿರಣ್ಯಗರ್ಭ ಮರೀಚ್ಯಾದಿತ್ಯಸವಿತ್ರರ್ಕ ಭಾಸ್ಕರೇಭ್ಯೋ ನಮಃ ।  
 ಶ್ರೀಸವಿತೃಸೂರ್ಯನಾರಾಯಣ ಪರಬ್ರಹ್ಮಣೇ ನಮಃ ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರಾನ್ ಸಮರ್ಪಯಾಮಿ ॥ 22, 23, 24 ॥ (ಇತಿ ತ್ರಿಃ)
 ಅನೇನ ಮಯಾ ಕೃತ ತೃಚಾಕಲ್ಪನಮಸ್ಕಾರೇಣ ಭಗವಾನ್ ಸರ್ವಾತ್ಮಕಃ ಶ್ರೀಪದ್ಮಿನೀ ಉಷಾ ಛಾಯಾ ಸಮೇತ ಶ್ರೀಸವಿತೃಸೂರ್ಯನಾರಾಯಣ ಸುಪ್ರೀತೋ ಸುಪ್ರಸಂನೋ ಭವಂತು ॥
-
+

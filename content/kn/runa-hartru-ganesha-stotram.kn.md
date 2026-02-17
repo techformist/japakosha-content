@@ -1,28 +1,31 @@
-﻿---
-id: "runa-hartru-ganesha-stotram.kn"
-mantra_id: "runa-hartru-ganesha-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಋಣಹರ್ತೃ ಗಣೇಶ ಸ್ತೋತ್ರಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: runa-hartru-ganesha-stotram.kn
+mantra_id: runa-hartru-ganesha-stotram
+language_code: kn
+title: ಶ್ರೀ ಋಣಹರ್ತೃ ಗಣೇಶ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "runa"
-  - "hartru"
-  - "ganesha"
-  - "stotram"
-  - "ಶ್ರೀ ಋಣಹರ್ತೃ ಗಣೇಶ ಸ್ತೋತ್ರಂ"
+  - runa
+  - hartru
+  - ganesha
+  - stotram
+  - ಶ್ರೀ ಋಣಹರ್ತೃ ಗಣೇಶ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 || ಅಥ ಸ್ತೋತ್ರಮ್ |
     ಸೃಷ್ಟ್ಯಾದೌ ಬ್ರಹ್ಮಣಾ ಸಮ್ಯಕ್ಪೂಜಿತಃ ಫಲಸಿದ್ಧಯೇ |  
@@ -93,4 +96,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
     || ಮಂತ್ರಃ ||
 
 ಓಂ ಗಣೇಶ ಋಣಂ ಛಿಂದಿ ವರೇಣ್ಯಂ ಹುಂ ನಮಃ ಫಟ್ 
-
+

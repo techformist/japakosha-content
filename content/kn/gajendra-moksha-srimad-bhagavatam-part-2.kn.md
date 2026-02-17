@@ -1,31 +1,34 @@
-﻿---
-id: "gajendra-moksha-srimad-bhagavatam-part-2.kn"
-mantra_id: "gajendra-moksha-srimad-bhagavatam-part-2"
-language_code: "kn"
-title: "ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೨"
-deity_theme: ["vishnu"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: gajendra-moksha-srimad-bhagavatam-part-2.kn
+mantra_id: gajendra-moksha-srimad-bhagavatam-part-2
+language_code: kn
+title: ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೨
+deity_theme:
+  - vishnu
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "gajendra"
-  - "moksha"
-  - "(srimad"
-  - "bhagavatam)"
-  - "part"
-  - "ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೨"
-  - "srimad"
-  - "bhagavatam"
+  - gajendra
+  - moksha
+  - (srimad
+  - bhagavatam)
+  - part
+  - ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೨
+  - srimad
+  - bhagavatam
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀಬಾದರಾಯಣಿರುವಾಚ –  
 ಏವಂ ವ್ಯವಸಿತೋ ಬುದ್ಧ್ಯಾ ಸಮಾಧಾಯ ಮನೋ ಹೃದಿ |  
@@ -168,4 +171,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ತಂಗ್ರಾಹಮಾಶು ಸರಸಃ ಕೃಪಯೋಜ್ಜಹಾರ |  
     ಗ್ರಾಹಾದ್ವಿಪಾಟಿತಮುಖಾದರಿಣಾ ಗಜೇಂದ್ರಂ  
 ಸಂಪಶ್ಯತಾಂ ಹರಿರಮೂಮುಚದುಸ್ರಿಯಾಣಾಮ್ || ೩೩ ||
-
+

@@ -1,27 +1,30 @@
-﻿---
-id: "sri-ganapathi-mangalashtakam.kn"
-mantra_id: "sri-ganapathi-mangalashtakam"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganapathi-mangalashtakam.kn
+mantra_id: sri-ganapathi-mangalashtakam
+language_code: kn
+title: ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtakam"]
+  content_type:
+    - ashtakam
 keywords:
-  - "sri"
-  - "ganapathi"
-  - "mangalashtakam"
-  - "ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ"
+  - sri
+  - ganapathi
+  - mangalashtakam
+  - ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಗಜಾನನಾಯ ಗಾಂಗೇಯಸಹಜಾಯ ಸದಾತ್ಮನೇ |  
     ಗೌರೀಪ್ರಿಯತನೂಜಾಯ ಗಣೇಶಾಯಾಸ್ತು ಮಂಗಳಮ್ || ೧ ||
@@ -49,4 +52,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಶ್ಲೋಕಾಷ್ಟಕಮಿದಂ ಪುಣ್ಯಂ ಮಂಗಳಪ್ರದಮಾದರಾತ್ |  
     ಪಠಿತವ್ಯಂ ಪ್ರಯತ್ನೇನ ಸರ್ವವಿಘ್ನನಿವೃತ್ತಯೇ || ೯ ||
-
+

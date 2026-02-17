@@ -1,27 +1,30 @@
-﻿---
-id: "sri-matangi-stotram-3.kn"
-mantra_id: "sri-matangi-stotram-3"
-language_code: "kn"
-title: "೩"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "tantric"
+---
+id: sri-matangi-stotram-3.kn
+mantra_id: sri-matangi-stotram-3
+language_code: kn
+title: ೩
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: tantric
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "matangi"
-  - "stotram"
-  - "೩"
+  - sri
+  - matangi
+  - stotram
+  - ೩
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮಾಮಿ ವರದಾಂ ದೇವೀಂ ಸುಮುಖೀಂ ಸರ್ವಸಿದ್ಧಿದಾಮ್ |  
     ಸೂರ್ಯಕೋಟಿನಿಭಾಂ ದೇವೀಂ ವಹ್ನಿರೂಪಾಂ ವ್ಯವಸ್ಥಿತಾಮ್ || ೧ ||
@@ -49,4 +52,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಪೌರ್ಣಮಾಸ್ಯಾಮಮಾವಸ್ಯಾಂ ಶನಿಭೌಮದಿನೇ ತಥಾ |  
     ಸತತಂ ವಾ ಪಠೇದ್ಯಸ್ತು ತಸ್ಯ ಸಿದ್ಧಿ ಪದೇ ಪದೇ || ೯ ||
-
+

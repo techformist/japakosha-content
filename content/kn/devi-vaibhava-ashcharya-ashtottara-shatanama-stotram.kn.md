@@ -1,30 +1,33 @@
-﻿---
-id: "devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.kn"
-mantra_id: "devi-vaibhava-ashcharya-ashtottara-shatanama-stotram"
-language_code: "kn"
-title: "ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.kn
+mantra_id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram
+language_code: kn
+title: ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtottara"]
+  content_type:
+    - ashtottara
 keywords:
-  - "devi"
-  - "vaibhava"
-  - "ashcharya"
-  - "ashtottara"
-  - "shatanama"
-  - "stotram"
-  - "ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ"
+  - devi
+  - vaibhava
+  - ashcharya
+  - ashtottara
+  - shatanama
+  - stotram
+  - ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಸ್ಯ ಶ್ರೀ ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತದಿವ್ಯನಾಮ ಸ್ತೋತ್ರಮಹಾಮಂತ್ರಸ್ಯ ಆನಂದಭೈರವ ಋಷಿಃ, ಅನುಷ್ಟುಪ್ ಛಂದಃ, ಶ್ರೀ ಆನಂದಭೈರವೀ ಶ್ರೀಮಹಾತ್ರಿಪುರಸುಂದರೀ ದೇವತಾ, ಐಂ ಬೀಜಂ, ಹ್ರೀಂ ಶಕ್ತಿಃ, ಶ್ರೀಂ ಕೀಲಕಂ, ಮಮ ಶ್ರೀಆನಂದಭೈರವೀ ಶ್ರೀಮಹಾತ್ರಿಪುರಸುಂದರೀ ಪ್ರಸಾದಸಿದ್ಧ್ಯರ್ಥೇ ಜಪೇ ವಿನಿಯೋಗಃ 
 ಧ್ಯಾನಮ್ |  
@@ -143,4 +146,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 \-ಮಂಕುಶಪಾಶೇಕ್ಷುಕೋದಂಡಶರಾಮ್ |  
     ಪಂಕಜಮಧ್ಯನಿಷಂಣಾಂ  
 ಪಂಕೇರುಹಲೋಚನಾಂ ಪರಾಂ ವಂದೇ |
-    
+    

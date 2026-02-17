@@ -1,28 +1,31 @@
-﻿---
-id: "ganesha-pratah-smarana-stotram.kn"
-mantra_id: "ganesha-pratah-smarana-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: ganesha-pratah-smarana-stotram.kn
+mantra_id: ganesha-pratah-smarana-stotram
+language_code: kn
+title: ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "ganesha"
-  - "pratah"
-  - "smarana"
-  - "stotram"
-  - "ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ"
+  - ganesha
+  - pratah
+  - smarana
+  - stotram
+  - ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಪ್ರಾತಃ ಸ್ಮರಾಮಿ ಗಣನಾಥಮನಾಥಬಂಧುಂ  
 ಸಿಂದೂರಪೂರಪರಿಶೋಭಿತಗಂಡಯುಗ್ಮಮ್ |  
@@ -41,4 +44,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಶ್ಲೋಕತ್ರಯಮಿದಂ ಪುಣ್ಯಂ ಸದಾ ಸಾಮ್ರಾಜ್ಯದಾಯಕಮ್ |  
     ಪ್ರಾತರುತ್ಥಾಯ ಸತತಂ ಯಃ ಪಠೇತ್ಪ್ರಯತಃ ಪುಮಾನ್ || ೪ ||
-
+

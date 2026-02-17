@@ -1,25 +1,28 @@
-﻿---
-id: "kenopanishad.kn"
-mantra_id: "kenopanishad"
-language_code: "kn"
-title: "ಕೇನೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: kenopanishad.kn
+mantra_id: kenopanishad
+language_code: kn
+title: ಕೇನೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "kenopanishad"
-  - "ಕೇನೋಪನಿಷತ್"
+  - kenopanishad
+  - ಕೇನೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 || ಶಾಂತಿ ಪಾಠಃ ||
 
@@ -88,4 +91,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ತೇಽಗ್ನಿಮಬ್ರುವಞ್ಜಾತವೇದ ಏತದ್ವಿಜಾನೀಹಿ  
 ಕಿಮೇತದ್ಯಕ್ಷಮಿತಿ ತಥೇತಿ || ೩ ||
 
-ತದಭ್ಯದ್ರವತ್ತಮಭ್ಯವದತ್ಕೋಽಸೀತ�
+ತದಭ್ಯದ್ರವತ್ತಮಭ್ಯವದತ್ಕೋಽಸೀತ�

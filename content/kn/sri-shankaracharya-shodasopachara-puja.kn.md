@@ -1,28 +1,31 @@
-﻿---
-id: "sri-shankaracharya-shodasopachara-puja.kn"
-mantra_id: "sri-shankaracharya-shodasopachara-puja"
-language_code: "kn"
-title: "ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-shankaracharya-shodasopachara-puja.kn
+mantra_id: sri-shankaracharya-shodasopachara-puja
+language_code: kn
+title: ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["puja-vidhi"]
+  content_type:
+    - puja-vidhi
 keywords:
-  - "sri"
-  - "shankaracharya"
-  - "shodasopachara"
-  - "puja"
-  - "ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ"
+  - sri
+  - shankaracharya
+  - shodasopachara
+  - puja
+  - ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 **ಪುನಃ ಸಂಕಲ್ಪಂ –**  
 ಪೂರ್ವೋಕ್ತ ಏವಂ ಗುಣ ವಿಶೇಷಣ ವಿಶಿಷ್ಟಾಯಾಂ ಶುಭತಿಥೌ ವೈದಿಕಮಾರ್ಗ ಪ್ರತಿಷ್ಠಾಪಕಾನಾಂ ಜಗದ್ಗುರೂಣಾಂ ಶ್ರೀಶಂಕರಭಗವತ್ಪಾದಪೂಜಾಂ ಕರಿಷ್ಯೇ 
@@ -186,4 +189,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ನಾರಾಯಣಾಯೇತಿ ಸಮರ್ಪಯಾಮಿ |
     ಅನಯಾ ಪೂಜಯಾ ಸರ್ವದೇವಾತ್ಮಕಃ ಭಗವಾನ್ ಶ್ರೀಜಗದ್ಗುರುಃ ಪ್ರೀಯತಾಮ್ |
     ಓಂ ತತ್ ಸತ್ |
-    
+    

@@ -1,25 +1,28 @@
-﻿---
-id: "paramadvaitham.kn"
-mantra_id: "paramadvaitham"
-language_code: "kn"
-title: "ಪರಮಾದ್ವೈತಂ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: paramadvaitham.kn
+mantra_id: paramadvaitham
+language_code: kn
+title: ಪರಮಾದ್ವೈತಂ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "paramadvaitham"
-  - "ಪರಮಾದ್ವೈತಂ"
+  - paramadvaitham
+  - ಪರಮಾದ್ವೈತಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಿರ್ವಿಕಾರಾಂ ನಿರಾಕಾರಂ ನಿರಂಜನಮನಾಮಯಮ್ |  
     ಆದ್ಯಂತರಹಿತಂ ಪೂರ್ಣಂ ಬ್ರಹ್ಮೈವಾಹಂ ನ ಸಂಶಯಃ || ೧ ||
@@ -35,4 +38,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಸುಸೂಕ್ಷ್ಮಮಸ್ತಿತಾಮಾತ್ರಂ ನಿರ್ವಿಕಲ್ಪಂ ಮಹತ್ತಮಮ್ |  
     ಕೇವಲಂ ಪರಮಾದ್ವೈತಂ ಬ್ರಹ್ಮೈವಾಹಂ ನ ಸಂಶಯಃ || ೫ ||
-
+

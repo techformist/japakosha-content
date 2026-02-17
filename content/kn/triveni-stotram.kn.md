@@ -1,26 +1,29 @@
-﻿---
-id: "triveni-stotram.kn"
-mantra_id: "triveni-stotram"
-language_code: "kn"
-title: "ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: triveni-stotram.kn
+mantra_id: triveni-stotram
+language_code: kn
+title: ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "triveni"
-  - "stotram"
-  - "ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ"
+  - triveni
+  - stotram
+  - ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಮುಕ್ತಾಮಯಾಲಂಕೃತಮುದ್ರವೇಣೀ  
 ಭಕ್ತಾಭಯತ್ರಾಣಸುಬದ್ಧವೇಣೀ |  
@@ -74,4 +77,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ತ್ರಿವೇಣೀದಶಕಂ ಸ್ತೋತ್ರಂ ಪ್ರಾತರ್ನಿತ್ಯಂ ಪಠೇಂನರಃ |  
     ತಸ್ಯ ವೇಣೀ ಪ್ರಸಂನಾ ಸ್ಯಾದ್ವಿಷ್ಣುಲೋಕಂ ಸ ಗಚ್ಛತಿ || ೧೧ ||
-
+

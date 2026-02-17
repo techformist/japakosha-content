@@ -1,28 +1,32 @@
-﻿---
-id: "sri-gayatri-shapa-vimochanam.kn"
-mantra_id: "sri-gayatri-shapa-vimochanam"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ"
-deity_theme: ["surya", "universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-gayatri-shapa-vimochanam.kn
+mantra_id: sri-gayatri-shapa-vimochanam
+language_code: kn
+title: ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ
+deity_theme:
+  - surya
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "gayatri"
-  - "shapa"
-  - "vimochanam"
-  - "ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ"
+  - sri
+  - gayatri
+  - shapa
+  - vimochanam
+  - ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ೧. ಬ್ರಹ್ಮ ಶಾಪವಿಮೋಚನಂ –  
 ಅಸ್ಯ ಶ್ರೀಬ್ರಹ್ಮಶಾಪವಿಮೋಚನ ಮಂತ್ರಸ್ಯ ನಿಗ್ರಹಾನುಗ್ರಹಕರ್ತಾ ಪ್ರಜಾಪತಿರೃಷಿಃ, ಕಾಮಧುಗಾಯತ್ರೀ ಛಂದಃ, ಭುಕ್ತಿಮುಕ್ತಿಪ್ರದಾ ಬ್ರಹ್ಮಶಾಪವಿಮೋಚನೀ ಗಾಯತ್ರೀಶಕ್ತಿಃ, ಸವಿತಾ ದೇವತಾ, ಬ್ರಹ್ಮಶಾಪವಿಮೋಚನಾರ್ಥೇ ಜಪೇ ವಿನಿಯೋಗಃ |
@@ -49,4 +53,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಅಹೋ ವಿಷ್ಣುಮಹೇಶೇಶೇ ದಿವ್ಯೇ ಸಿದ್ಧೇ ಸರಸ್ವತಿ |  
     ಅಜರೇ ಅಮರೇ ಚೈವ ಬ್ರಹ್ಮಯೋನಿರ್ನಮೋಽಸ್ತು ತೇ || ೨ ||
-
+

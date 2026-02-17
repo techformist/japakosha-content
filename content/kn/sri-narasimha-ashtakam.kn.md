@@ -1,27 +1,30 @@
-﻿---
-id: "sri-narasimha-ashtakam.kn"
-mantra_id: "sri-narasimha-ashtakam"
-language_code: "kn"
-title: "ಶ್ರೀ ನೃಸಿಂಹಾಷ್ಟಕಂ"
-deity_theme: ["narasimha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-narasimha-ashtakam.kn
+mantra_id: sri-narasimha-ashtakam
+language_code: kn
+title: ಶ್ರೀ ನೃಸಿಂಹಾಷ್ಟಕಂ
+deity_theme:
+  - narasimha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtakam"]
+  content_type:
+    - ashtakam
 keywords:
-  - "sri"
-  - "narasimha"
-  - "ashtakam"
-  - "ಶ್ರೀ ನೃಸಿಂಹಾಷ್ಟಕಂ"
+  - sri
+  - narasimha
+  - ashtakam
+  - ಶ್ರೀ ನೃಸಿಂಹಾಷ್ಟಕಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀಮದಕಲಂಕ ಪರಿಪೂರ್ಣ ಶಶಿಕೋಟಿ-  
 -ಶ್ರೀಧರ ಮನೋಹರ ಸಟಾಪಟಲ ಕಾಂತ |  
@@ -67,4 +70,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಕಾಮದಮಶೇಷದುರಿತಾಮಯರಿಪುಘ್ನಮ್ |  
     ಯಃ ಪಠತಿ ಸಂತತಮಶೇಷನಿಲಯಂ ತೇ  
 ಗಚ್ಛತಿ ಪದಂ ಸ ನರಸಿಂಹ ನರಸಿಂಹ || ೯ ||
-
+

@@ -1,28 +1,31 @@
-﻿---
-id: "narada-kruta-ganapati-stotram.kn"
-mantra_id: "narada-kruta-ganapati-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: narada-kruta-ganapati-stotram.kn
+mantra_id: narada-kruta-ganapati-stotram
+language_code: kn
+title: ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "narada"
-  - "kruta"
-  - "ganapati"
-  - "stotram"
-  - "ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)"
+  - narada
+  - kruta
+  - ganapati
+  - stotram
+  - ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಾರದ ಉವಾಚ |  
     ಭೋ ಗಣೇಶ ಸುರಶ್ರೇಷ್ಠ ಲಂಬೋದರ ಪರಾತ್ಪರ |  
@@ -55,4 +58,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಯಶಸ್ವಿನಂ ಚ ವಿದ್ವಾಂಸಂ ಧನಿನಂ ಚಿರಜೀವಿನಮ್ |  
     ವಿಘ್ನನಾಶೋ ಭವೇತ್ತಸ್ಯ ಮಹೈಶ್ವರ್ಯಂ ಯಶೋಽಮಲಮ್ |  
     ಇಹೈವ ಚ ಸುಖಂ ಭಕ್ತ್ಯಾ ಅಂತೇ ಯಾತಿ ಹರೇಃ ಪದಮ್ || ೧೦ ||
-
+

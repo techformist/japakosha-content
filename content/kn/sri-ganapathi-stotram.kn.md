@@ -1,27 +1,30 @@
-﻿---
-id: "sri-ganapathi-stotram.kn"
-mantra_id: "sri-ganapathi-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganapathi-stotram.kn
+mantra_id: sri-ganapathi-stotram
+language_code: kn
+title: ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "ganapathi"
-  - "stotram"
-  - "ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ"
+  - sri
+  - ganapathi
+  - stotram
+  - ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಜೇತುಂ ಯಸ್ತ್ರಿಪುರಂ ಹರೇಣ ಹರಿಣಾ ವ್ಯಾಜಾದ್ಬಲಿಂ ಬಧ್ನತಾ  
 ಸ್ತ್ರಷ್ಟುಂ ವಾರಿಭವೋದ್ಭವೇನ ಭುವನಂ ಶೇಷೇಣ ಧರ್ತುಂ ಧರಮ್ |  
@@ -87,4 +90,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಯದಕ್ಷರ ಪದ ಭ್ರಷ್ಟಂ ಮಾತ್ರಾಹೀನಂ ಚ ಯದ್ಭವೇತ್ |  
     ತತ್ಸರ್ವಂ ಕ್ಷಮ್ಯತಾಂ ದೇವ ಪ್ರಸೀದ ಪರಮೇಶ್ವರ || ೧೯ ||
-
+

@@ -1,29 +1,32 @@
-﻿---
-id: "sri-surya-pratah-smarana-stotram.kn"
-mantra_id: "sri-surya-pratah-smarana-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಸೂರ್ಯ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-surya-pratah-smarana-stotram.kn
+mantra_id: sri-surya-pratah-smarana-stotram
+language_code: kn
+title: ಶ್ರೀ ಸೂರ್ಯ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "surya"
-  - "pratah"
-  - "smarana"
-  - "stotram"
-  - "ಶ್ರೀ ಸೂರ್ಯ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ"
+  - sri
+  - surya
+  - pratah
+  - smarana
+  - stotram
+  - ಶ್ರೀ ಸೂರ್ಯ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಪ್ರಾತಃ ಸ್ಮರಾಮಿ ಖಲು ತತ್ಸವಿತುರ್ವರೇಣ್ಯಂ  
 ರೂಪಂ ಹಿ ಮಂಡಲಮೃಚೋಽಥ ತನುರ್ಯಜೂಂಷಿ |  
@@ -42,4 +45,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಶ್ಲೋಕತ್ರಯಮಿದಂ ಭಾನೋಃ ಪ್ರಾತಃ ಪ್ರಾತಃ ಪಠೇತ್ತು ಯಃ |  
     ಸ ಸರ್ವವ್ಯಾಧಿನಿರ್ಮುಕ್ತಃ ಪರಂ ಸುಖಮವಾಪ್ನುಯಾತ್ || ೪ ||
-
+

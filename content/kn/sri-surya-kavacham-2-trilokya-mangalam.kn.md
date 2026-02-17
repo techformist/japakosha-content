@@ -1,31 +1,34 @@
-﻿---
-id: "sri-surya-kavacham-2-trilokya-mangalam.kn"
-mantra_id: "sri-surya-kavacham-2-trilokya-mangalam"
-language_code: "kn"
-title: "೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)"
-deity_theme: ["surya"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-surya-kavacham-2-trilokya-mangalam.kn
+mantra_id: sri-surya-kavacham-2-trilokya-mangalam
+language_code: kn
+title: ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)
+deity_theme:
+  - surya
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["kavacham"]
+  content_type:
+    - kavacham
 keywords:
-  - "sri"
-  - "surya"
-  - "kavacham"
-  - "(trilokya"
-  - "mangalam)"
-  - "೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)"
-  - "trilokya"
-  - "mangalam"
+  - sri
+  - surya
+  - kavacham
+  - (trilokya
+  - mangalam)
+  - ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)
+  - trilokya
+  - mangalam
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀಸೂರ್ಯ ಉವಾಚ |  
     ಸಾಂಬ ಸಾಂಬ ಮಹಾಬಾಹೋ ಶೃಣು ಮೇ ಕವಚಂ ಶುಭಮ್ |  
@@ -82,4 +85,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಅಜ್ಞಾತ್ವಾ ಕವಚಂ ದಿವ್ಯಂ ಯೋ ಜಪೇತ್ ಸೂರ್ಯಮುತ್ತಮಮ್ |  
     ಸಿದ್ಧಿರ್ನ ಜಾಯತೇ ತಸ್ಯ ಕಲ್ಪಕೋಟಿಶತೈರಪಿ || ೧೮ ||
-
+

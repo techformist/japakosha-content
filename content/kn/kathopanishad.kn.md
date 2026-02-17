@@ -1,26 +1,29 @@
-﻿---
-id: "kathopanishad.kn"
-mantra_id: "kathopanishad"
-language_code: "kn"
-title: "ಕಠೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: kathopanishad.kn
+mantra_id: kathopanishad
+language_code: kn
+title: ಕಠೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "katopanishad"
-  - "ಕಠೋಪನಿಷತ್"
-  - "kathopanishad"
+  - katopanishad
+  - ಕಠೋಪನಿಷತ್
+  - kathopanishad
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಸಹ ನಾವವತು |
     ಸಹ ನೌ ಭುನಕ್ತು
@@ -527,4 +530,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಓಂ ಸಹ ನಾವವತು |
     ಸಹ ನೌ ಭುನಕ್ತು
 ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ |
-    
+    

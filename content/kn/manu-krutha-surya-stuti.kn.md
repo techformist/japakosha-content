@@ -1,28 +1,31 @@
-﻿---
-id: "manu-krutha-surya-stuti.kn"
-mantra_id: "manu-krutha-surya-stuti"
-language_code: "kn"
-title: "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)"
-deity_theme: ["surya"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: manu-krutha-surya-stuti.kn
+mantra_id: manu-krutha-surya-stuti
+language_code: kn
+title: ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)
+deity_theme:
+  - surya
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stuti"]
+  content_type:
+    - stuti
 keywords:
-  - "manu"
-  - "krutha"
-  - "surya"
-  - "stuti"
-  - "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)"
+  - manu
+  - krutha
+  - surya
+  - stuti
+  - ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಮನುರುವಾಚ |  
     ನಮೋ ನಮೋ ವರೇಣ್ಯಾಯ ವರದಾಯಾಽಂಶುಮಾಲಿನೇ |  
@@ -45,4 +48,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ತ್ವಮೋಂಕಾರೋ ವಷಟ್ಕಾರಃ ಸ್ವಧಾ ಸ್ವಾಹಾ ತ್ವಮೇವ ಹಿ |  
     ತ್ವಾಮೃತೇ ಪರಮಾತ್ಮಾನಂ ನ ತತ್ಪಶ್ಯಾಮಿ ದೈವತಮ್ || ೭ ||
-
+

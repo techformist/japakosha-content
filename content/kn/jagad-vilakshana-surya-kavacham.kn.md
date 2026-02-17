@@ -1,28 +1,31 @@
-﻿---
-id: "jagad-vilakshana-surya-kavacham.kn"
-mantra_id: "jagad-vilakshana-surya-kavacham"
-language_code: "kn"
-title: "೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)"
-deity_theme: ["surya"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: jagad-vilakshana-surya-kavacham.kn
+mantra_id: jagad-vilakshana-surya-kavacham
+language_code: kn
+title: ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)
+deity_theme:
+  - surya
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["kavacham"]
+  content_type:
+    - kavacham
 keywords:
-  - "jagad"
-  - "vilakshana"
-  - "surya"
-  - "kavacham"
-  - "೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)"
+  - jagad
+  - vilakshana
+  - surya
+  - kavacham
+  - ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಬೃಹಸ್ಪತಿರುವಾಚ |  
     ಇಂದ್ರ ಶೃಣು ಪ್ರವಕ್ಷ್ಯಾಮಿ ಕವಚಂ ಪರಮಾದ್ಭುತಮ್ |  
@@ -70,4 +73,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಇದಂ ಕವಚಮಜ್ಞಾತ್ವಾ ಯೋ ಮೂಢೋ ಭಾಸ್ಕರಂ ಯಜೇತ್ |  
     ದಶಲಕ್ಷಪ್ರಜಪ್ತೋಽಪಿ ಮಂತ್ರಸಿದ್ಧಿರ್ನ ಜಾಯತೇ || ೧೫ ||
-
+

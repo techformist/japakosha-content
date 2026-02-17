@@ -1,27 +1,31 @@
-﻿---
-id: "sundarakanda-sankalpam-dhyanam.kn"
-mantra_id: "sundarakanda-sankalpam-dhyanam"
-language_code: "kn"
-title: "ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ"
-deity_theme: ["hanuman", "rama"]
-purpose: ["devotion"]
-tradition: "puranic"
+---
+id: sundarakanda-sankalpam-dhyanam.kn
+mantra_id: sundarakanda-sankalpam-dhyanam
+language_code: kn
+title: 'ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ'
+deity_theme:
+  - hanuman
+  - rama
+purpose:
+  - devotion
+tradition: puranic
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sundarakanda"
-  - "sankalpam"
-  - "dhyanam"
-  - "ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ"
+  - sundarakanda
+  - sankalpam
+  - dhyanam
+  - 'ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ'
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 **ಸಂಕಲ್ಪಂ –**
 ಗುರುರ್ಬ್ರಹ್ಮಾ ಗುರುರ್ವಿಷ್ಣುಃ ಗುರುರ್ದೇವೋ ಮಹೇಶ್ವರಃ |  
@@ -48,4 +52,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 **ಶ್ರೀ ವಾಲ್ಮೀಕಿ ಪ್ರಾರ್ಥನಾ –**  
 ಕೂಜಂತಂ ರಾಮ ರಾಮೇತಿ ಮಧುರಂ ಮಧುರಾಕ್ಷರಮ್ |  
     ಆರುಹ್ಯ ಕವಿತಾಶಾಖಾಂ ವಂದೇ ವಾಲ್ಮೀಕಿಕೋಕಿಲಮ್ |
-    
+    

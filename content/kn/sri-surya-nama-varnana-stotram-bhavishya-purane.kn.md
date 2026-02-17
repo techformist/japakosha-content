@@ -1,33 +1,36 @@
-﻿---
-id: "sri-surya-nama-varnana-stotram-bhavishya-purane.kn"
-mantra_id: "sri-surya-nama-varnana-stotram-bhavishya-purane"
-language_code: "kn"
-title: "ಶ್ರೀ ಸೂರ್ಯ ನಾಮವರ್ಣನ ಸ್ತೋತ್ರಂ (ಭವಿಷ್ಯಪುರಾಣೇ)"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-surya-nama-varnana-stotram-bhavishya-purane.kn
+mantra_id: sri-surya-nama-varnana-stotram-bhavishya-purane
+language_code: kn
+title: ಶ್ರೀ ಸೂರ್ಯ ನಾಮವರ್ಣನ ಸ್ತೋತ್ರಂ (ಭವಿಷ್ಯಪುರಾಣೇ)
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "surya"
-  - "nama"
-  - "varnana"
-  - "stotram"
-  - "(bhavishya"
-  - "purane)"
-  - "ಶ್ರೀ ಸೂರ್ಯ ನಾಮವರ್ಣನ ಸ್ತೋತ್ರಂ (ಭವಿಷ್ಯಪುರಾಣೇ)"
-  - "bhavishya"
-  - "purane"
+  - sri
+  - surya
+  - nama
+  - varnana
+  - stotram
+  - (bhavishya
+  - purane)
+  - ಶ್ರೀ ಸೂರ್ಯ ನಾಮವರ್ಣನ ಸ್ತೋತ್ರಂ (ಭವಿಷ್ಯಪುರಾಣೇ)
+  - bhavishya
+  - purane
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಬ್ರಹ್ಮೋವಾಚ |  
     ನಾಮಭಿಃ ಸಂಸ್ತುತೋ ದೇವೋ ಯೈರರ್ಕಃ ಪರಿತುಷ್ಯತಿ |  
@@ -76,4 +79,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಏತಜ್ಜಪ್ಯಂ ರಹಸ್ಯಂ ಚ ಸಂಧ್ಯೋಪಾಸನಮೇವ ಚ |  
     ಏತೇನ ಜಪಮಾತ್ರೇಣ ನರಃ ಪಾಪಾತ್ ಪ್ರಮುಚ್ಯತೇ || ೧೬ ||
-
+

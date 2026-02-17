@@ -1,31 +1,34 @@
-﻿---
-id: "sri-suryarya-stotram-yajnavalkya-krutham.kn"
-mantra_id: "sri-suryarya-stotram-yajnavalkya-krutham"
-language_code: "kn"
-title: "ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-suryarya-stotram-yajnavalkya-krutham.kn
+mantra_id: sri-suryarya-stotram-yajnavalkya-krutham
+language_code: kn
+title: ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "suryarya"
-  - "stotram"
-  - "(yajnavalkya"
-  - "krutham)"
-  - "ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)"
-  - "yajnavalkya"
-  - "krutham"
+  - sri
+  - suryarya
+  - stotram
+  - (yajnavalkya
+  - krutham)
+  - ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)
+  - yajnavalkya
+  - krutham
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶುಕತುಂಡಚ್ಛವಿಸವಿತುಶ್ಚಂಡರುಚೇಃ ಪುಂಡರೀಕವನಬಂಧೋಃ |  
     ಮಂಡಲಮುದಿತಂ ವಂದೇ ಕುಂಡಲಮಾಖಂಡಲಾಶಾಯಾಃ || ೧ ||
@@ -62,4 +65,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ನಿಧಿರೇಷ ದರಿದ್ರಾಣಾಂ ರೋಗಿಣಾಂ ಪರಮೌಷಧಮ್ |  
     ಸಿದ್ಧಿಃ ಸಕಲಕಾರ್ಯಾಣಾಂ ಗಾಥೇಯಂ ಸಂಸ್ಮೃತಾ ರವೇಃ || ೧೨ ||
-
+

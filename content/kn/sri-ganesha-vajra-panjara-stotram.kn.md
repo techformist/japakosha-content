@@ -1,29 +1,32 @@
-﻿---
-id: "sri-ganesha-vajra-panjara-stotram.kn"
-mantra_id: "sri-ganesha-vajra-panjara-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣೇಶ ವಜ್ರಪಂಜರ ಸ್ತೋತ್ರಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganesha-vajra-panjara-stotram.kn
+mantra_id: sri-ganesha-vajra-panjara-stotram
+language_code: kn
+title: ಶ್ರೀ ಗಣೇಶ ವಜ್ರಪಂಜರ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "ganesha"
-  - "vajra"
-  - "panjara"
-  - "stotram"
-  - "ಶ್ರೀ ಗಣೇಶ ವಜ್ರಪಂಜರ ಸ್ತೋತ್ರಂ"
+  - sri
+  - ganesha
+  - vajra
+  - panjara
+  - stotram
+  - ಶ್ರೀ ಗಣೇಶ ವಜ್ರಪಂಜರ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಧ್ಯಾನಮ್ |  
     ತ್ರಿನೇತ್ರಂ ಗಜಾಸ್ಯಂ ಚತುರ್ಬಾಹುಧಾರಂ  
@@ -102,4 +105,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಏವಮುಕ್ತ್ವಾ ಗಣೇಶಾನೋಽಂತರ್ದಧೇ ಮುನಿಸತ್ತಮ |  
     ಶಿವೋ ದೇವಾದಿಭಿರ್ಯುಕ್ತೋ ಹರ್ಷಿತಃ ಸಂಬಭೂವ ಹ || ೨೫ ||
-
+

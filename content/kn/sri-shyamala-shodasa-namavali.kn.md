@@ -1,28 +1,31 @@
-﻿---
-id: "sri-shyamala-shodasa-namavali.kn"
-mantra_id: "sri-shyamala-shodasa-namavali"
-language_code: "kn"
-title: "ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-shyamala-shodasa-namavali.kn
+mantra_id: sri-shyamala-shodasa-namavali
+language_code: kn
+title: ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "shyamala"
-  - "shodasa"
-  - "namavali"
-  - "ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ"
+  - sri
+  - shyamala
+  - shodasa
+  - namavali
+  - ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಸಂಗೀತಯೋಗಿನ್ಯೈ ನಮಃ |  
     ಓಂ ಶ್ಯಾಮಾಯೈ ನಮಃ |  
@@ -43,4 +46,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
     ಓಂ ಕದಂಬವನವಾಸಿನ್ಯೈ ನಮಃ |  
     ಓಂ ಸದಾಮದಾಯೈ ನಮಃ |
     ೧೬
-
+

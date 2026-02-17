@@ -1,27 +1,30 @@
-﻿---
-id: "sri-matangi-kavacham-3.kn"
-mantra_id: "sri-matangi-kavacham-3"
-language_code: "kn"
-title: "೩"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "tantric"
+---
+id: sri-matangi-kavacham-3.kn
+mantra_id: sri-matangi-kavacham-3
+language_code: kn
+title: ೩
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: tantric
 tags:
-  content_type: ["kavacham"]
+  content_type:
+    - kavacham
 keywords:
-  - "sri"
-  - "matangi"
-  - "kavacham"
-  - "೩"
+  - sri
+  - matangi
+  - kavacham
+  - ೩
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಸ್ಯ ಶ್ರೀಮಾತಂಗೀ ಕವಚಮಂತ್ರಸ್ಯ ಮಹಾಯೋಗೀಶ್ವರಋಷಿಃ ಅನುಷ್ಟುಪ್ ಛಂದಃ ಶ್ರೀಮಾತಂಗೀಶ್ವರೀ ದೇವತಾ ಶ್ರೀಮಾತಂಗೀಪ್ರಸಾದಸಿದ್ಧ್ಯರ್ಥೇ ಜಪೇ ವಿನಿಯೋಗಃ |
     ನೀಲೋತ್ಪಲಪ್ರತೀಕಾಶಾಮಂಜನಾದ್ರಿಸಮಪ್ರಭಾಮ್ |  
@@ -78,4 +81,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಸರ್ವಾನ್ ಕಾಮಾನವಾಪ್ನೋತಿ ಮಹಾಭೋಗಾನ್ ಸುದುರ್ಲಭಾನ್ |  
     ಮುಕ್ತಿಮಂತೇ ಸಮಾಪ್ನೋತಿ ಸಾಕ್ಷಾತ್ಪರಶಿವೋ ಭವೇತ್ || ೧೮ ||
-
+

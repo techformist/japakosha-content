@@ -1,27 +1,30 @@
-﻿---
-id: "shiva-sankalpa-upanishad.kn"
-mantra_id: "shiva-sankalpa-upanishad"
-language_code: "kn"
-title: "ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: shiva-sankalpa-upanishad.kn
+mantra_id: shiva-sankalpa-upanishad
+language_code: kn
+title: ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
+  content_type:
+    - upanishad
 keywords:
-  - "shiva"
-  - "sankalpa"
-  - "upanishad"
-  - "ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್"
+  - shiva
+  - sankalpa
+  - upanishad
+  - ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಯೇನೇ॒ದಂ ಭೂ॒ತಂ ಭುವ॑ನಂ ಭವಿ॒ಷ್ಯತ್ಪರಿ॑ಗೃಹೀತಮ॒ಮೃತೇ॑ನ॒ ಸರ್ವಮ್᳚ ।  
 ಯೇನ॑ ಯ॒ಜ್ಞಸ್ತ್ರಾ॑ಯತೇ ಸ॒ಪ್ತಹೋ॑ತಾ॒ ತನ್ಮೇ॒ ಮನ॑: ಶಿ॒ವಸಂ॑ಕ॒ಲ್ಪಮ॑ಸ್ತು ॥ 1
@@ -102,4 +105,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಮ॒ಹಾ॒ದೇ॒ವಂ ಚ॑ ತತ್ತು॒ಲ್ಯಂ॒ ತನ್ಮೇ॒ ಮನ॑: ಶಿ॒ವಸಂ॑ಕ॒ಲ್ಪಮ॑ಸ್ತು ॥ 38
 ಯ ಇದಗ್ಂ ಶಿವ॑ಸಂಕ॒ಲ್ಪ॒ಗ್ಂ ಸ॒ದಾ ಧ್ಯಾ॑ಯಂತಿ॒ ಬ್ರಾಹ್ಮ॑ಣಾಃ ।  
 ತೇ ಪರಂ॑ ಮೋಕ್ಷಂ ಗ॑ಮಿಷ್ಯ॒ಂತಿ॒ ತನ್ಮೇ॒ ಮನ॑: ಶಿ॒ವಸಂ॑ಕ॒ಲ್ಪಮ॑ಸ್ತು ॥ 39
-
+

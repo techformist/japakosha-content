@@ -1,28 +1,31 @@
-﻿---
-id: "sri-ayyappa-sharanu-gosha-1.kn"
-mantra_id: "sri-ayyappa-sharanu-gosha-1"
-language_code: "kn"
-title: "ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1"
-deity_theme: ["ayyappa"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ayyappa-sharanu-gosha-1.kn
+mantra_id: sri-ayyappa-sharanu-gosha-1
+language_code: kn
+title: ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1
+deity_theme:
+  - ayyappa
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "ayyappa"
-  - "sharanu"
-  - "gosha"
-  - "ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1"
+  - sri
+  - ayyappa
+  - sharanu
+  - gosha
+  - ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಶ್ರೀಸ್ವಾಮಿಯೇ ಶರಣಂ ಅಯ್ಯಪ್ಪ |  
     ಹರಿಹರಸುತನೇ |  
@@ -144,4 +147,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
     ಓಂ ಶ್ರೀಹರಿಹರಸುತನ್ ಆನಂದಚಿತ್ತನ್ ಅಯ್ಯನ್ ಅಯ್ಯಪ್ಪ |
     ೧೦೮
 ಸ್ವಾಮಿಯೇ ಶರಣಂ ಅಯ್ಯಪ್ಪ |
-    
+    

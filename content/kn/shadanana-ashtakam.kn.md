@@ -1,26 +1,29 @@
-﻿---
-id: "shadanana-ashtakam.kn"
-mantra_id: "shadanana-ashtakam"
-language_code: "kn"
-title: "ಷಡಾನನಾಷ್ಟಕಂ"
-deity_theme: ["subrahmanya"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: shadanana-ashtakam.kn
+mantra_id: shadanana-ashtakam
+language_code: kn
+title: ಷಡಾನನಾಷ್ಟಕಂ
+deity_theme:
+  - subrahmanya
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtakam"]
+  content_type:
+    - ashtakam
 keywords:
-  - "shadanana"
-  - "ashtakam"
-  - "ಷಡಾನನಾಷ್ಟಕಂ"
+  - shadanana
+  - ashtakam
+  - ಷಡಾನನಾಷ್ಟಕಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಗಸ್ತಿರುವಾಚ |  
     ನಮೋಽಸ್ತು ವೃಂದಾರಕವೃಂದವಂದ್ಯ-  
@@ -62,4 +65,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಕ್ರೌಂಚಾರಯೇ ತಾರಕಮಾರಕಾಯ |  
     ಸ್ವಾಹೇಯ ಗಾಂಗೇಯ ಚ ಕಾರ್ತಿಕೇಯ  
 ಶೈವೇಯ ತುಭ್ಯಂ ಸತತಂ ನಮೋಽಸ್ತು || ೮ ||
-
+

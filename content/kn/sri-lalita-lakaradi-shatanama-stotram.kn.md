@@ -1,29 +1,32 @@
-﻿---
-id: "sri-lalita-lakaradi-shatanama-stotram.kn"
-mantra_id: "sri-lalita-lakaradi-shatanama-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಲಲಿತಾ ಲಕಾರಾದಿ ಶತನಾಮ ಸ್ತೋತ್ರಂ"
-deity_theme: ["lalitha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-lalita-lakaradi-shatanama-stotram.kn
+mantra_id: sri-lalita-lakaradi-shatanama-stotram
+language_code: kn
+title: ಶ್ರೀ ಲಲಿತಾ ಲಕಾರಾದಿ ಶತನಾಮ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - lalitha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "lalita"
-  - "lakaradi"
-  - "shatanama"
-  - "stotram"
-  - "ಶ್ರೀ ಲಲಿತಾ ಲಕಾರಾದಿ ಶತನಾಮ ಸ್ತೋತ್ರಂ"
+  - sri
+  - lalita
+  - lakaradi
+  - shatanama
+  - stotram
+  - ಶ್ರೀ ಲಲಿತಾ ಲಕಾರಾದಿ ಶತನಾಮ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಪೂರ್ವಪೀಠಿಕಾ –  
 ಕೈಲಾಸಶಿಖರಾಸೀನಂ ದೇವದೇವಂ ಜಗದ್ಗುರುಮ್ |  
@@ -247,4 +250,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಗುರುರೂಪಂ ಶಿವಂ ಧ್ಯಾತ್ವಾ ಶಿವರೂಪಂ ಗುರುಂ ಸ್ಮರೇತ್ |  
     ಸದಾಶಿವಃ ಸ ಏವ ಸ್ಯಾಂನಾತ್ರ ಕಾರ್ಯಾ ವಿಚಾರಣಾ || ೪೨ ||
-
+

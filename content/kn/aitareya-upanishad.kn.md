@@ -1,26 +1,29 @@
-﻿---
-id: "aitareya-upanishad.kn"
-mantra_id: "aitareya-upanishad"
-language_code: "kn"
-title: "ಐತರೇಯೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: aitareya-upanishad.kn
+mantra_id: aitareya-upanishad
+language_code: kn
+title: ಐತರೇಯೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
+  content_type:
+    - upanishad
 keywords:
-  - "aitareya"
-  - "upanishad"
-  - "ಐತರೇಯೋಪನಿಷತ್"
+  - aitareya
+  - upanishad
+  - ಐತರೇಯೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 || ಶಾಂತಿಪಾಠಃ ||
 
@@ -145,4 +148,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಓಂ ವಾಙ್ಮೇ ಮನಸಿ ಪ್ರತಿಷ್ಠಿತಾ ಮನೋ ಮೇ ವಾಚಿ ಪ್ರತಿಷ್ಠಿತಮಾವಿರಾವೀರ್ಮ ಏಧಿ |
     ವೇದಸ್ಯ ಮ ಆಣೀಸ್ಥಃ ಶ್ರುತಂ ಮೇ ಮಾ ಪ್ರಹಾಸೀಃ
-
+

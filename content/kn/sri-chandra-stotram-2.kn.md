@@ -1,27 +1,30 @@
-﻿---
-id: "sri-chandra-stotram-2.kn"
-mantra_id: "sri-chandra-stotram-2"
-language_code: "kn"
-title: "೨"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-chandra-stotram-2.kn
+mantra_id: sri-chandra-stotram-2
+language_code: kn
+title: ೨
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "chandra"
-  - "stotram"
-  - "೨"
+  - sri
+  - chandra
+  - stotram
+  - ೨
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ವೇತಾಂಬರಃ ಶ್ವೇತವಪುಃ ಕಿರೀಟೀ  
 ಶ್ವೇತದ್ಯುತಿರ್ದಂಡಧರೋ ದ್ವಿಬಾಹುಃ |  
@@ -39,4 +42,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ರಾಕೇಶಂ ತಾರಕೇಶಂ ಚ ರೋಹಿಣೀಪ್ರಿಯಸುಂದರಮ್ |  
     ಧ್ಯಾಯತಾಂ ಸರ್ವದೋಷಘ್ನಂ ನಮಾಮೀಂದುಂ ಮುಹುರ್ಮುಹುಃ || ೫ ||
-
+

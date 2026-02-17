@@ -1,27 +1,30 @@
-﻿---
-id: "sri-bhoothanatha-dasakam.kn"
-mantra_id: "sri-bhoothanatha-dasakam"
-language_code: "kn"
-title: "ಶ್ರೀ ಭೂತನಾಥ ದಶಕಂ"
-deity_theme: ["ayyappa"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-bhoothanatha-dasakam.kn
+mantra_id: sri-bhoothanatha-dasakam
+language_code: kn
+title: ಶ್ರೀ ಭೂತನಾಥ ದಶಕಂ
+deity_theme:
+  - ayyappa
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "bhoothanatha"
-  - "dasakam"
-  - "ಶ್ರೀ ಭೂತನಾಥ ದಶಕಂ"
+  - sri
+  - bhoothanatha
+  - dasakam
+  - ಶ್ರೀ ಭೂತನಾಥ ದಶಕಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಪಾಂಡ್ಯಭೂಪತೀಂದ್ರಪೂರ್ವಪುಣ್ಯಮೋಹನಾಕೃತೇ  
 ಪಂಡಿತಾರ್ಚಿತಾಂಘ್ರಿಪುಂಡರೀಕ ಪಾವನಾಕೃತೇ |  
@@ -72,4 +75,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಬುದ್ಬುದೋಪಮಪ್ರಪಂಚವಿಭ್ರಮಪ್ರಕಾಶಕ |  
     ಸಪ್ರಥಪ್ರಗಲ್ಭಚಿತ್ಪ್ರಕಾಶ ದಿವ್ಯದೇಶಿಕ  
 ಪೂರ್ಣಪುಷ್ಕಲಾಸಮೇತ ಭೂತನಾಥ ಪಾಹಿ ಮಾಮ್ || ೧೦ ||
-
+

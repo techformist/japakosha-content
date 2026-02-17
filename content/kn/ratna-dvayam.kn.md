@@ -1,26 +1,29 @@
-﻿---
-id: "ratna-dvayam.kn"
-mantra_id: "ratna-dvayam"
-language_code: "kn"
-title: "ರತ್ನದ್ವಯಂ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: ratna-dvayam.kn
+mantra_id: ratna-dvayam
+language_code: kn
+title: ರತ್ನದ್ವಯಂ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "ratna"
-  - "dvayam"
-  - "ರತ್ನದ್ವಯಂ"
+  - ratna
+  - dvayam
+  - ರತ್ನದ್ವಯಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನ ಮೇಽಸ್ತಿ ದೇಹೇಂದ್ರಿಯಬುದ್ಧಿಯೋಗೋ  
 ನ ಪುಣ್ಯಲೇಶೋಽಪಿ ನ ಪಾಪಲೇಶಃ |  
@@ -30,4 +33,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ರಪ್ರಾಣ ಏವಾಸ್ಮ್ಯಮನಾಹ್ಯಬುದ್ಧಿಃ |  
     ವ್ಯೋಮೇವ ಪೂರ್ಣೋಽಸ್ಮಿ ವಿನಿರ್ಮಲೋಽಸ್ಮಿ  
 ಸದೈಕರೂಪೋಽಸ್ಮಿ ಚಿದೇವ ಕೇವಲಃ |
-    
+    

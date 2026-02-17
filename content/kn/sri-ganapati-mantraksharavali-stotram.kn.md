@@ -1,28 +1,31 @@
-﻿---
-id: "sri-ganapati-mantraksharavali-stotram.kn"
-mantra_id: "sri-ganapati-mantraksharavali-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganapati-mantraksharavali-stotram.kn
+mantra_id: sri-ganapati-mantraksharavali-stotram
+language_code: kn
+title: ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["mantra"]
+  content_type:
+    - mantra
 keywords:
-  - "sri"
-  - "ganapati"
-  - "mantraksharavali"
-  - "stotram"
-  - "ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ"
+  - sri
+  - ganapati
+  - mantraksharavali
+  - stotram
+  - ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀದೇವ್ಯುವಾಚ |  
     ವಿನಾ ತಪೋ ವಿನಾ ಧ್ಯಾನಂ ವಿನಾ ಹೋಮಂ ವಿನಾ ಜಪಮ್ |  
@@ -121,4 +124,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಮಂತ್ರಾಕ್ಷರಾವಲಿಸ್ತೋತ್ರಂ ಕಥಿತಂ ತವ ಸುಂದರಿ |  
     ಸಮಸ್ತಮೀಪ್ಸಿತಂ ತೇನ ಸಂಪಾದಯ ಶಿವೇ ಶಿವಮ್ || ೩೨ ||
-
+

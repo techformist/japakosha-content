@@ -1,29 +1,32 @@
-﻿---
-id: "devi-vaibhava-ashcharya-ashtottara-shatanamavali.kn"
-mantra_id: "devi-vaibhava-ashcharya-ashtottara-shatanamavali"
-language_code: "kn"
-title: "ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: devi-vaibhava-ashcharya-ashtottara-shatanamavali.kn
+mantra_id: devi-vaibhava-ashcharya-ashtottara-shatanamavali
+language_code: kn
+title: ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["ashtottara"]
+  content_type:
+    - ashtottara
 keywords:
-  - "devi"
-  - "vaibhava"
-  - "ashcharya"
-  - "ashtottara"
-  - "shatanamavali"
-  - "ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
+  - devi
+  - vaibhava
+  - ashcharya
+  - ashtottara
+  - shatanamavali
+  - ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಪರಮಾನಂದಲಹರ್ಯೈ ನಮಃ |  
     ಓಂ ಪರಚೈತನ್ಯದೀಪಿಕಾಯೈ ನಮಃ |  
@@ -145,4 +148,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
     ಓಂ ಸಿದ್ಧೇಶ್ವರಕುಲಾರಾಧ್ಯಾಯೈ ನಮಃ |  
     ಓಂ ಶ್ರೀಮಚ್ಚರಣವೈಭವಾಯೈ ನಮಃ |
     ೧೦೮
-
+

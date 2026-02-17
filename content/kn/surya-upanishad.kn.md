@@ -1,26 +1,29 @@
-﻿---
-id: "surya-upanishad.kn"
-mantra_id: "surya-upanishad"
-language_code: "kn"
-title: "ಸೂರ್ಯೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: surya-upanishad.kn
+mantra_id: surya-upanishad
+language_code: kn
+title: ಸೂರ್ಯೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
+  content_type:
+    - upanishad
 keywords:
-  - "surya"
-  - "upanishad"
-  - "ಸೂರ್ಯೋಪನಿಷತ್"
+  - surya
+  - upanishad
+  - ಸೂರ್ಯೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಭ॒ದ್ರಂ ಕರ್ಣೇ॑ಭಿಃ ಶೃಣು॒ಯಾಮ॑ ದೇವಾಃ । ಭ॒ದ್ರಂ ಪ॑ಶ್ಯೇಮಾ॒ಕ್ಷಭಿ॒ರ್ಯಜ॑ತ್ರಾಃ । ಸ್ಥಿ॒ರೈರಙ್ಗೈ᳚ಸ್ತುಷ್ಟು॒ವಾಗ್ಂ ಸ॑ಸ್ತ॒ನೂಭಿ॑: । ವ್ಯಶೇ॑ಮ ದೇ॒ವಹಿ॑ತಂ॒ ಯದಾಯು॑: । ಸ್ವ॒ಸ್ತಿ ನ॒ ಇಂದ್ರೋ॑ ವೃ॒ದ್ಧಶ್ರ॑ವಾಃ । ಸ್ವ॒ಸ್ತಿ ನ॑: ಪೂ॒ಷಾ ವಿ॒ಶ್ವವೇ॑ದಾಃ । ಸ್ವ॒ಸ್ತಿ ನ॒ಸ್ತಾರ್ಕ್ಷ್ಯೋ॒ ಅರಿ॑ಷ್ಟನೇಮಿಃ । ಸ್ವ॒ಸ್ತಿ ನೋ॒ ಬೃಹ॒ಸ್ಪತಿ॑ರ್ದಧಾತು ॥  
 ಓಂ ಶಾಂತಿ॒: ಶಾಂತಿ॒: ಶಾಂತಿ॑: ॥
@@ -39,4 +42,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಮಧ್ಯಾಹ್ನೇ ಸೂರ್ಯಾಭಿ॑ಮುಖಃ ಪ॒ಠೇತ್ । ಸದ್ಯೋತ್ಪಂನಪಞ್ಚಮಹಾಪಾತಕಾ᳚ತ್ ಪ್ರಮು॒ಚ್ಯತೇ । ಸೈಷಾ ಸಾವಿ॑ತ್ರೀಂ ವಿ॒ದ್ಯಾಂ ನ ಕಿಞ್ಚಿದಪಿ ನ ಕಸ್ಮೈಚಿ॑ತ್ ಪ್ರಶಂ॒ಸಯೇತ್ । ಯ ಏ॒ತಾಂ ಮಹಾಭಾಗಃ ಪ್ರಾ॑ತಃ ಪ॒ಠತಿ ಸ ಭಾಗ್ಯ॑ವಾನ್ ಜಾ॒ಯತೇ ಪ॑ಶೂನ್ವಿ॒ಂದತಿ । ವೇದಾ᳚ರ್ಥಂ ಲ॒ಭತೇ । ತ್ರಿಕಾಲಮೇ॑ತಜ್ಜ॒ಪ್ತ್ವಾ ಕ್ರತುಶತಫಲಮ॑ವಾಪ್ನೋ॒ತಿ । ಹಸ್ತಾದಿ॑ತ್ಯೇ ಜ॒ಪತಿ ಸ ಮಹಾಮೃ॑ತ್ಯುಂ ತ॒ರತಿ ಸ ಮಹಾಮೃ॑ತ್ಯುಂ ತ॒ರತಿ ಯ ಏ॑ವಂ ವೇ॒ದ । ಇತ್ಯು॑ಪ॒ನಿಷ॑ತ್ ।
 ಓಂ ಭ॒ದ್ರಂ ಕರ್ಣೇ॑ಭಿಃ ಶೃಣು॒ಯಾಮ॑ ದೇವಾಃ । ಭ॒ದ್ರಂ ಪ॑ಶ್ಯೇಮಾ॒ಕ್ಷಭಿ॒ರ್ಯಜ॑ತ್ರಾಃ । ಸ್ಥಿ॒ರೈರಙ್ಗೈ᳚ಸ್ತುಷ್ಟು॒ವಾಗ್ಂ ಸ॑ಸ್ತ॒ನೂಭಿ॑: । ವ್ಯಶೇ॑ಮ ದೇ॒ವಹಿ॑ತಂ॒ ಯದಾಯು॑: । ಸ್ವ॒ಸ್ತಿ ನ॒ ಇಂದ್ರೋ॑ ವೃ॒ದ್ಧಶ್ರ॑ವಾಃ । ಸ್ವ॒ಸ್ತಿ ನ॑: ಪೂ॒ಷಾ ವಿ॒ಶ್ವವೇ॑ದಾಃ । ಸ್ವ॒ಸ್ತಿ ನ॒ಸ್ತಾರ್ಕ್ಷ್ಯೋ॒ ಅರಿ॑ಷ್ಟನೇಮಿಃ । ಸ್ವ॒ಸ್ತಿ ನೋ॒ ಬೃಹ॒ಸ್ಪತಿ॑ರ್ದಧಾತು ॥
 ಓಂ ಶಾಂತಿ॒: ಶಾಂತಿ॒: ಶಾಂತಿ॑: ॥
-
+

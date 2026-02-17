@@ -1,31 +1,34 @@
-﻿---
-id: "gajendra-moksha-srimad-bhagavatam-part-3.kn"
-mantra_id: "gajendra-moksha-srimad-bhagavatam-part-3"
-language_code: "kn"
-title: "ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩"
-deity_theme: ["vishnu"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: gajendra-moksha-srimad-bhagavatam-part-3.kn
+mantra_id: gajendra-moksha-srimad-bhagavatam-part-3
+language_code: kn
+title: ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩
+deity_theme:
+  - vishnu
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "gajendra"
-  - "moksha"
-  - "(srimad"
-  - "bhagavatam)"
-  - "part"
-  - "ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩"
-  - "srimad"
-  - "bhagavatam"
+  - gajendra
+  - moksha
+  - (srimad
+  - bhagavatam)
+  - part
+  - ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩
+  - srimad
+  - bhagavatam
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀಶುಕ ಉವಾಚ –  
 ತದಾ ದೇವರ್ಷಿಗಂಧರ್ವಾ ಬ್ರಹ್ಮೇಶಾನಪುರೋಗಮಾಃ |  
@@ -121,4 +124,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ರಾಜಂನುದಿತಮೇ ತತ್ತೇ ಹರೇಃ ಕರ್ಮಾಘನಾಶನಮ್ |  
     ಗಜೇಂದ್ರಮೋಕ್ಷಣಂ ದಿವ್ಯಂ ರೈವತಂ ತ್ವಂತರಂ ಶೃಣು || ೨೭ ||
-
+

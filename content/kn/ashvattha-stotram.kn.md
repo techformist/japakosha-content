@@ -1,26 +1,29 @@
-﻿---
-id: "ashvattha-stotram.kn"
-mantra_id: "ashvattha-stotram"
-language_code: "kn"
-title: "ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: ashvattha-stotram.kn
+mantra_id: ashvattha-stotram
+language_code: kn
+title: ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "ashvattha"
-  - "stotram"
-  - "ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ"
+  - ashvattha
+  - stotram
+  - ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀ ನಾರದ ಉವಾಚ |  
     ಅನಾಯಾಸೇನ ಲೋಕೋಽಯಂ ಸರ್ವಾನ್ಕಾಮಾನವಾಪ್ನುಯಾತ್ |  
@@ -115,4 +118,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಛಿಂನೋ ಯೇನ ವೃಥಾಽಶ್ವತ್ಥಶ್ಛೇದಿತಾಃ ಪಿತೃದೇವತಾಃ |  
     ಅಶ್ವತ್ಥಃ ಪೂಜಿತೋ ಯತ್ರ ಪೂಜಿತಾಃ ಸರ್ವದೇವತಾಃ || ೩೦ ||
-
+

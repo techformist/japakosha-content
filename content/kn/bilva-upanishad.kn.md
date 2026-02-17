@@ -1,26 +1,29 @@
-﻿---
-id: "bilva-upanishad.kn"
-mantra_id: "bilva-upanishad"
-language_code: "kn"
-title: "ಬಿಲ್ವೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: bilva-upanishad.kn
+mantra_id: bilva-upanishad
+language_code: kn
+title: ಬಿಲ್ವೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
+  content_type:
+    - upanishad
 keywords:
-  - "bilva"
-  - "upanishad"
-  - "ಬಿಲ್ವೋಪನಿಷತ್"
+  - bilva
+  - upanishad
+  - ಬಿಲ್ವೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಥ ವಾಮದೇವಃ ಪರಮೇಶ್ವರಂ ಸೃಷ್ಟಿಸ್ಥಿತಿಲಯಕಾರಣಮುಮಾಸಹಿತಂ ಸ್ವಶಿರಸಾ ಪ್ರಣಮ್ಯೇತಿ ಹೋವಾಚ |
     ಅಧೀಹಿ ಭಗವನ್ ಸರ್ವವಿದ್ಯಾಂ ಸರ್ವರಹಸ್ಯವರಿಷ್ಠಾಂ ಸದಾ ಸದ್ಭಿಃ ಪೂಜ್ಯಮಾನಾ ನಿಗೂಢಾಮ್
@@ -88,4 +91,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
     ಯಃ ಪೂಜಯತಿ ಮಾಂ ಭಕ್ತ್ಯಾ ಸೋಽಹಮೇವ ನ ಸಂಶಯಃ |
     ಯ ಏತದಧೀತೇ ಬ್ರಹ್ಮಹಾಽಬ್ರಹ್ಮಹಾ ಭವತಿ |
     ಸ್ವರ್ಣಸ್ತೇಯ್ಯಸ್ತೇಯೀ ಭವತಿ
-
+

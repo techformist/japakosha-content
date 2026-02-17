@@ -1,29 +1,32 @@
-﻿---
-id: "trucha-kalpa-surya-arghya-krama.kn"
-mantra_id: "trucha-kalpa-surya-arghya-krama"
-language_code: "kn"
-title: "ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ಅರ್ಘ್ಯಪ್ರದಾನ ಕ್ರಮಃ"
-deity_theme: ["navagraha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: trucha-kalpa-surya-arghya-krama.kn
+mantra_id: trucha-kalpa-surya-arghya-krama
+language_code: kn
+title: ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ಅರ್ಘ್ಯಪ್ರದಾನ ಕ್ರಮಃ
+deity_theme:
+  - navagraha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "trucha"
-  - "kalpa"
-  - "surya"
-  - "arghya"
-  - "krama"
-  - "ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ಅರ್ಘ್ಯಪ್ರದಾನ ಕ್ರಮಃ"
+  - trucha
+  - kalpa
+  - surya
+  - arghya
+  - krama
+  - ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ಅರ್ಘ್ಯಪ್ರದಾನ ಕ್ರಮಃ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಆಚಮ್ಯ । ಪ್ರಾಣಾನಾಯಮ್ಯ । ದೇಶಕಾಲೌ ಸಂಕೀರ್ತ್ಯ । ಗಣಪತಿ ಪೂಜಾಂ ಕೃತ್ವಾ ।
 ಸಂಕಲ್ಪಃ –  
@@ -121,4 +124,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 ಓಂ ಹಂ॒ಸ॒ ಹಂ॒ಸಾಯ॑ ವಿ॒ದ್ಮಹೇ॑ ಪರಮಹಂ॒ಸಾಯ॑ ಧೀಮಹಿ । ತಂನೋ॑ ಹಂಸಃ ಪ್ರಚೋ॒ದಯಾ᳚ತ್ ।  
 ಶ್ರೀಸವಿತೃಸೂರ್ಯನಾರಾಯಣ ಪರಬ್ರಹ್ಮಣೇ ನಮಃ ಪ್ರಾರ್ಥನ ಪ್ರಸಂನಾರ್ಘ್ಯಂ ಸಮರ್ಪಯಾಮಿ ॥ 17 ॥
 ಅನೇನ ತೃಚಾರ್ಘ್ಯಪೂರ್ವಕ ಪ್ರಾರ್ಥನ ಪ್ರಸಂನಾರ್ಘ್ಯಪ್ರದಾನೈಶ್ಚ ಭಗವಾನ್ ಸರ್ವಾತ್ಮಕಃ ಶ್ರೀಪದ್ಮಿನೀ ಉಷಾ ಛಾಯಾ ಸಮೇತ ಶ್ರೀಸವಿತೃಸೂರ್ಯನಾರಾಯಣ ಸುಪ್ರೀತೋ ಸುಪ್ರಸಂನೋ ಭವಂತು ॥
-
+

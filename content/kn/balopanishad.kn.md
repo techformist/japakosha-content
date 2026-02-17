@@ -1,25 +1,28 @@
-﻿---
-id: "balopanishad.kn"
-mantra_id: "balopanishad"
-language_code: "kn"
-title: "ಶ್ರೀ ಬಾಲೋಪನಿಷತ್"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+---
+id: balopanishad.kn
+mantra_id: balopanishad
+language_code: kn
+title: ಶ್ರೀ ಬಾಲೋಪನಿಷತ್
+deity_theme:
+  - universal
+purpose:
+  - devotion
+tradition: upanishadic
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "balopanishad"
-  - "ಶ್ರೀ ಬಾಲೋಪನಿಷತ್"
+  - balopanishad
+  - ಶ್ರೀ ಬಾಲೋಪನಿಷತ್
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಐಂ ನಮಃ ಶ್ರೀಬಾಲಾಯೈ |

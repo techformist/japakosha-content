@@ -1,27 +1,30 @@
-﻿---
-id: "sri-matangi-stotram-5.kn"
-mantra_id: "sri-matangi-stotram-5"
-language_code: "kn"
-title: "೫"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "tantric"
+---
+id: sri-matangi-stotram-5.kn
+mantra_id: sri-matangi-stotram-5
+language_code: kn
+title: ೫
+deity_theme:
+  - devi
+purpose:
+  - devotion
+tradition: tantric
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "matangi"
-  - "stotram"
-  - "೫"
+  - sri
+  - matangi
+  - stotram
+  - ೫
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮಾಮಿ ದೇವೀಂ ನವಚಂದ್ರಮೌಳಿಂ  
 ಮಾತಂಗಿನೀಂ ಚಂದ್ರಕಳಾವತಂಸಾಮ್ |  
@@ -50,4 +53,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಸರ್ವಲಕ್ಷಣಸಂಯುಕ್ತಾ ಪುಷ್ಪಿಣೀಮರ್ಚಯೇಚ್ಛಿವೇ |  
     ಮತಂಗಮುನಿನೋಕ್ತಂ ಚ ಸದ್ಯಃ ಸಿದ್ಧಿಕರಂ ಭುವಿ || ೬ ||
-
+

@@ -1,28 +1,31 @@
-﻿---
-id: "sri-ganesha-avatara-stotram.kn"
-mantra_id: "sri-ganesha-avatara-stotram"
-language_code: "kn"
-title: "ಶ್ರೀ ಗಣೇಶಾವತಾರ ಸ್ತೋತ್ರಂ"
-deity_theme: ["ganesha"]
-purpose: ["devotion"]
-tradition: "stotra"
+---
+id: sri-ganesha-avatara-stotram.kn
+mantra_id: sri-ganesha-avatara-stotram
+language_code: kn
+title: ಶ್ರೀ ಗಣೇಶಾವತಾರ ಸ್ತೋತ್ರಂ
+deity_theme:
+  - ganesha
+purpose:
+  - devotion
+tradition: stotra
 tags:
-  content_type: ["stotra"]
+  content_type:
+    - stotra
 keywords:
-  - "sri"
-  - "ganesha"
-  - "avatara"
-  - "stotram"
-  - "ಶ್ರೀ ಗಣೇಶಾವತಾರ ಸ್ತೋತ್ರಂ"
+  - sri
+  - ganesha
+  - avatara
+  - stotram
+  - ಶ್ರೀ ಗಣೇಶಾವತಾರ ಸ್ತೋತ್ರಂ
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
-  license: "public-domain"
-status: "pending"
-quality_level: "community"
+license: public-domain
+status: pending
+quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಂಗಿರಸ ಉವಾಚ |  
     ಅನಂತಾ ಅವತಾರಾಶ್ಚ ಗಣೇಶಸ್ಯ ಮಹಾತ್ಮನಃ |  
@@ -87,4 +90,4 @@ updated_at: "2026-02-15T07:06:28.137Z"
 
 ಧರ್ಮಾರ್ಥಕಾಮಮೋಕ್ಷಾಣಾಂ ಸಾಧನಂ ಬ್ರಹ್ಮದಾಯಕಮ್ |  
     ಭಕ್ತಿದೃಢಕರಂ ಚೈವ ಭವಿಷ್ಯತಿ ನ ಸಂಶಯಃ || ೨೧ ||
-
+
