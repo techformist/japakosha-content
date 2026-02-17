@@ -6,7 +6,7 @@
 ---
 
 ## ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ
-**mantra_id:** `sundarakanda-sankalpam-dhyanam` · **Deity:** hanuman, rama · **Purpose:** devotion · **Tradition:** puranic · **Source:** Stotranidhi
+**mantra_id:** `sundarakanda-sankalpam-dhyanam` · **Deity:** hanuman, rama · **Purpose:** devotion · **Tradition:** puranic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ](../content/kn/sundarakanda-sankalpam-dhyanam.kn.md)

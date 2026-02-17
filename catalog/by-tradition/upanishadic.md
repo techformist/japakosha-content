@@ -6,7 +6,7 @@
 ---
 
 ## ಸೂರ್ಯೋಪನಿಷತ್
-**mantra_id:** `surya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `surya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಸೂರ್ಯೋಪನಿಷತ್](../content/kn/surya-upanishad.kn.md)
@@ -16,7 +16,7 @@ Available in:
 ---
 
 ## ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
-**mantra_id:** `shiva-sankalpa-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `shiva-sankalpa-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್](../content/kn/shiva-sankalpa-upanishad.kn.md)
@@ -26,7 +26,7 @@ Available in:
 ---
 
 ## ರುದ್ರೋಪನಿಷತ್
-**mantra_id:** `rudropanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `rudropanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ರುದ್ರೋಪನಿಷತ್](../content/kn/rudropanishad.kn.md)
@@ -36,7 +36,7 @@ Available in:
 ---
 
 ## ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್
-**mantra_id:** `raja-shyamala-rahasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `raja-shyamala-rahasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್](../content/kn/raja-shyamala-rahasya-upanishad.kn.md)
@@ -46,7 +46,7 @@ Available in:
 ---
 
 ## ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್
-**mantra_id:** `pancha-brahma-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `pancha-brahma-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್](../content/kn/pancha-brahma-upanishad.kn.md)
@@ -56,7 +56,7 @@ Available in:
 ---
 
 ## ಲಿಂಗೋಪನಿಷತ್
-**mantra_id:** `lingopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `lingopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಲಿಂಗೋಪನಿಷತ್](../content/kn/lingopanishad.kn.md)
@@ -66,7 +66,7 @@ Available in:
 ---
 
 ## ಕೇನೋಪನಿಷತ್
-**mantra_id:** `kenopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `kenopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕೇನೋಪನಿಷತ್](../content/kn/kenopanishad.kn.md)
@@ -76,7 +76,7 @@ Available in:
 ---
 
 ## ಕಠೋಪನಿಷತ್
-**mantra_id:** `kathopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `kathopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕಠೋಪನಿಷತ್](../content/kn/kathopanishad.kn.md)
@@ -86,7 +86,7 @@ Available in:
 ---
 
 ## ಕೈವಲ್ಯೋಪನಿಷತ್
-**mantra_id:** `kaivalya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `kaivalya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕೈವಲ್ಯೋಪನಿಷತ್](../content/kn/kaivalya-upanishad.kn.md)
@@ -96,7 +96,7 @@ Available in:
 ---
 
 ## ಜಾಬಾಲೋಪನಿಷತ್
-**mantra_id:** `jabalopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `jabalopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಜಾಬಾಲೋಪನಿಷತ್](../content/kn/jabalopanishad.kn.md)
@@ -106,7 +106,7 @@ Available in:
 ---
 
 ## ಈಶಾವಾಸ್ಯೋಪನಿಷತ್
-**mantra_id:** `ishavasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `ishavasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಈಶಾವಾಸ್ಯೋಪನಿಷತ್](../content/kn/ishavasya-upanishad.kn.md)
@@ -116,7 +116,7 @@ Available in:
 ---
 
 ## ಬಿಲ್ವೋಪನಿಷತ್
-**mantra_id:** `bilva-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `bilva-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಬಿಲ್ವೋಪನಿಷತ್](../content/kn/bilva-upanishad.kn.md)
@@ -126,7 +126,7 @@ Available in:
 ---
 
 ## ಭಾವನೋಪನಿಷತ್
-**mantra_id:** `bhavanopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `bhavanopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಭಾವನೋಪನಿಷತ್](../content/kn/bhavanopanishad.kn.md)
@@ -136,7 +136,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಬಾಲೋಪನಿಷತ್
-**mantra_id:** `balopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `balopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಬಾಲೋಪನಿಷತ್](../content/kn/balopanishad.kn.md)
@@ -146,7 +146,7 @@ Available in:
 ---
 
 ## ಐತರೇಯೋಪನಿಷತ್
-**mantra_id:** `aitareya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `aitareya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಐತರೇಯೋಪನಿಷತ್](../content/kn/aitareya-upanishad.kn.md)

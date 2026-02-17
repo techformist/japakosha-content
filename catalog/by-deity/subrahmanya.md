@@ -6,7 +6,7 @@
 ---
 
 ## ಷಡಾನನಾಷ್ಟಕಂ
-**mantra_id:** `shadanana-ashtakam` · **Deity:** subrahmanya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `shadanana-ashtakam` · **Deity:** subrahmanya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಷಡಾನನಾಷ್ಟಕಂ](../content/kn/shadanana-ashtakam.kn.md)

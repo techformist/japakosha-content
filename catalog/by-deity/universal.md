@@ -6,7 +6,7 @@
 ---
 
 ## ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)
-**mantra_id:** `visuchika-nivarana-mantra-yoga-vasistham` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `visuchika-nivarana-mantra-yoga-vasistham` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)](../content/kn/visuchika-nivarana-mantra-yoga-vasistham.kn.md)
@@ -16,7 +16,7 @@ Available in:
 ---
 
 ## ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ
-**mantra_id:** `triveni-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `triveni-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ](../content/kn/triveni-stotram.kn.md)
@@ -26,7 +26,7 @@ Available in:
 ---
 
 ## ಸೂರ್ಯೋಪನಿಷತ್
-**mantra_id:** `surya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `surya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಸೂರ್ಯೋಪನಿಷತ್](../content/kn/surya-upanishad.kn.md)
@@ -36,7 +36,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂ
-**mantra_id:** `sri-tulasi-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-tulasi-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂ](../content/kn/sri-tulasi-stotram.kn.md)
@@ -46,7 +46,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ
-**mantra_id:** `sri-shankaracharya-shodasopachara-puja` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-shankaracharya-shodasopachara-puja` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ](../content/kn/sri-shankaracharya-shodasopachara-puja.kn.md)
@@ -56,7 +56,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ
-**mantra_id:** `sri-gayatri-tattva-mala-mantram` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-gayatri-tattva-mala-mantram` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ](../content/kn/sri-gayatri-tattva-mala-mantram.kn.md)
@@ -66,7 +66,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ
-**mantra_id:** `sri-gayatri-shapa-vimochanam` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-gayatri-shapa-vimochanam` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ](../content/kn/sri-gayatri-shapa-vimochanam.kn.md)
@@ -76,7 +76,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-**mantra_id:** `sri-ganga-ashtottara-shatanamavali` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-ganga-ashtottara-shatanamavali` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-ganga-ashtottara-shatanamavali.kn.md)
@@ -86,7 +86,7 @@ Available in:
 ---
 
 ## ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
-**mantra_id:** `shiva-sankalpa-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `shiva-sankalpa-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್](../content/kn/shiva-sankalpa-upanishad.kn.md)
@@ -96,7 +96,7 @@ Available in:
 ---
 
 ## ಶಮೀ ಪ್ರಾರ್ಥನ
-**mantra_id:** `sami-vruksha-prarthana` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sami-vruksha-prarthana` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶಮೀ ಪ್ರಾರ್ಥನ](../content/kn/sami-vruksha-prarthana.kn.md)
@@ -106,7 +106,7 @@ Available in:
 ---
 
 ## ರುದ್ರೋಪನಿಷತ್
-**mantra_id:** `rudropanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `rudropanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ರುದ್ರೋಪನಿಷತ್](../content/kn/rudropanishad.kn.md)
@@ -116,7 +116,7 @@ Available in:
 ---
 
 ## ರತ್ನದ್ವಯಂ
-**mantra_id:** `ratna-dvayam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `ratna-dvayam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ರತ್ನದ್ವಯಂ](../content/kn/ratna-dvayam.kn.md)
@@ -126,7 +126,7 @@ Available in:
 ---
 
 ## ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್
-**mantra_id:** `raja-shyamala-rahasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `raja-shyamala-rahasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್](../content/kn/raja-shyamala-rahasya-upanishad.kn.md)
@@ -136,7 +136,7 @@ Available in:
 ---
 
 ## ಪರಮಾದ್ವೈತಂ
-**mantra_id:** `paramadvaitham` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `paramadvaitham` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಪರಮಾದ್ವೈತಂ](../content/kn/paramadvaitham.kn.md)
@@ -146,7 +146,7 @@ Available in:
 ---
 
 ## ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್
-**mantra_id:** `pancha-brahma-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `pancha-brahma-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್](../content/kn/pancha-brahma-upanishad.kn.md)
@@ -156,7 +156,7 @@ Available in:
 ---
 
 ## ಲಿಂಗೋಪನಿಷತ್
-**mantra_id:** `lingopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `lingopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಲಿಂಗೋಪನಿಷತ್](../content/kn/lingopanishad.kn.md)
@@ -166,7 +166,7 @@ Available in:
 ---
 
 ## ಕುಂಡಲಿನೀ ಸ್ತೋತ್ರಂ
-**mantra_id:** `kundalini-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `kundalini-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕುಂಡಲಿನೀ ಸ್ತೋತ್ರಂ](../content/kn/kundalini-stotram.kn.md)
@@ -176,7 +176,7 @@ Available in:
 ---
 
 ## ಕೇನೋಪನಿಷತ್
-**mantra_id:** `kenopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `kenopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕೇನೋಪನಿಷತ್](../content/kn/kenopanishad.kn.md)
@@ -186,7 +186,7 @@ Available in:
 ---
 
 ## ಕಠೋಪನಿಷತ್
-**mantra_id:** `kathopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `kathopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕಠೋಪನಿಷತ್](../content/kn/kathopanishad.kn.md)
@@ -196,7 +196,7 @@ Available in:
 ---
 
 ## ಕೈವಲ್ಯೋಪನಿಷತ್
-**mantra_id:** `kaivalya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `kaivalya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಕೈವಲ್ಯೋಪನಿಷತ್](../content/kn/kaivalya-upanishad.kn.md)
@@ -206,7 +206,7 @@ Available in:
 ---
 
 ## ಜೈ ಶ್ರೀರಾಮ್
-**mantra_id:** `jai-shree-ram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `jai-shree-ram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಜೈ ಶ್ರೀರಾಮ್](../content/kn/jai-shree-ram.kn.md)
@@ -216,7 +216,7 @@ Available in:
 ---
 
 ## ಜಾಬಾಲೋಪನಿಷತ್
-**mantra_id:** `jabalopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `jabalopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಜಾಬಾಲೋಪನಿಷತ್](../content/kn/jabalopanishad.kn.md)
@@ -226,7 +226,7 @@ Available in:
 ---
 
 ## ಈಶಾವಾಸ್ಯೋಪನಿಷತ್
-**mantra_id:** `ishavasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `ishavasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಈಶಾವಾಸ್ಯೋಪನಿಷತ್](../content/kn/ishavasya-upanishad.kn.md)
@@ -236,7 +236,7 @@ Available in:
 ---
 
 ## ಗೋಮಾತ ಪ್ರಾರ್ಥನ
-**mantra_id:** `gomatha-prarthana` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `gomatha-prarthana` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಗೋಮಾತ ಪ್ರಾರ್ಥನ](../content/kn/gomatha-prarthana.kn.md)
@@ -246,7 +246,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂ
-**mantra_id:** `ganga-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `ganga-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂ](../content/kn/ganga-stotram.kn.md)
@@ -256,7 +256,7 @@ Available in:
 ---
 
 ## ಬಿಲ್ವೋಪನಿಷತ್
-**mantra_id:** `bilva-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `bilva-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಬಿಲ್ವೋಪನಿಷತ್](../content/kn/bilva-upanishad.kn.md)
@@ -266,7 +266,7 @@ Available in:
 ---
 
 ## ಭೀಷ್ಮಾಷ್ಟಮಿ ತರ್ಪಣ ಶ್ಲೋಕಂ
-**mantra_id:** `bheeshma-ashtami-tarpana-slokam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `bheeshma-ashtami-tarpana-slokam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಭೀಷ್ಮಾಷ್ಟಮಿ ತರ್ಪಣ ಶ್ಲೋಕಂ](../content/kn/bheeshma-ashtami-tarpana-slokam.kn.md)
@@ -276,7 +276,7 @@ Available in:
 ---
 
 ## ಭಾವನೋಪನಿಷತ್
-**mantra_id:** `bhavanopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `bhavanopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಭಾವನೋಪನಿಷತ್](../content/kn/bhavanopanishad.kn.md)
@@ -286,7 +286,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಬಾಲೋಪನಿಷತ್
-**mantra_id:** `balopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `balopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಬಾಲೋಪನಿಷತ್](../content/kn/balopanishad.kn.md)
@@ -296,7 +296,7 @@ Available in:
 ---
 
 ## ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ
-**mantra_id:** `ashwini-devata-stotram-mahabharatam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `ashwini-devata-stotram-mahabharatam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ](../content/kn/ashwini-devata-stotram-mahabharatam.kn.md)
@@ -306,7 +306,7 @@ Available in:
 ---
 
 ## ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ
-**mantra_id:** `ashvattha-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `ashvattha-stotram` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ](../content/kn/ashvattha-stotram.kn.md)
@@ -316,7 +316,7 @@ Available in:
 ---
 
 ## ಐತರೇಯೋಪನಿಷತ್
-**mantra_id:** `aitareya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Stotranidhi
+**mantra_id:** `aitareya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಐತರೇಯೋಪನಿಷತ್](../content/kn/aitareya-upanishad.kn.md)
@@ -326,7 +326,7 @@ Available in:
 ---
 
 ## ಅಗ್ನಿ ಸ್ತೋತ್ರಂ
-**mantra_id:** `agni-stotram-markandeya-puranam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `agni-stotram-markandeya-puranam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಅಗ್ನಿ ಸ್ತೋತ್ರಂ](../content/kn/agni-stotram-markandeya-puranam.kn.md)
@@ -336,7 +336,7 @@ Available in:
 ---
 
 ## ಅದ್ವೈತಲಕ್ಷಣಂ
-**mantra_id:** `advaitha-lakshanam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `advaitha-lakshanam` · **Deity:** universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಅದ್ವೈತಲಕ್ಷಣಂ](../content/kn/advaitha-lakshanam.kn.md)

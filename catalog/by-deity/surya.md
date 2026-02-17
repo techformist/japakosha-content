@@ -6,7 +6,7 @@
 ---
 
 ## ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ
-**mantra_id:** `sri-surya-stavaraja-stotram` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-surya-stavaraja-stotram` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ](../content/kn/sri-surya-stavaraja-stotram.kn.md)
@@ -16,7 +16,7 @@ Available in:
 ---
 
 ## ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)
-**mantra_id:** `sri-surya-kavacham-2-trilokya-mangalam` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-surya-kavacham-2-trilokya-mangalam` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)](../content/kn/sri-surya-kavacham-2-trilokya-mangalam.kn.md)
@@ -26,7 +26,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)
-**mantra_id:** `sri-ravi-stotram-samba-purane` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-ravi-stotram-samba-purane` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)](../content/kn/sri-ravi-stotram-samba-purane.kn.md)
@@ -36,7 +36,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ
-**mantra_id:** `sri-gayatri-tattva-mala-mantram` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-gayatri-tattva-mala-mantram` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ](../content/kn/sri-gayatri-tattva-mala-mantram.kn.md)
@@ -46,7 +46,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ
-**mantra_id:** `sri-gayatri-shapa-vimochanam` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-gayatri-shapa-vimochanam` · **Deity:** surya, universal · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ](../content/kn/sri-gayatri-shapa-vimochanam.kn.md)
@@ -56,7 +56,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)
-**mantra_id:** `manu-krutha-surya-stuti` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `manu-krutha-surya-stuti` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)](../content/kn/manu-krutha-surya-stuti.kn.md)
@@ -66,7 +66,7 @@ Available in:
 ---
 
 ## ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)
-**mantra_id:** `jagad-vilakshana-surya-kavacham` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `jagad-vilakshana-surya-kavacham` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)](../content/kn/jagad-vilakshana-surya-kavacham.kn.md)
@@ -76,7 +76,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)
-**mantra_id:** `brahma-krutha-surya-stuti` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `brahma-krutha-surya-stuti` · **Deity:** surya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)](../content/kn/brahma-krutha-surya-stuti.kn.md)

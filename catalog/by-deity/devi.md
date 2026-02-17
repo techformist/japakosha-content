@@ -6,7 +6,7 @@
 ---
 
 ## ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ
-**mantra_id:** `sri-shyamala-shodasa-namavali` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-shyamala-shodasa-namavali` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ](../content/kn/sri-shyamala-shodasa-namavali.kn.md)
@@ -16,7 +16,7 @@ Available in:
 ---
 
 ## ೨
-**mantra_id:** `sri-shyamala-ashtottara-shatanama-stotram-2` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-shyamala-ashtottara-shatanama-stotram-2` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೨](../content/kn/sri-shyamala-ashtottara-shatanama-stotram-2.kn.md)
@@ -26,7 +26,7 @@ Available in:
 ---
 
 ## ೫
-**mantra_id:** `sri-matangi-stotram-5` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-stotram-5` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೫](../content/kn/sri-matangi-stotram-5.kn.md)
@@ -36,7 +36,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)
-**mantra_id:** `sri-matangi-stotram-4-devi-shatkam` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-stotram-4-devi-shatkam` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)](../content/kn/sri-matangi-stotram-4-devi-shatkam.kn.md)
@@ -46,7 +46,7 @@ Available in:
 ---
 
 ## ೩
-**mantra_id:** `sri-matangi-stotram-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-stotram-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೩](../content/kn/sri-matangi-stotram-3.kn.md)
@@ -56,7 +56,7 @@ Available in:
 ---
 
 ## ೩
-**mantra_id:** `sri-matangi-kavacham-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-kavacham-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೩](../content/kn/sri-matangi-kavacham-3.kn.md)
@@ -66,7 +66,7 @@ Available in:
 ---
 
 ## ೩
-**mantra_id:** `manidweepa-varnanam-devi-bhagavatam-part-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `manidweepa-varnanam-devi-bhagavatam-part-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೩](../content/kn/manidweepa-varnanam-devi-bhagavatam-part-3.kn.md)
@@ -76,7 +76,7 @@ Available in:
 ---
 
 ## ೨
-**mantra_id:** `manidweepa-varnanam-devi-bhagavatam-part-2` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `manidweepa-varnanam-devi-bhagavatam-part-2` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೨](../content/kn/manidweepa-varnanam-devi-bhagavatam-part-2.kn.md)
@@ -86,7 +86,7 @@ Available in:
 ---
 
 ## ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-**mantra_id:** `devi-vaibhava-ashcharya-ashtottara-shatanamavali` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `devi-vaibhava-ashcharya-ashtottara-shatanamavali` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/devi-vaibhava-ashcharya-ashtottara-shatanamavali.kn.md)
@@ -96,7 +96,7 @@ Available in:
 ---
 
 ## ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ
-**mantra_id:** `devi-vaibhava-ashcharya-ashtottara-shatanama-stotram` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `devi-vaibhava-ashcharya-ashtottara-shatanama-stotram` · **Deity:** devi · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ](../content/kn/devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.kn.md)

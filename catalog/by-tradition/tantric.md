@@ -6,7 +6,7 @@
 ---
 
 ## ೫
-**mantra_id:** `sri-matangi-stotram-5` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-stotram-5` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೫](../content/kn/sri-matangi-stotram-5.kn.md)
@@ -16,7 +16,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)
-**mantra_id:** `sri-matangi-stotram-4-devi-shatkam` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-stotram-4-devi-shatkam` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)](../content/kn/sri-matangi-stotram-4-devi-shatkam.kn.md)
@@ -26,7 +26,7 @@ Available in:
 ---
 
 ## ೩
-**mantra_id:** `sri-matangi-stotram-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-stotram-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೩](../content/kn/sri-matangi-stotram-3.kn.md)
@@ -36,7 +36,7 @@ Available in:
 ---
 
 ## ೩
-**mantra_id:** `sri-matangi-kavacham-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Stotranidhi
+**mantra_id:** `sri-matangi-kavacham-3` · **Deity:** devi · **Purpose:** devotion · **Tradition:** tantric · **Source:** Public Domain
 
 Available in:
 - [Kannada — ೩](../content/kn/sri-matangi-kavacham-3.kn.md)

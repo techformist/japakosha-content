@@ -6,7 +6,7 @@
 ---
 
 ## ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-**mantra_id:** `sri-veerabhadra-ashtottara-shatanamavali` · **Deity:** shiva · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-veerabhadra-ashtottara-shatanamavali` · **Deity:** shiva · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-veerabhadra-ashtottara-shatanamavali.kn.md)
@@ -16,7 +16,7 @@ Available in:
 ---
 
 ## ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-**mantra_id:** `sri-arunachaleshwara-ashtottara-shatanamavali` · **Deity:** shiva · **Purpose:** devotion · **Tradition:** stotra · **Source:** Stotranidhi
+**mantra_id:** `sri-arunachaleshwara-ashtottara-shatanamavali` · **Deity:** shiva · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
 - [Kannada — ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-arunachaleshwara-ashtottara-shatanamavali.kn.md)
