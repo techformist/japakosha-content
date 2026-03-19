@@ -16,11 +16,11 @@
 ## 2. Mandatory Rules
 
 1. **Never invent scripture sources.** If the source is unknown, set `source.text` to `"Traditional"` and `source.citation` to `null`.
-2. **Never submit content without required metadata.** Every mantra needs `canonical_id`, `source`, `license`, and `status` in `meta.json`.
+2. **Never submit content without required metadata.** Every mantra needs a stable ID, `source`, and `license`.
 3. **Never rename existing `canonical_id` values.** These are permanent stable identifiers.
 4. **Prefer minimal edits** to existing records. Do not rewrite content that is already correct.
 5. **Keep localization files independent.** Each `<lang>-<script>.json` file is self-contained per mantra.
-6. **Mark uncertain content honestly.** If unsure about authenticity, set `quality_level: "unverified"` and `status: "pending"`.
+6. **Mark uncertain content honestly.** If unsure about authenticity, set `quality_level: "unverified"` and explain uncertainty in the PR.
 
 ---
 
@@ -95,7 +95,6 @@ Use these exact codes:
   },
   "license": "public-domain",
   "attribution": null,
-  "status": "pending",
   "created_at": "REPLACE-ISO-8601",
   "updated_at": "REPLACE-ISO-8601"
 }
@@ -106,8 +105,6 @@ Valid `deity_theme` values: `ganesha`, `shiva`, `vishnu`, `devi`, `hanuman`, `un
 Valid `purpose` values: `peace`, `protection`, `health`, `wisdom`, `gratitude`, `prosperity`, `devotion`, `meditation` (extensible).
 
 Valid `license` values: `public-domain`, `cc-by-4.0`, `cc-by-sa-4.0`, `contributor-owned`.
-
-Valid `status` values: `draft`, `pending`, `approved`, `flagged`.
 
 ### 5.2 Localization File Template
 
@@ -183,7 +180,6 @@ Before creating a PR, verify:
 - [ ] Every localization file passes `schemas/localization.schema.json`.
 - [ ] `source.text` is set (never empty).
 - [ ] `license` is set.
-- [ ] `status` is `pending` (not `approved` — maintainers approve).
 - [ ] `canonical_id` in localization files matches the parent folder name.
 - [ ] `language_code` and `script` are from the reference table (§4).
 - [ ] `body` and `title` are non-empty.
@@ -225,7 +221,6 @@ When creating a pull request, include:
 
 - [ ] JSON schema validation passes
 - [ ] No duplicate canonical_id or slug
-- [ ] Status is `pending` for new content
 - [ ] Source citation exists for all new mantras
 ```
 
@@ -236,7 +231,7 @@ When creating a pull request, include:
 | Mistake                                                    | Correct Approach                                                                    |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Inventing a `canonical_id` that duplicates an existing one | Search existing `content/mantras/` first                                            |
-| Setting `status: "approved"` on new content                | Always use `pending`; maintainers approve                                           |
+| Adding separate approval metadata in content               | Treat merge to `main` as the approval boundary                                      |
 | Putting multiple mantras in one localization file          | One localization file per mantra per language                                       |
 | Using `en` script code instead of `Latn`                   | Language code ≠ script code. Use ISO 15924 for scripts.                             |
 | Mixing languages within a single localization file         | Each file is one language only                                                      |

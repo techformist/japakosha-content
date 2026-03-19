@@ -21,7 +21,6 @@ const VALID_PURPOSES = new Set(METADATA.purposes);
 const VALID_TRADITIONS = new Set(METADATA.traditions);
 const VALID_LANGUAGES = new Set(Object.keys(METADATA.languages));
 const VALID_LICENSES = new Set(METADATA.licenses);
-const VALID_STATUSES = new Set(METADATA.statuses);
 const VALID_QUALITY_LEVELS = new Set(METADATA.quality_levels);
 const VALID_TAGS = {};
 for (const [group, values] of Object.entries(METADATA.tags)) {
@@ -70,7 +69,7 @@ for (const relPath of mdFiles) {
   }
 
   // --- Required fields ---
-  const required = ['id', 'mantra_id', 'language_code', 'title', 'deity_theme', 'license', 'status', 'quality_level', 'created_at', 'updated_at'];
+  const required = ['id', 'mantra_id', 'language_code', 'title', 'deity_theme', 'license', 'quality_level', 'created_at', 'updated_at'];
   for (const field of required) {
     if (data[field] === undefined || data[field] === null || data[field] === '') {
       error(relPath, `Missing required field: ${field}`);
@@ -128,10 +127,6 @@ for (const relPath of mdFiles) {
 
   if (data.license && !VALID_LICENSES.has(data.license)) {
     error(relPath, `Invalid license: "${data.license}". Valid: ${[...VALID_LICENSES].join(', ')}`);
-  }
-
-  if (data.status && !VALID_STATUSES.has(data.status)) {
-    error(relPath, `Invalid status: "${data.status}". Valid: ${[...VALID_STATUSES].join(', ')}`);
   }
 
   if (data.quality_level && !VALID_QUALITY_LEVELS.has(data.quality_level)) {

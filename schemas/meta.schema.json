@@ -10,7 +10,6 @@
     "deity_theme",
     "source",
     "license",
-    "status",
     "created_at",
     "updated_at"
   ],
@@ -70,11 +69,6 @@
     "attribution": {
       "type": ["string", "null"],
       "description": "Required if license is cc-by-* or contributor-owned."
-    },
-    "status": {
-      "type": "string",
-      "enum": ["draft", "pending", "approved", "flagged"],
-      "description": "Moderation status. New content must be 'pending'."
     },
     "created_at": {
       "type": "string",

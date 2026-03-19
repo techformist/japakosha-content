@@ -6,6 +6,7 @@
   "scripts": {
     "validate": "node scripts/validate.mjs",
     "catalog": "node scripts/generate-catalog.mjs",
+    "artifacts": "node scripts/generate-artifacts.mjs",
     "convert": "node scripts/convert-xlsx.mjs"
   },
   "keywords": ["mantras", "stotras", "hindu", "prayers"],

@@ -28,6 +28,7 @@ Each markdown file is **self-contained** with all metadata in front matter and m
 | `catalog/` | Auto-generated browsable index (do not edit) |
 | `scripts/validate.mjs` | Validates content against metadata.json |
 | `scripts/generate-catalog.mjs` | Generates catalog/ from content |
+| `scripts/generate-artifacts.mjs` | Generates publishable JSON artifacts in `dist/latest/` |
 | `docs/CONTENT_PRD.md` | Product and governance spec |
 | `docs/AI_CONTENT_INSTRUCTIONS.md` | AI agent content guidelines |
 
@@ -36,7 +37,7 @@ Each markdown file is **self-contained** with all metadata in front matter and m
 1. Create a file in `content/<lang>/<mantra-id>.<lang>.md`
 2. Fill in all required front matter fields (see `docs/AI_CONTENT_INSTRUCTIONS.md`)
 3. Ensure values exist in [`metadata.json`](metadata.json)
-4. Set `status: "pending"` — maintainers approve
+4. Open a PR for review; merged content on `main` is publishable
 5. Open a PR — validation runs automatically via GitHub Actions
 
 ### Validation
@@ -44,12 +45,30 @@ Each markdown file is **self-contained** with all metadata in front matter and m
 ```bash
 pnpm run validate    # Check all content against metadata.json
 pnpm run catalog     # Regenerate catalog/ pages
+pnpm run artifacts   # Generate JSON artifacts in dist/latest/
 ```
 
 ## CI/CD
 
 - **PR validation** — runs `validate.mjs` on every PR touching `content/` or `metadata.json`
 - **Catalog generation** — on merge to `main`, catalog is regenerated and committed
+- **Artifact publishing** — on merge to `main`, content is published to GitHub Pages from `dist/latest/`
+
+## Published Artifacts
+
+All content merged to `main` is included in the machine-readable publish output.
+
+```text
+dist/
+  .nojekyll
+  latest/
+    manifest.json
+    categories.json
+    mantras/
+      <canonical_id>.json
+```
+
+`manifest.json` contains the content version, generation timestamp, category path, and the published mantra index. `categories.json` is derived from `metadata.json`, and each mantra artifact groups localizations by `mantra_id`.
 
 ## Non-Goals
 

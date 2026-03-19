@@ -74,7 +74,6 @@ Each mantra lives in `content/mantras/<canonical_id>/meta.json`:
   },
   "license": "public-domain",
   "attribution": null,
-  "status": "approved",
   "created_at": "2024-06-01T00:00:00Z",
   "updated_at": "2024-06-15T00:00:00Z"
 }
@@ -93,7 +92,6 @@ Each mantra lives in `content/mantras/<canonical_id>/meta.json`:
 | `source.url`      | string   | ❌       | Link to authoritative reference.                                                   |
 | `license`         | string   | ✅       | `public-domain`, `cc-by-4.0`, `cc-by-sa-4.0`, or `contributor-owned`.              |
 | `attribution`     | string   | ❌       | Required if license is `cc-by-*` or `contributor-owned`.                           |
-| `status`          | enum     | ✅       | `draft` → `pending` → `approved` → `flagged`. Only `approved` goes into artifacts. |
 | `created_at`      | ISO 8601 | ✅       |                                                                                    |
 | `updated_at`      | ISO 8601 | ✅       |                                                                                    |
 
@@ -272,7 +270,7 @@ Schema: `schemas/manifest.schema.json`
 
 ### 6.2 Bundle Strategy
 
-- **Full bundles** for bootstrap sync: contains all `approved` mantras with all localizations.
+- **Full bundles** for bootstrap sync: contains all mantras on `main` with all localizations.
 - **Delta bundles** (optional): keyed by `deltaFrom` contentVersion. Contains only added/modified/deleted mantras since that version.
 - **Deletion handling**: delta bundles include a `deletions` array of `canonical_id` values.
 
@@ -280,7 +278,7 @@ Schema: `schemas/manifest.schema.json`
 
 The `scripts/build-artifacts.sh` script:
 
-1. Scans all `content/mantras/*/meta.json` where `status == "approved"`.
+1. Scans all content files on `main`.
 2. For each, collects all `localizations/*.json`.
 3. Writes `bundles/categories.json` from `content/categories/categories.json`.
 4. Writes `bundles/mantras-full.json` as a flat array of mantra objects with embedded localizations.
@@ -294,8 +292,7 @@ The `scripts/build-artifacts.sh` script:
 
 - **PR-only** contribution model. No direct pushes to `main`.
 - Source attribution and license declaration required in every PR.
-- Maintainer review required before `status: approved`.
-- New content enters as `status: pending`.
+- Maintainer review is enforced through the PR and merge flow.
 - Flag/revert workflow for inaccuracies or abuse.
 - PR template enforces: canonical ID, source citation, license confirmation, translation notes.
 
@@ -321,7 +318,6 @@ Every PR must pass:
 | Required metadata fields present                       | Schema `required` enforcement                       | ✅                |
 | `language_code` is valid BCP-47                        | Regex or validation lib                             | ✅                |
 | `script` is valid ISO 15924                            | Validation against known list                       | ✅                |
-| `status` is `pending` for new content (not `approved`) | Script check                                        | ✅                |
 | No empty `body` or `title`                             | Schema `minLength: 1`                               | ✅                |
 | Optional: profanity/spam heuristic                     | Lightweight keyword filter                          | ❌ (warning only) |
 
