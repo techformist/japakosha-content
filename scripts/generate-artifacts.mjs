@@ -210,6 +210,30 @@ function writeJson(filePath, value) {
   writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf-8');
 }
 
+function writeRootIndex() {
+  const html = `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JapaKosha Content Artifacts</title>
+</head>
+<body>
+  <main>
+    <h1>JapaKosha Content Artifacts</h1>
+    <p>This host publishes machine-readable content artifacts for JapaKosha downstream consumers.</p>
+    <ul>
+      <li><a href="/latest/manifest.json">Latest manifest</a></li>
+      <li><a href="/latest/categories.json">Latest categories</a></li>
+    </ul>
+  </main>
+</body>
+</html>
+`;
+
+  writeFileSync(resolve(DIST_DIR, 'index.html'), html, 'utf-8');
+}
+
 const mdFiles = globSync('content/**/*.md', { cwd: ROOT })
   .map(file => file.replace(/\\/g, '/'))
   .sort(stableCompare);
@@ -245,26 +269,31 @@ for (const canonicalId of canonicalIds) {
     canonical_id: artifact.canonical_id,
     slug: artifact.slug,
     languages: artifact.localizations.map(localization => localization.language_code),
-    path: `mantras/${artifact.canonical_id}.json`,
+    path: `/latest/mantras/${artifact.canonical_id}.json`,
   });
 }
 
 writeJson(resolve(LATEST_DIR, 'categories.json'), categories);
+writeRootIndex();
 
 const manifest = {
   contentVersion: getGitSha(),
   generatedAt: new Date().toISOString(),
   mantraCount: manifestEntries.length,
   languageCount: languageCodes.size,
-  categoriesPath: 'categories.json',
-  mantrasBasePath: 'mantras',
+  categoriesPath: '/latest/categories.json',
+  mantrasBasePath: '/latest/mantras',
   mantras: manifestEntries,
 };
 
 writeJson(resolve(LATEST_DIR, 'manifest.json'), manifest);
 writeFileSync(resolve(DIST_DIR, '.nojekyll'), '', 'utf-8');
 
-if (!existsSync(resolve(LATEST_DIR, 'manifest.json')) || !existsSync(resolve(LATEST_DIR, 'categories.json'))) {
+if (
+  !existsSync(resolve(DIST_DIR, 'index.html')) ||
+  !existsSync(resolve(LATEST_DIR, 'manifest.json')) ||
+  !existsSync(resolve(LATEST_DIR, 'categories.json'))
+) {
   throw new Error('Artifact generation did not produce the required output files.');
 }
 
