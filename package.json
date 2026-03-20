@@ -7,9 +7,16 @@
     "validate": "node scripts/validate.mjs",
     "catalog": "node scripts/generate-catalog.mjs",
     "artifacts": "node scripts/generate-artifacts.mjs",
-    "convert": "node scripts/convert-xlsx.mjs"
+    "convert": "node scripts/convert-xlsx.mjs",
+    "scan:kn-sandhi": "node scripts/scan-kn-sandhi-candidates.mjs",
+    "batch:kn-sandhi-review": "node scripts/generate-kn-sandhi-review-batch.mjs"
   },
-  "keywords": ["mantras", "stotras", "hindu", "prayers"],
+  "keywords": [
+    "mantras",
+    "stotras",
+    "hindu",
+    "prayers"
+  ],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.28.2",

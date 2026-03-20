@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git diff:*)",
+      "Bash(grep -n \"## Sanskrit Text \\(IAST\\)\" C:/dev/1p/mob/japakosha-content/content/en/*.md)",
+      "Bash(grep -n \"## Sanskrit Text\" C:/dev/1p/mob/japakosha-content/content/en/*.md)",
+      "Bash(ls C:/dev/1p/mob/japakosha-content/content/kn/*.md | wc -l)",
+      "Bash(ls C:/dev/1p/mob/japakosha-content/content/kn/*.md)",
+      "Bash(ls C:/dev/1p/mob/japakosha-content/content/en/*.md | sed 's/.*\\\\///' | sed 's/\\\\.en\\\\.md$//' > /tmp/existing_en.txt && wc -l /tmp/existing_en.txt)",
+      "Bash(cd C:/dev/1p/mob/japakosha-content/content/kn && ls *.md | sed 's/\\\\.kn\\\\.md$//' | grep -vE \"^\\(advaitha-lakshanam|agni-stotram-markandeya-puranam|aitareya-upanishad|ashvattha-stotram|ashwini-devata-stotram-mahabharatam|balopanishad|bhavanopanishad|bheeshma-ashtami-tarpana-slokam|bilva-upanishad|brahma-krutha-surya-stuti\\)$\")",
+      "Bash(ls C:/dev/1p/mob/japakosha-content/content/en/*.md 2>/dev/null | wc -l)",
+      "Bash(ls C:/dev/1p/mob/japakosha-content/content/sk/*.md 2>/dev/null | wc -l)",
+      "Bash(ls -la /c/dev/1p/mob/japakosha-content/content/sk/devi-vaibhava* /c/dev/1p/mob/japakosha-content/content/sk/gajendra* /c/dev/1p/mob/japakosha-content/content/sk/ganesha* /c/dev/1p/mob/japakosha-content/content/sk/ganga* /c/dev/1p/mob/japakosha-content/content/sk/gomatha* /c/dev/1p/mob/japakosha-content/content/sk/ishavasya* /c/dev/1p/mob/japakosha-content/content/sk/jabalo* 2>/dev/null | head -30)",
+      "Bash(wc -l /c/dev/1p/mob/japakosha-content/content/en/devi-vaibhava*.en.md /c/dev/1p/mob/japakosha-content/content/en/gajendra*.en.md /c/dev/1p/mob/japakosha-content/content/en/ganesha*.en.md /c/dev/1p/mob/japakosha-content/content/en/ganga*.en.md /c/dev/1p/mob/japakosha-content/content/en/gomatha*.en.md /c/dev/1p/mob/japakosha-content/content/en/ishavasya*.en.md /c/dev/1p/mob/japakosha-content/content/en/jabalo*.en.md 2>/dev/null)"
+    ]
+  }
+}
