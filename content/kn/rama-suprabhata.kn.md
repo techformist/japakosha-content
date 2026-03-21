@@ -2,30 +2,29 @@
 id: rama-suprabhata.kn
 mantra_id: rama-suprabhata
 language_code: kn
-title: ಶ್ರೀ ರಾಮ ಸುಪ್ರಭಾತಂ
+title: "ಶ್ರೀ ರಾಮ ಸುಪ್ರಭಾತಂ"
 deity_theme:
   - rama
   - vishnu
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
     - rama
-    - suprabhata
-    - pratah
+  occasion:
     - morning
 source:
-  text: Attributed to Appayya Dikshitar / Sri Vaishnava tradition
-  citation: Traditional Suprabhata literature
+  text: "Attributed to Appayya Dikshitar / Sri Vaishnava tradition"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ ಶ್ರೀರಾಮಾಯ ನಮಃ ॥
 

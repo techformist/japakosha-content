@@ -1,8 +1,8 @@
 ---
-id: sri-ganesha-hrudayam.sk
+id: sri-ganesha-hrudayam.sa
 mantra_id: sri-ganesha-hrudayam
-language_code: sk
-title: श्री गणेश हृदयं
+language_code: sa
+title: "श्री गणेश हृदयं"
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - hrudayam
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - hrudayam
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 शिव उवाच |
     गणेशहृदयं वक्ष्ये सर्वसिद्धिप्रदायकम् |
@@ -32,7 +31,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
     नानाविधानि छन्दांसि
 श्रीगणपतिप्रीत्यर्थमभीष्टसिद्ध्यर्थं जपे विनियोगः |
     गां गीमिति न्यासः |
-ध्यानम् |
+## ध्यानम्
     सिन्दूराभं त्रिनेत्रं पृथुतरजठरं रक्तवस्त्रावृतं तं
 पाशं चैवांकुशं वै रदनमभयदं पाणिभिः सन्दधानम् ||
 

@@ -1,8 +1,8 @@
 ---
-id: sri-vishwaksena-ashtottara-shatanamavali.sk
+id: sri-vishwaksena-ashtottara-shatanamavali.sa
 mantra_id: sri-vishwaksena-ashtottara-shatanamavali
-language_code: sk
-title: श्री विष्वक्सेनाष्टोत्तरशतनामावलिः
+language_code: sa
+title: "श्री विष्वक्सेनाष्टोत्तरशतनामावलिः"
 deity_theme:
   - vishnu
 purpose:
@@ -12,18 +12,16 @@ tags:
   content_type:
     - ashtottara
   keywords:
-    - sri
-    - vishwaksena
-    - ashtottara
     - shatanamavali
+    - vishwaksena
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ श्रीमत्सूत्रवतीनाथाय नमः |
     ॐ श्रीविष्वक्सेनाय नमः |

@@ -1,8 +1,8 @@
 ---
-id: sri-gayatri-tattva-mala-mantram.sk
+id: sri-gayatri-tattva-mala-mantram.sa
 mantra_id: sri-gayatri-tattva-mala-mantram
-language_code: sk
-title: श्री गायत्री तत्त्वमालामन्त्रं
+language_code: sa
+title: "श्री गायत्री तत्त्वमालामन्त्रं"
 deity_theme:
   - surya
   - universal
@@ -12,20 +12,19 @@ tradition: stotra
 tags:
   content_type:
     - mantra
-keywords:
-  - sri
-  - gayatri
-  - tattva
-  - mala
-  - mantram
-source:
-  text: Public Domain
+  keywords:
+    - gayatri
+    - mala
+    - mantram
+    - sri
+    - tattva
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 अस्य श्रीगायत्रीतत्त्वमालामन्त्रस्य विश्वामित्र ऋषिः अनुष्टुप् छन्दः परमात्मा देवता हलो बीजानि स्वराः शक्तयः अव्यक्तं कीलकं मम समस्तपापक्षयार्थे श्रीगायत्री मालामन्त्र जपे विनियोगः
 चतुर्विंशति तत्त्वानां यदेकं तत्त्वमुत्तमम् |

@@ -2,7 +2,7 @@
 id: riddhi-stava.en
 mantra_id: riddhi-stava
 language_code: en
-title: Riddhi Stava
+title: "Riddhi Stava"
 deity_theme:
   - venkateshwara
 purpose:
@@ -11,17 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - riddhi
-  - stava
+  keywords:
+    - riddhi
+    - stava
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shrimanvrishabhailesa vardhataam vijee bhavaan |
 divyam tvadeeyamaishvaryam nirmaaryaadam vijmbhataam || 1 ||

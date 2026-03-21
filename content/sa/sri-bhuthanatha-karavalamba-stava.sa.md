@@ -1,8 +1,8 @@
 ---
-id: sri-bhuthanatha-karavalamba-stava.sk
+id: sri-bhuthanatha-karavalamba-stava.sa
 mantra_id: sri-bhuthanatha-karavalamba-stava
-language_code: sk
-title: श्री भूतनाथ करावलम्ब स्तवः
+language_code: sa
+title: "श्री भूतनाथ करावलम्ब स्तवः"
 deity_theme:
   - ayyappa
 purpose:
@@ -11,21 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - bhuthanatha
-  - karavalamba
-  - stava
-source:
-  text: Public Domain
+  keywords:
+    - bhuthanatha
+    - karavalamba
+    - sri
+    - stava
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
-॓ंकाररूप शबरीवरपीठदीप
+ॐकाररूप शबरीवरपीठदीप
 शृङ्गार रङ्ग रमणीयकला कलाप |
 अङ्गारवर्ण मणिकण्ठ महत्प्रताप
 श्रीभूतनाथ मम देहि करावलम्बम् || १ ||

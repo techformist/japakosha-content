@@ -2,7 +2,7 @@
 id: sri-tulasi-stotram.en
 mantra_id: sri-tulasi-stotram
 language_code: en
-title: Sri Tulasi Stotram
+title: "Sri Tulasi Stotram"
 deity_theme:
   - universal
 purpose:
@@ -11,12 +11,12 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - tulasi
-  - stotram
+  keywords:
+    - sri
+    - stotram
+    - tulasi
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

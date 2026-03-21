@@ -1,31 +1,30 @@
 ---
-id: sri-shyamala-ashtottara-shatanama-stotram-2.sk
+id: sri-shyamala-ashtottara-shatanama-stotram-2.sa
 mantra_id: sri-shyamala-ashtottara-shatanama-stotram-2
-language_code: sk
-title: श्रीश्यामलाष्टोत्तरशतनामस्तोत्रम् २
+language_code: sa
+title: "श्रीश्यामलाष्टोत्तरशतनामस्तोत्रम् २"
 deity_theme:
   - devi
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - shyamala
-  - ashtottara
-  - shatanama
-  - stotram
-  - 2
-source:
-  text: Public Domain
+  keywords:
+    - 2
+    - ashtottara
+    - shatanama
+    - shyamala
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 अस्य श्रीश्यामलाष्टोत्तरशतनामस्तोत्र महामन्त्रस्य, महाभैरव ऋषिः, अनुष्टुप् छन्दः, श्रीमातङ्गीश्वरी देवता, आदिशक्तिरिति बीजं, सर्वकामप्रदेति शक्तिः, परञ्ज्योतिः स्वरूपिणीति कीलकं, श्यामलाष्टोत्तरशतनाम जपे विनियोगः
@@ -71,7 +70,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 रक्तवस्त्रपरीधाने गृहीतमधुपात्रके |
     मधुप्रिये नमस्तुभ्यं मधुमांसबलिप्रिये || १४ ||
 
-रक्ताक्षी घार्णमानाक्षी स्मितेन्दुमुखि संस्तुते |
+रक्ताक्षी घर्मानाक्षी स्मितेन्दुमुखि संस्तुते |
     कस्तूरीतिलकोपेते चन्द्रशीर्षे जगन्मये || १५ ||
 
 नमस्तुभ्यं महालक्ष्मि कदम्बवनसंस्थिते |
@@ -98,7 +97,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 नमः परापरकले परमात्मप्रिये नमः |
     नमस्ते राजमातङ्गी नमस्तुभ्यं नमोऽस्तु ते || २३ ||
 
-फलश्रुतिः –
+## फल श्रुति
 नाम्नामष्टोत्तरं पुण्यं श्यामलाया इतीरितम् |
     प्रजपेद्यो नरो भक्त्या सर्वपापैर्विमुच्यते || २४ ||
 

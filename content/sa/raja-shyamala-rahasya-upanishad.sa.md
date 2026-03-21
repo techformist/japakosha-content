@@ -1,29 +1,29 @@
 ---
-id: raja-shyamala-rahasya-upanishad.sk
+id: raja-shyamala-rahasya-upanishad.sa
 mantra_id: raja-shyamala-rahasya-upanishad
-language_code: sk
+language_code: sa
 title: राजश्यामलारहस्योपनिषत्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - raja
-  - shyamala
-  - rahasya
-  - upanishad
-source:
-  text: Public Domain
+  keywords:
+    - rahasya
+    - raja
+    - shyamala
+    - upanishad
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः
 स्वस्ति नः पूषा विश्ववेदाः |

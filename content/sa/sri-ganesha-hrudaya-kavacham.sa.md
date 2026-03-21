@@ -1,29 +1,28 @@
 ---
-id: sri-ganesha-hrudaya-kavacham.sk
+id: sri-ganesha-hrudaya-kavacham.sa
 mantra_id: sri-ganesha-hrudaya-kavacham
-language_code: sk
-title: श्री गणेश हृदय कवचं
+language_code: sa
+title: "श्री गणेश हृदय कवचं"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - sri
-  - ganesha
-  - hrudaya
-  - kavacham
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - hrudaya
+    - kavacham
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 नमस्तस्मै गणेशाय सर्वविघ्नविनाशिने |
     कार्यारम्भेषु सर्वेषु पूजितो यः सुरैरपि || १ ||
@@ -48,8 +47,8 @@ updated_at: '2026-02-15T07:06:28.137Z'
 इदं कवचमज्ञात्वा यो जपेद्गणनायकम् |
     न च सिद्धिमवाप्नोति मूढो वर्णशतैरपि || ७ ||
 
-घोरो मे यथा मन्त्रो मन्त्राणामुत्तमोत्तमः |
-    थाइदं कवचं देवी दुर्लभं भुवि मानवैः || ८ ||
+अघोरो मे यथा मन्त्रो मन्त्राणामुत्तमोत्तमः |
+    तथेदं कवचं देवी दुर्लभं भुवि मानवैः || ८ ||
 
 गोपनीयं प्रयत्नेन नाज्येयं यस्य कस्यचित् |
     तव प्रीत्या महेशानि कवचं कथ्येऽद्भुतम् || ९ ||
@@ -60,7 +59,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 गं बीजं शक्तिरोंकारः सर्वकामार्थसिद्धये |
     सर्वविघ्नविनाशाय विनियोगस्तु कीर्तितः || ११ ||
 
-ध्यानम् |
+## ध्यानम्
     रक्ताम्भोजस्वरूपं लसदरुणसरोजाधिरूढं त्रिनेत्रं
 पाशं चैवांकुशं वा वरदमभयदं बाहुभिर्धारयन्तम् |
     शक्त्या युक्तं गजास्यं पृथुतरजठरं नागयज्ञोपवीतं

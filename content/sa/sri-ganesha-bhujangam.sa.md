@@ -1,8 +1,8 @@
 ---
-id: sri-ganesha-bhujangam.sk
+id: sri-ganesha-bhujangam.sa
 mantra_id: sri-ganesha-bhujangam
-language_code: sk
-title: श्री गणेश भुजंगं
+language_code: sa
+title: "श्री गणेश भुजंगं"
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - bhujangam
-source:
-  text: Public Domain
+  keywords:
+    - bhujangam
+    - ganesha
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 रणत्क्षुद्रघण्टानिनादाभिरामं
 चलत्ताण्डवोद्दण्डवत्पद्मतालम्
@@ -45,12 +44,12 @@ updated_at: '2026-02-15T07:06:28.137Z'
 गणाधीशमीशानसूनुं तमीडे || ४ ||
 
 उदञ्चद्भुजावल्लरीदृश्यमूलो-
-\-चलद्भूलता�विभ्रमभ्राजदक्षम्
+\-चलद्भूलतारविभ्रमभ्राजदक्षम्
     मरुत्सुन्दरीचामरैः सेव्यमानं
 गणाधीशमीशानसूनुं तमीडे || ५ ||
 
 स्फुरंनिष्ठुरालोलपिङ्गाक्षितारं
-कृपाकोमलोदारलीला�वतारम्
+कृपाकोमलोदारलीलाल्लीलावतारम्
     कलाबिन्दुगं गीयते योगिवर्यै-
 \-र्गणाधीशमीशानसूनुं तमीडे || ६ ||
 

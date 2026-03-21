@@ -1,8 +1,8 @@
 ---
-id: ganga-stotram.sk
+id: ganga-stotram.sa
 mantra_id: ganga-stotram
-language_code: sk
-title: श्री गङ्गा स्तोत्रम्
+language_code: sa
+title: "श्री गङ्गा स्तोत्रम्"
 deity_theme:
   - universal
 purpose:
@@ -11,11 +11,10 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - ganga
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ganga
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

@@ -2,7 +2,7 @@
 id: sri-dharma-sastha-stotram-by-sringeri-jagadguru.en
 mantra_id: sri-dharma-sastha-stotram-by-sringeri-jagadguru
 language_code: en
-title: Sri Dharma Sastha Stotram (by Sringeri Jagadguru)
+title: "Sri Dharma Sastha Stotram (by Sringeri Jagadguru)"
 deity_theme:
   - ayyappa
 purpose:
@@ -11,21 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - dharma
-  - sastha
-  - stotram
-  - sringeri
-  - jagadguru
+  keywords:
+    - dharma
+    - jagadguru
+    - sastha
+    - sri
+    - sringeri
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 jagatpratishthaaheturyah dharmah shrutyantakiirtitah |

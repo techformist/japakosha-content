@@ -1,23 +1,23 @@
 ---
-id: "sri-datta-nakshatra-malika.en"
-mantra_id: "sri-datta-nakshatra-malika"
-language_code: "en"
+id: sri-datta-nakshatra-malika.en
+mantra_id: sri-datta-nakshatra-malika
+language_code: en
 title: "Sri Datta Nakshatra Malika"
-deity_theme: ["dattatreya"]
-purpose: ["devotion"]
-tradition: "stotra"
+deity_theme: "[\\"dattatreya\\"]"
+purpose: "[\\"devotion\\"]"
+tradition: stotra
 tags:
-  content_type: ["stotra"]
-keywords:
-  - "sri"
-  - "datta"
-  - "nakshatra"
-  - "malika"
+  content_type:
+  keywords:
+    - "datta"
+    - "malika"
+    - "nakshatra"
+    - "sri"
 source:
   text: "Public Domain"
   citation: null
-  license: "public-domain"
-quality_level: "community"
+  license: public-domain
+quality_level: community
 phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"

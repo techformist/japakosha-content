@@ -2,30 +2,30 @@
 id: sri-shyamala-ashtottara-shatanama-stotram-2.en
 mantra_id: sri-shyamala-ashtottara-shatanama-stotram-2
 language_code: en
-title: Sri Shyamala Ashtottara Shatanama Stotram 2
+title: "Sri Shyamala Ashtottara Shatanama Stotram 2"
 deity_theme:
   - devi
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - shyamala
-  - ashtottara
-  - shatanama
-  - stotram
-  - 2
+  keywords:
+    - 2
+    - ashtottara
+    - shatanama
+    - shyamala
+    - sri
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 asya shrIshyAmAlAShTottara shatanAmastotra mahAmantrasya, mahAbhairava RRiShiH, anuShTup chandaH, shrImAtangIshvarI devatA, AdI shaktiritya bIjaM, sarvakAmapradAyeti shaktiH, paraMjyotiH svarUpiNitya kIlakaM, shyAmAlAShTottara shatanAma jape viniyogaH
@@ -240,7 +240,7 @@ Salutations to you, Oh beloved of the Supreme Self,
 Salutations to you, Oh Rajamatangi,
 Salutations to you, salutations to you.
 
-**Phala Shruti (Fruits of Recitation) –**
+## Phala Shruti (Fruits of Recitation)
 The merit of these hundred and eight names of Shyamala described here,
 Whoever recites with devotion is freed from all sins.
 

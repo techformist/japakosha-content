@@ -2,28 +2,28 @@
 id: runa-hartru-ganesha-stotram.en
 mantra_id: runa-hartru-ganesha-stotram
 language_code: en
-title: Sri Runahart Ganesh Stotram
+title: "Sri Runahart Ganesh Stotram"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - runa
-  - hartru
-  - ganesha
-  - stotram
+  keywords:
+    - ganesha
+    - hartru
+    - runa
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 || atha stotram |
 srishtyaadau brahmanaa samyakpujitah phasiddhaye |

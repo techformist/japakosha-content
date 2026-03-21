@@ -2,29 +2,28 @@
 id: jagad-vilakshana-surya-kavacham.kn
 mantra_id: jagad-vilakshana-surya-kavacham
 language_code: kn
-title: ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)
+title: "೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)"
 deity_theme:
   - surya
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - jagad
-  - vilakshana
-  - surya
-  - kavacham
-  - ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)
-source:
-  text: Public Domain
+  keywords:
+    - jagad
+    - kavacham
+    - surya
+    - vilakshana
+    - ೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಬೃಹಸ್ಪತಿರುವಾಚ |  
     ಇಂದ್ರ ಶೃಣು ಪ್ರವಕ್ಷ್ಯಾಮಿ ಕವಚಂ ಪರಮಾದ್ಭುತಮ್ |  

@@ -2,7 +2,7 @@
 id: ashvattha-stotram.en
 mantra_id: ashvattha-stotram
 language_code: en
-title: Ashvattha Stotram (Peepal Tree Hymn)
+title: "Ashvattha Stotram (Peepal Tree Hymn)"
 deity_theme:
   - universal
 purpose:
@@ -14,10 +14,9 @@ tags:
   keywords:
     - ashvattha
     - peepal
-    - stotram
     - sacred tree
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

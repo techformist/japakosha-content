@@ -2,7 +2,7 @@
 id: sri-ganga-ashtottara-shatanamavali.kn
 mantra_id: sri-ganga-ashtottara-shatanamavali
 language_code: kn
-title: ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+title: "ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
 deity_theme:
   - universal
 purpose:
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - ganga
-  - ashtottara
-  - shatanamavali
-  - ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-source:
-  text: Public Domain
+  keywords:
+    - ashtottara
+    - ganga
+    - shatanamavali
+    - sri
+    - ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಓಂ ಗಂಗಾಯೈ ನಮಃ |  
     ಓಂ ವಿಷ್ಣುಪಾದಸಂಭೂತಾಯೈ ನಮಃ |  

@@ -2,7 +2,7 @@
 id: sri-ganga-ashtottara-shatanamavali.en
 mantra_id: sri-ganga-ashtottara-shatanamavali
 language_code: en
-title: Sri Ganga Ashtottara Shatanamavali
+title: "Sri Ganga Ashtottara Shatanamavali"
 deity_theme:
   - universal
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - ganga
-  - ashtottara
-  - shatanamavali
+  keywords:
+    - ashtottara
+    - ganga
+    - shatanamavali
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 OM gAngAyai namaH |
     OM viShNupAdasambhUtAyai namaH |

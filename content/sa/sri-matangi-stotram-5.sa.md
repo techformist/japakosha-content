@@ -1,8 +1,8 @@
 ---
-id: sri-matangi-stotram-5.sk
+id: sri-matangi-stotram-5.sa
 mantra_id: sri-matangi-stotram-5
-language_code: sk
-title: श्रीमातङ्गीस्तोत्रम् ५
+language_code: sa
+title: "श्रीमातङ्गीस्तोत्रम् ५"
 deity_theme:
   - devi
 purpose:
@@ -11,19 +11,18 @@ tradition: tantric
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - matangi
-  - stotram
-  - 5
-source:
-  text: Public Domain
+  keywords:
+    - 5
+    - matangi
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 नमामि देवीं नवचन्द्रमौळिं
@@ -51,5 +50,5 @@ updated_at: '2026-02-15T07:06:28.137Z'
     अपि प्रायोरम्यां मृतमयपदायस्यललिता
 वटीचाद्यावाणी नटति रसनायां च फलिता || ५ ||
 
-सर्वलक्षणसंयुक्ता पुष्पणीमर्चयेच्छिवे |
+सर्वलक्षणसंयुक्ता पुष्पाणि मर्चयेच्छिवे |
     मतङ्गमुनिनोक्तं च सद्यः सिद्धिकरं भुवि || ६ ||

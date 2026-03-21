@@ -1,21 +1,21 @@
 ---
-id: gomatha-prarthana.sk
+id: gomatha-prarthana.sa
 mantra_id: gomatha-prarthana
-language_code: sk
-title: गोमाता प्रार्थना
+language_code: sa
+title: "गोमाता प्रार्थना"
 deity_theme:
   - universal
 purpose:
+  - gratitude
   - devotion
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - gomatha
-  - prarthana
-source:
-  text: Public Domain
+  keywords:
+    - gomatha
+    - prarthana
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

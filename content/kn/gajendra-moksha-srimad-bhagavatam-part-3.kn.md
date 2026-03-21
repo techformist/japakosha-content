@@ -2,32 +2,31 @@
 id: gajendra-moksha-srimad-bhagavatam-part-3.kn
 mantra_id: gajendra-moksha-srimad-bhagavatam-part-3
 language_code: kn
-title: ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩
+title: "ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩"
 deity_theme:
   - vishnu
 purpose:
-  - devotion
+  - liberation
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - gajendra
-  - moksha
-  - (srimad
-  - bhagavatam)
-  - part
-  - ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩
-  - srimad
-  - bhagavatam
-source:
-  text: Public Domain
+  keywords:
+    - (srimad
+    - bhagavatam
+    - bhagavatam)
+    - gajendra
+    - moksha
+    - part
+    - srimad
+    - ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಶ್ರೀಶುಕ ಉವಾಚ –  
 ತದಾ ದೇವರ್ಷಿಗಂಧರ್ವಾ ಬ್ರಹ್ಮೇಶಾನಪುರೋಗಮಾಃ |  

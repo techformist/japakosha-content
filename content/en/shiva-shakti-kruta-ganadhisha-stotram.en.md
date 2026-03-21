@@ -2,7 +2,7 @@
 id: shiva-shakti-kruta-ganadhisha-stotram.en
 mantra_id: shiva-shakti-kruta-ganadhisha-stotram
 language_code: en
-title: Sri Ganadhisha Stotram (by Shiva and Shakti)
+title: "Sri Ganadhisha Stotram (by Shiva and Shakti)"
 deity_theme:
   - ganesha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - shiva
-  - shakti
-  - kruta
-  - ganadhisha
-  - stotram
+  keywords:
+    - ganadhisha
+    - kruta
+    - shakti
+    - shiva
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shriishakti-shivaavuuchatuH |
 namaste gananaathaaya gaNaanaaM patayae namaH |

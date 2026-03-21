@@ -1,29 +1,29 @@
 ---
-id: sri-ayyappa-sharanu-gosha-1.sk
+id: sri-ayyappa-sharanu-gosha-1.sa
 mantra_id: sri-ayyappa-sharanu-gosha-1
-language_code: sk
-title: श्री अय्यप्प शरणुघोष १
+language_code: sa
+title: "श्री अय्यप्प शरणुघोष १"
 deity_theme:
   - ayyappa
 purpose:
+  - auspiciousness
   - devotion
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ayyappa
-  - sharanu
-  - gosha
-source:
-  text: Public Domain
+  keywords:
+    - ayyappa
+    - gosha
+    - sharanu
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ श्रीस्वामिये शरणं अय्यप्प |
 हरिहरसुतने |
@@ -78,7 +78,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 नित्यब्रह्मचारिये |
 सर्वमङ्गलदायकने |
 वीराधिवीरने |
-॓ंकारप्पोरुले |
+ॐकारप्पोरुले |
 ५०
 आनन्दरूपने |
 भक्तचित्ताधिवासने |
@@ -142,6 +142,6 @@ updated_at: '2026-02-15T07:06:28.137Z'
 कर्पूरज्योतिये |
 ज्योतिस्वरूपने |
 मकरज्योतिये |
-॓ं श्रीहरिहरसुतन् आनन्दचित्तन् अय्यन् अय्यप्प |
+ॐ श्रीहरिहरसुतन् आनन्दचित्तन् अय्यन् अय्यप्प |
 १०८
 स्वामिये शरणं अय्यप्प |

@@ -2,29 +2,29 @@
 id: sri-gayatri-shapa-vimochanam.en
 mantra_id: sri-gayatri-shapa-vimochanam
 language_code: en
-title: Sri Gayatri Shapa Vimochanam
+title: "Sri Gayatri Shapa Vimochanam"
 deity_theme:
   - surya
   - universal
 purpose:
-  - devotion
+  - purification
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - gayatri
-  - shapa
-  - vimochanam
+  keywords:
+    - gayatri
+    - shapa
+    - sri
+    - vimochanam
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 1. brahma shApavimochanaM –
 asya ShrIbrahmashApavimochana mantrasya nigrahAnugrahakarTA prajApatiRRiShiH, kAmadhugA yatRRI chandaH, bhuktimuktipradA brahmashApavimochanI gA yatrI shaktiH, savitA devatA, brahmashApavimochanArthe jape vinIyogaH |

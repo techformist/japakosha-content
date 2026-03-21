@@ -1,7 +1,7 @@
 ---
-id: sri-ganapathi-stotram.sk
+id: sri-ganapathi-stotram.sa
 mantra_id: sri-ganapathi-stotram
-language_code: sk
+language_code: sa
 title: श्रीगणपतिस्तोत्रम्
 deity_theme:
   - ganesha
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganapathi
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ganapathi
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 जेतुं यस्त्रिपुरं हरेण हरिणा व्याजाद्बलिं बध्नता ।

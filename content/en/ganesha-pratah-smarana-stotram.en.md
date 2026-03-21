@@ -2,7 +2,7 @@
 id: ganesha-pratah-smarana-stotram.en
 mantra_id: ganesha-pratah-smarana-stotram
 language_code: en
-title: Shri Ganesha Pratah Smarana Stotram
+title: "Shri Ganesha Pratah Smarana Stotram"
 deity_theme:
   - ganesha
 purpose:
@@ -11,34 +11,34 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - ganesha
-  - pratah
-  - smarana
-  - stotram
+  keywords:
+    - ganesha
+    - pratah
+    - smarana
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
-praataH smaraami gaNa-naathamanaatha-bandhum |
-    siMdUra-pūra-parishobhita-gaṇḍa-yugmam |
-    uddaMda-vighna-parikhaṇḍa-na-chanda-dandaM |
-    ākhaṇḍalaa-disura-naayaka-bRRiinda-vandyam || 1 ||
+prātaḥ smarāmi gaṇanāthamanāthabandhuṃ |
+    sindūra-pūra-pariśobhitagaṇḍayugmam |
+    uddaṃḍa-vighna-parikhaṇḍana-chanda-daṇḍaṃ |
+    ākhaṇḍalādiśuranāyaka-bṛndavandyam || 1 ||
 
-praatar-naamaami caturaanana-vandya-maanaM |
-    ichChaa-anuūlamakhilaM ca varaM dadaanam |
-    taM tuṇḍilam dvirasanaadhipa yajña-sūtram |
-    putraM vilaaSa-caturam shivayoH shivaayai || 2 ||
+prātar-nāmāmi caturānana-vandyamānaṃ |
+    icchā-anulamakhilaṃ varaṃ dadānāṃ |
+    taṃ tuṇḍilam dvirasannādhipa yajña-sūtraṃ |
+    putraṃ vilāsa-caturaṃ śivayoḥ śivāya || 2 ||
 
-praatar-bhajaamya-abadayaM khalu bhakta-shoka-
-\-daa-vaanalaM gaṇavibhuM vara-kunjaraa-syam |
-    aagyaana-kaaMana-vinaaSana-havavyavaahaM |
-    utsaaha-vardhanamahaM sutaM-iishvarasya || 3 ||
+prātar-bhajāmy-abadhayaṃ khalu bhakta-śoka-
+-dahanānalaṃ gaṇavibhuṃ vara-kunjarāsyam |
+    ajñāna-kāma-vināśana-havavyavāhaṃ |
+    utsāha-vardhanamaham sutaṃ īśvarasya || 3 ||
 
 shloka-trayamidaM puNyaM sadaa saamraajya-daayakaM |
     praatar-utthaa-ya satataM yaH paThet-prayataH pumaaM || 4 ||

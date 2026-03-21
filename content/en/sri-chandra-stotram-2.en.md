@@ -2,7 +2,7 @@
 id: sri-chandra-stotram-2.en
 mantra_id: sri-chandra-stotram-2
 language_code: en
-title: Sri Chandra Stotram 2
+title: "Sri Chandra Stotram 2"
 deity_theme:
   - navagraha
 purpose:
@@ -11,18 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - chandra
-  - stotram
+  keywords:
+    - chandra
+    - sri
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shvetaaMbaraH shvetavapuH kiiriiTii
 shvetadyutirdaNdadharo dvibaahuH |

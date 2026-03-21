@@ -1,28 +1,27 @@
 ---
-id: sri-venkateshwara-stotram.sk
+id: sri-venkateshwara-stotram.sa
 mantra_id: sri-venkateshwara-stotram
-language_code: sk
-title: श्री वेंकटेश्वर स्तोत्रम्
+language_code: sa
+title: "श्री वेंकटेश्वर स्तोत्रम्"
 deity_theme:
   - venkateshwara
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - venkateshwara
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - sri
+    - stotram
+    - venkateshwara
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 कमलाकुचचूचुककुंकुमतो
 नियतारुणितातुलनीलतनो |

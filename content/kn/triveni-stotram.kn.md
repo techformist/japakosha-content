@@ -2,27 +2,27 @@
 id: triveni-stotram.kn
 mantra_id: triveni-stotram
 language_code: kn
-title: ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ
+title: "ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - purification
+  - peace
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - triveni
-  - stotram
-  - ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ
-source:
-  text: Public Domain
+  keywords:
+    - stotram
+    - triveni
+    - ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಮುಕ್ತಾಮಯಾಲಂಕೃತಮುದ್ರವೇಣೀ  
 ಭಕ್ತಾಭಯತ್ರಾಣಸುಬದ್ಧವೇಣೀ |  

@@ -1,8 +1,8 @@
 ---
-id: sri-surya-stavaraja-stotram.sk
+id: sri-surya-stavaraja-stotram.sa
 mantra_id: sri-surya-stavaraja-stotram
-language_code: sk
-title: श्री सूर्य स्तवराज स्तोत्रम्
+language_code: sa
+title: "श्री सूर्य स्तवराज स्तोत्रम्"
 deity_theme:
   - surya
 purpose:
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - surya
-  - stavaraja
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - sri
+    - stavaraja
+    - stotram
+    - surya
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ब्रह्मोवाच |
 स्तवनं सामवेदोक्तं सूर्यस्य व्याधिमोचनम् |

@@ -2,28 +2,27 @@
 id: visuchika-nivarana-mantra-yoga-vasistham.en
 mantra_id: visuchika-nivarana-mantra-yoga-vasistham
 language_code: en
-title: Visuchika Nivarana Mantra (Yoga Vasistham)
+title: "Visuchika Nivarana Mantra (Yoga Vasistham)"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - health
 tradition: stotra
 tags:
   content_type:
     - mantra
   keywords:
-    - visuchika
     - nivarana
-    - mantra
+    - visuchika
     - yoga vasistham
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shri vasishthauvacha |
 atha varshasahreina tam pitamah ayyayau |

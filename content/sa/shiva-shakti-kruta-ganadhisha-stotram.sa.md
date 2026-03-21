@@ -1,8 +1,8 @@
 ---
-id: shiva-shakti-kruta-ganadhisha-stotram.sk
+id: shiva-shakti-kruta-ganadhisha-stotram.sa
 mantra_id: shiva-shakti-kruta-ganadhisha-stotram
-language_code: sk
-title: श्री गणाधीश स्तोत्रं (शिवशक्तिकृतं)
+language_code: sa
+title: "श्री गणाधीश स्तोत्रं (शिवशक्तिकृतं)"
 deity_theme:
   - ganesha
 purpose:
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - shiva
-  - shakti
-  - kruta
-  - ganadhisha
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ganadhisha
+    - kruta
+    - shakti
+    - shiva
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 श्रीशक्तिशिवावूचतुः |
 नमस्ते गणनाथाय गणानां पतये नमः |

@@ -2,29 +2,28 @@
 id: sri-ganesha-hrudaya-kavacham.kn
 mantra_id: sri-ganesha-hrudaya-kavacham
 language_code: kn
-title: ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ
+title: "ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - sri
-  - ganesha
-  - hrudaya
-  - kavacham
-  - ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - hrudaya
+    - kavacham
+    - sri
+    - ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ನಮಸ್ತಸ್ಮೈ ಗಣೇಶಾಯ ಸರ್ವವಿಘ್ನವಿನಾಶಿನೇ |  
     ಕಾರ್ಯಾರಂಭೇಷು ಸರ್ವೇಷು ಪೂಜಿತೋ ಯಃ ಸುರೈರಪಿ || ೧ ||

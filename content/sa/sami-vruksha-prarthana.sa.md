@@ -1,23 +1,22 @@
 ---
-id: "sami-vruksha-prarthana.sk"
-mantra_id: "sami-vruksha-prarthana"
-language_code: "sk"
+id: sami-vruksha-prarthana.sa
+mantra_id: sami-vruksha-prarthana
+language_code: sa
 title: "शमी प्रार्थना"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+deity_theme: "[\"universal\"]"
+purpose: "[\"devotion\"]"
+tradition: stotra
 tags:
-  content_type: ["stotra"]
-keywords:
-  - "sami"
-  - "vruksha"
-  - "prarthana"
-  - "शमी प्रार्थना"
-source:
+  content_type:
+  keywords:
+    - prarthana
+    - sami
+    - vruksha
+    - शमी प्रार्थना
   text: "Public Domain"
   citation: null
-license: "public-domain"
-quality_level: "community"
+license: public-domain
+quality_level: community
 phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"

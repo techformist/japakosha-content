@@ -1,29 +1,28 @@
 ---
-id: runa-hartru-ganesha-stotram.sk
+id: runa-hartru-ganesha-stotram.sa
 mantra_id: runa-hartru-ganesha-stotram
-language_code: sk
-title: श्री ऋणहर्तृ गणेश स्तोत्रं
+language_code: sa
+title: "श्री ऋणहर्तृ गणेश स्तोत्रं"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - runa
-  - hartru
-  - ganesha
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - hartru
+    - runa
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 || अथ स्तोत्रम् |
 सृष्ट्यादौ ब्रह्मणा सम्यक्पूजितः फलसिद्धये |
@@ -71,21 +70,21 @@ updated_at: '2026-02-15T07:06:28.137Z'
 || अथ प्रयोगः |
 अस्य श्री ऋणहर्तृगणपतिस्तोत्र महामन्त्रस्य |
 सदाशिव ऋषिः
-करन्यासः |
+## करन्यासः
 ॐ गणेश अङ्गुष्ठाभ्यां नमः |
 ॐ ऋणं छिन्दि तर्जनीभ्यां नमः |
 ॐ वरेण्यं मध्यमाभ्यां नमः |
 ॐ हुं अनामिकाभ्यां नमः |
 ॐ नमः कनिष्ठिकाभ्यां नमः |
 ॐ फट् करतलकरपृष्ठाभ्यां नमः
-षडङ्गन्यासः |
+## षडङ्गन्यासः
 ॐ गणेश हृदयाय नमः |
 ॐ ऋणं छिन्दि शिरसे स्वाहा |
 ॐ वरेण्यं शिखायै वषट् |
 ॐ हुं कवचाय हुम् |
 ॐ नमः नेत्रत्रयाय वौषट् |
 ॐ फट् अस्त्राय फट्
-ध्यानं –
+## ध्यानम्
 सिन्दूरवर्णं द्विभुजं गणेशं
 लम्बोदरं पद्मदले निविष्टम् |
 ब्रह्मादिदेवैः परिसेव्यमानं

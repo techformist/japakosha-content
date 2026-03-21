@@ -1,28 +1,29 @@
 ---
-id: shiva-sankalpa-upanishad.sk
+id: shiva-sankalpa-upanishad.sa
 mantra_id: shiva-sankalpa-upanishad
-language_code: sk
+language_code: sa
 title: शिवसंकल्पोपनिषत्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
+  - meditation
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - shiva
-  - sankalpa
-  - upanishad
-source:
-  text: Public Domain
+  keywords:
+    - sankalpa
+    - shiva
+    - upanishad
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ येनेदं भूतं भुवनं भविष्यत्परिगृहीतममृतेन सर्वम् ।
 येन यज्ञस्त्रायते सप्तहोता तन्मे मनः शिवसंकल्पमस्तु ॥ १
@@ -62,11 +63,11 @@ updated_at: '2026-02-15T07:06:28.137Z'
 परात्परतरं ब्रह्म तत्परात्परतो हरिः ।
 यत्परात्परतोऽधीशं तन्मे मनः शिवसंकल्पमस्तु ॥ १८
 या वेदादिषु गायत्री सर्वव्यापी महेश्वरी ।
-ऋग्यजुः्सामाथर्वैश्च तन्मे मनः शिवसंकल्पमस्तु ॥ १९
-यो वै देवं महादेवं प्रयतः प्रणवश्शुचिः ।
+ऋग्यजुःसामाथर्वैश्च तन्मे मनः शिवसंकल्पमस्तु ॥ १९
+यो वै देवं महादेवं प्रयतः प्रणवशुचिः ।
 यस्सर्वे सर्व वेदैश्च तन्मे मनः शिवसंकल्पमस्तु ॥ २०
-प्रयतः प्रणवोंकारं प्रणवं पुरुषोत्तमम् ।
-ोंकारं प्रणवात्मानं तन्मे मनः शिवसंकल्पमस्तु ॥ २१
+प्रयतः प्रणवोङ्कारं प्रणवं पुरुषोत्तमम् ।
+ॐकारं प्रणवात्मानं तन्मे मनः शिवसंकल्पमस्तु ॥ २१
 योऽसौ सर्वेषु वेदेषु पठ्यते ह्य ईश्वरः ।
 अकायो निर्गुणो ह्यात्मा तन्मे मनः शिवसंकल्पमस्तु ॥ २२
 गोभिर्जुष्टं धनेन ह्यायुषा च बलेन च ।

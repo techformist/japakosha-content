@@ -2,26 +2,27 @@
 id: kundalini-stotram.en
 mantra_id: kundalini-stotram
 language_code: en
-title: Kundalini Stotram
+title: "Kundalini Stotram"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - meditation
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - kundalini
-  - stotram
+  keywords:
+    - kundalini
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 namaste deva-deveShe yogeShe-prANavallabhe |
     siddhIde varade mAtAH svayambhUliMgaveShTit-e || 1||

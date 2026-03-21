@@ -2,27 +2,27 @@
 id: santana-ganapati-stotram.en
 mantra_id: santana-ganapati-stotram
 language_code: en
-title: Santana Ganapati Stotram
+title: "Santana Ganapati Stotram"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - santana
-  - ganapati
-  - stotram
+  keywords:
+    - ganapati
+    - santana
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 namo' Astu gananaathaaya siddhibuddhiyutaaya ca |
 sarvapradaaya devaaya putravriddhipradaaya ca || 1 ||

@@ -2,23 +2,23 @@
 id: bilva-upanishad.en
 mantra_id: bilva-upanishad
 language_code: en
-title: Bilva Upanishad
+title: "Bilva Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
   keywords:
-    - bilva
     - bel tree
+    - bilva
     - shiva
-    - upanishad
 source:
-  text: Public Domain
-  citation: Shukla Yajur Veda
+  text: "Public Domain"
+  citation: "Shukla Yajur Veda"
 license: public-domain
 quality_level: community
 phonetic: null

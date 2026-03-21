@@ -2,22 +2,23 @@
 id: bheeshma-ashtami-tarpana-slokam.en
 mantra_id: bheeshma-ashtami-tarpana-slokam
 language_code: en
-title: Bheeshma Ashtami Tarpana Slokam
+title: "Bheeshma Ashtami Tarpana Slokam"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - auspiciousness
+  - gratitude
 tradition: stotra
 tags:
   content_type:
     - stotra
   keywords:
     - bheeshma
-    - tarpana
-    - pitru
     - oblations
+    - pitru
+    - tarpana
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

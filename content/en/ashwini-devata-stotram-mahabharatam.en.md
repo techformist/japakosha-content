@@ -2,11 +2,11 @@
 id: ashwini-devata-stotram-mahabharatam.en
 mantra_id: ashwini-devata-stotram-mahabharatam
 language_code: en
-title: Ashwini Devata Stotram (Mahabharatam)
+title: "Ashwini Devata Stotram (Mahabharatam)"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - health
 tradition: stotra
 tags:
   content_type:
@@ -15,10 +15,9 @@ tags:
     - ashwini
     - ashwini kumaras
     - devata
-    - stotram
     - mahabharata
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: Mahabharata
 license: public-domain
 quality_level: community

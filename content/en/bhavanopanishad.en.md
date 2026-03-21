@@ -6,18 +6,20 @@ title: Bhavanopanishad
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
+  - meditation
 tradition: upanishadic
 tags:
   content_type:
     - stotra
   keywords:
     - bhavanopanishad
-    - srividya
     - kundalini
+    - srividya
     - tantra
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

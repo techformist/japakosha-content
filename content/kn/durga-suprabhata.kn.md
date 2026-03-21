@@ -2,34 +2,34 @@
 id: durga-suprabhata.kn
 mantra_id: durga-suprabhata
 language_code: kn
-title: ಶ್ರೀದುರ್ಗಾ ಸುಪ್ರಭಾತಂ
+title: "ಶ್ರೀದುರ್ಗಾ ಸುಪ್ರಭಾತಂ"
 deity_theme:
   - durga
   - devi
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
-    - durga
     - devi
-    - suprabhata
-    - pratah
+    - durga
+  occasion:
+    - morning
 source:
-  text: Sage Kushika (Kaushika)
-  citation: Traditional Suprabhata literature
+  text: "Sage Kushika (Kaushika)"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ ಶ್ರೀದುರ್ಗಾಯೈ ನಮಃ ॥
 
-**ಶ್ಲೋಕ**
+## ಶ್ಲೋಕಗಳು
 ಕೌಶಿಕೇನ ವಿರಚಿತಂ ಪ್ರಬೋಧಬೋಧಕಂ
 ದುರ್ಗಾದೇವ್ಯಾಃ ಸುಪ್ರಭಾತಂ ಶೃಣು ನಿಪುಣಾ ।
 ಪ್ರಾತರುತ್ಥಾಯ ಯೋ ನಿತ್ಯಂ ಪಠೇತ್ಸುಪ್ರಭಾತಮ್
@@ -71,6 +71,6 @@ updated_at: '2026-03-20T00:00:00.000Z'
 **೧೨. ಸರ್ವಮಂಗಳಮಂಗಳ್ಯೈ ಸರ್ವಸಿದ್ಧಿಪ್ರದಾಯಿನೀ**
 ಎಲ್ಲಾ ಮಂಗಳಕರವಾದವಳಿಗೆ, ಎಲ್ಲಾ ಸಿದ್ಧಿಗಳನ್ನು ಕೊಡುವವಳಿಗೆ, ಎಲ್ಲಾ ಪಾಪಗಳನ್ನು ಹೋಗಲಾಡಿಸುವ ಮಹಾದೇವಿಗೆ ನಮನಗಳು ॥
 
-**ಶಾಂತಿಃ ಪಾಠಃ**
+## ಶಾಂತಿಃ ಪಾಠಃ
 ॐ ಸರ್ವೇಭ್ಯೋ ನಮಃ ।
 ಶ್ರೀದುರ್ಗಾಸುಪ್ರಭಾತಂ ಸಂಪೂರ್ಣಮ್ ॥

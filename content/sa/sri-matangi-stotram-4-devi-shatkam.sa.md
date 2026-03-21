@@ -1,8 +1,8 @@
 ---
-id: sri-matangi-stotram-4-devi-shatkam.sk
+id: sri-matangi-stotram-4-devi-shatkam.sa
 mantra_id: sri-matangi-stotram-4-devi-shatkam
-language_code: sk
-title: श्रीमातङ्गीस्तोत्रम् ४ (देवीषट्कम्)
+language_code: sa
+title: "श्रीमातङ्गीस्तोत्रम् ४ (देवीषट्कम्)"
 deity_theme:
   - devi
 purpose:
@@ -11,19 +11,18 @@ tradition: tantric
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - matangi
-  - stotram
-  - devi shatkam
-source:
-  text: Public Domain
+  keywords:
+    - devi shatkam
+    - matangi
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 अम्ब शशिबिम्बवदने कम्बुग्रीवे कठोरकुचकुम्भे |

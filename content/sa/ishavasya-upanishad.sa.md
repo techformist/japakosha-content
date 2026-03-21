@@ -1,34 +1,34 @@
 ---
-id: ishavasya-upanishad.sk
+id: ishavasya-upanishad.sa
 mantra_id: ishavasya-upanishad
-language_code: sk
+language_code: sa
 title: ईशावास्योपनिषद्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - ishavasya
-  - upanishad
-source:
-  text: Public Domain
+  keywords:
+    - ishavasya
+    - upanishad
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
 पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
 ॐ शान्तिः शान्तिः शान्तिः ॥
 ॐ ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् ।
 तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम् ॥ १ ॥
-कुर्वन्नेवेह कर्माणि जीविषेच्छतग्ं समाः ।
+कुर्वन्नेवेह कर्माणि जीविषेच्छन्तो गम् ।
 एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥ २ ॥
 असुर्या नाम ते लोका अन्धेन तमसावृताः ।
 तांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ ३ ॥

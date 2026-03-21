@@ -2,29 +2,29 @@
 id: sri-surya-kavacham-2-trilokya-mangalam.en
 mantra_id: sri-surya-kavacham-2-trilokya-mangalam
 language_code: en
-title: Sri Surya Kavacham 2 (Trilokya Mangalam)
+title: "Sri Surya Kavacham 2 (Trilokya Mangalam)"
 deity_theme:
   - surya
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - sri
-  - surya
-  - kavacham
-  - trilokya
-  - mangalam
+  keywords:
+    - kavacham
+    - mangalam
+    - sri
+    - surya
+    - trilokya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shrisurya uvacha
 samba samba mahabaho shrinu me kavacam shubham

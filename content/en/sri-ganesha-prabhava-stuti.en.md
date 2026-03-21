@@ -2,7 +2,7 @@
 id: sri-ganesha-prabhava-stuti.en
 mantra_id: sri-ganesha-prabhava-stuti
 language_code: en
-title: Sri Ganesha Mantra Prabhava Stuti
+title: "Sri Ganesha Mantra Prabhava Stuti"
 deity_theme:
   - ganesha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-keywords:
-  - sri
-  - ganesha
-  - mantra
-  - prabhava
-  - stuti
+  keywords:
+    - ganesha
+    - mantra
+    - prabhava
+    - sri
+    - stuti
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 Omit yAdau vedavido yaM pravadaMti
 brahmAdyA yaM lokavidhAne praNamamti |

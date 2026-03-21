@@ -2,7 +2,7 @@
 id: shadanana-ashtakam.en
 mantra_id: shadanana-ashtakam
 language_code: en
-title: Shadanana Ashtakam
+title: "Shadanana Ashtakam"
 deity_theme:
   - subrahmanya
 purpose:
@@ -11,17 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - ashtakam
-keywords:
-  - shadanana
-  - ashtakam
+  keywords:
+    - ashtakam
+    - shadanana
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 agastiruvaacha |
 namo' Astu vrndaarakavrndavandy-

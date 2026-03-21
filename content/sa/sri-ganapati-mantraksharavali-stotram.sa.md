@@ -1,7 +1,7 @@
 ---
-id: sri-ganapati-mantraksharavali-stotram.sk
+id: sri-ganapati-mantraksharavali-stotram.sa
 mantra_id: sri-ganapati-mantraksharavali-stotram
-language_code: sk
+language_code: sa
 title: श्रीगणपतिमन्त्राक्षरावलिस्तोत्रम्
 deity_theme:
   - ganesha
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - mantra
-keywords:
-  - sri
-  - ganapati
-  - mantraksharavali
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ganapati
+    - mantraksharavali
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 श्रीदेव्युवाच |
@@ -43,7 +42,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 श्रीमन्तमिक्षुजलधेः अन्तरभ्युदितं नुमः |
     मणिद्वीपं महाकारं महाकल्पं महोदयम् || ५ ||
 
-हृीप्रदेन महाधाम्ना धाम्नामीशे विभारके |
+ह्रीप्रदेन महाधाम्ना धाम्नामीशे विभारके |
     कल्पोद्यानस्थितं वन्दे भास्वन्तं मणिमण्डपम् || ६ ||
 
 क्लीबस्यापि स्मरोन्मादकारीशृङ्गारशालिनि |
@@ -71,8 +70,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
     साकल्पं सायुधं वन्दे तं साम्बं परमेश्वरम् || १४ ||
 
 वरसम्भोगरुचिरौ पश्चिमे पिप्पलाश्रयौ |
-    रमणीयतरौ वन्दे रतिपुष्पशिलीमुखौ |
-१५ |
+    रमणीयतरौ वन्दे रतिपुष्पशिलीमुखौ || १५ ||
     रममाणौ गणेशोत्तरदिक्फलिनीतले |
     भूभूधरावुदाराभौ भजे भुवनपालकौ || १६ ||
 
@@ -85,7 +83,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 दलत्कपोलविगलन्मदधारावलाहकम् |
     समृद्धिटटिदाश्लिष्टं प्रमोदं हृदि भावये || १९ ||
 
-सकान्तिं कान्तिलतिका�परिरब्धतनुं भजे |
+सकान्तिं कान्तिलतिकाम्बरपरिरब्धतनुं भजे |
     भुजप्रकाण्डसच्छायं सुमुखं कल्पपादपम् || २० ||
 
 वन्दे तुन्दिलमिन्धानं चन्द्रकन्दलशीतलम् |

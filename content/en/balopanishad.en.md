@@ -2,22 +2,23 @@
 id: balopanishad.en
 mantra_id: balopanishad
 language_code: en
-title: Bala Upanishad
+title: "Bala Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - stotra
-  keywords:
-    - balopanishad
-    - bala
-    - goddess
     - upanishad
+  keywords:
+    - bala
+    - balopanishad
+    - goddess
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

@@ -2,7 +2,7 @@
 id: sri-surya-stavaraja-stotram.en
 mantra_id: sri-surya-stavaraja-stotram
 language_code: en
-title: Sri Surya Stavaraja Stotram
+title: "Sri Surya Stavaraja Stotram"
 deity_theme:
   - surya
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - surya
-  - stavaraja
-  - stotram
+  keywords:
+    - sri
+    - stavaraja
+    - stotram
+    - surya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 brahmovacha
 stavanam samavedoktam suryasya vyadhimocanam

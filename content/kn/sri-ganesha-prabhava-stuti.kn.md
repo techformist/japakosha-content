@@ -2,7 +2,7 @@
 id: sri-ganesha-prabhava-stuti.kn
 mantra_id: sri-ganesha-prabhava-stuti
 language_code: kn
-title: ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ
+title: "ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ"
 deity_theme:
   - ganesha
 purpose:
@@ -11,21 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-keywords:
-  - sri
-  - ganesha
-  - mantra
-  - prabhava
-  - stuti
-  - ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - mantra
+    - prabhava
+    - sri
+    - stuti
+    - ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಓಮಿತ್ಯಾದೌ ವೇದವಿದೋ ಯಂ ಪ್ರವದಂತಿ  
 ಬ್ರಹ್ಮಾದ್ಯಾ ಯಂ ಲೋಕವಿಧಾನೇ ಪ್ರಣಮಂತಿ |  

@@ -1,7 +1,7 @@
 ---
-id: sri-ganapathi-mangalashtakam.sk
+id: sri-ganapathi-mangalashtakam.sa
 mantra_id: sri-ganapathi-mangalashtakam
-language_code: sk
+language_code: sa
 title: श्रीगणपतिमङ्गलाष्टकम्
 deity_theme:
   - ganesha
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - ashtakam
-keywords:
-  - sri
-  - ganapathi
-  - mangalashtakam
-source:
-  text: Public Domain
+  keywords:
+    - ganapathi
+    - mangalashtakam
+    - sri
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 गजाननाय गाङ्गेयसहजाय सदात्मने |

@@ -1,29 +1,28 @@
 ---
-id: sri-matangi-kavacham-3.sk
+id: sri-matangi-kavacham-3.sa
 mantra_id: sri-matangi-kavacham-3
-language_code: sk
-title: श्रीमातङ्गीकवचम् ३
+language_code: sa
+title: "श्रीमातङ्गीकवचम् ३"
 deity_theme:
   - devi
 purpose:
-  - devotion
+  - protection
 tradition: tantric
 tags:
   content_type:
     - kavacham
-keywords:
-  - sri
-  - matangi
-  - kavacham
-  - 3
-source:
-  text: Public Domain
+  keywords:
+    - 3
+    - kavacham
+    - matangi
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 अस्य श्रीमातङ्गीकवचमन्त्रस्य महायोगीश्वरऋषिः अनुष्टुप् छन्दः श्रीमातङ्गीश्वरी देवता श्रीमातङ्गीप्रसादसिद्ध्यर्थे जपे विनियोगः |

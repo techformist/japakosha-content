@@ -1,7 +1,7 @@
 ---
-id: sri-ganesha-bhujanga-stuti.sk
+id: sri-ganesha-bhujanga-stuti.sa
 mantra_id: sri-ganesha-bhujanga-stuti
-language_code: sk
+language_code: sa
 title: श्रीगणेशभुजङ्गस्तुतिः
 deity_theme:
   - ganesha
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-keywords:
-  - sri
-  - ganesha
-  - bhujanga
-  - stuti
-source:
-  text: Public Domain
+  keywords:
+    - bhujanga
+    - ganesha
+    - sri
+    - stuti
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 श्रियः कार्यसिद्धिर्धियः सत्सुखर्धे

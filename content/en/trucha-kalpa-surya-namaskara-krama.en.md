@@ -2,7 +2,7 @@
 id: trucha-kalpa-surya-namaskara-krama.en
 mantra_id: trucha-kalpa-surya-namaskara-krama
 language_code: en
-title: Trucha Kalpa Surya Namaskara Krama
+title: "Trucha Kalpa Surya Namaskara Krama"
 deity_theme:
   - navagraha
 purpose:
@@ -12,19 +12,19 @@ tags:
   content_type:
     - stotra
   keywords:
-    - trucha
     - kalpa
-    - surya
-    - namaskara
     - krama
+    - namaskara
+    - surya
+    - trucha
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 achamya | prananamya | deshakalau samkritlya | ganapati pujam kritva |
 

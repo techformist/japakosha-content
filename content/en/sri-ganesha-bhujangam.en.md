@@ -2,7 +2,7 @@
 id: sri-ganesha-bhujangam.en
 mantra_id: sri-ganesha-bhujangam
 language_code: en
-title: Sri Ganesha Bhujangam
+title: "Sri Ganesha Bhujangam"
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - bhujangam
+  keywords:
+    - bhujangam
+    - ganesha
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 raNatkShudraghaNTAninAdAbhirAmaM
 chalattANDavoddaravatpadmatAlam

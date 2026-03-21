@@ -1,8 +1,8 @@
 ---
-id: agni-stotram-markandeya-puranam.sk
+id: agni-stotram-markandeya-puranam.sa
 mantra_id: agni-stotram-markandeya-puranam
-language_code: sk
-title: अग्नि स्तोत्रं
+language_code: sa
+title: "अग्नि स्तोत्रं"
 deity_theme:
   - universal
 purpose:
@@ -11,22 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - agni
-  - stotram
-  - markandeya
-  - puranam
-  - अग्नि स्तोत्रं
-  - मार्कण्डेय
-  - पुराणम्
-source:
-  text: Public Domain
+  keywords:
+    - agni
+    - markandeya
+    - puranam
+    - stotram
+    - अग्नि स्तोत्रं
+    - पुराणम्
+    - मार्कण्डेय
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 
 शान्तिरुवाच |
@@ -100,7 +99,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 हिरण्यरेतास्त्वं वह्ने हिरण्योद्भवकारणम् || २३ ||
 
 हिरण्यगर्भश्च भवान् हिरण्यसदृशप्रभः |
-त्वं मूहूर्तं क्षणश्च त्वं त्वं तृटिस्त्वं तथा लवः || २४ ||
+त्वं मुहूर्तं क्षणश्च त्वं त्वं तृटिस्त्वं तथा लवः || २४ ||
 
 कलाकाष्ठानिमेषादिरूपेणासि जगत्प्रभो |
 त्वमेतदखिलं कालः परिणामात्मको भवान् || २५ ||

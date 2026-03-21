@@ -2,28 +2,29 @@
 id: raja-shyamala-rahasya-upanishad.en
 mantra_id: raja-shyamala-rahasya-upanishad
 language_code: en
-title: Raja Shyamala Rahasya Upanishad
+title: "Raja Shyamala Rahasya Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - raja
-  - shyamala
-  - rahasya
-  - upanishad
+  keywords:
+    - rahasya
+    - raja
+    - shyamala
+    - upanishad
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 om svasti na indro vriddhashravaah
 svasti nah pushaa vishvavedaah |

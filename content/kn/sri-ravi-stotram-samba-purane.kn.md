@@ -2,7 +2,7 @@
 id: sri-ravi-stotram-samba-purane.kn
 mantra_id: sri-ravi-stotram-samba-purane
 language_code: kn
-title: ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)
+title: "ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)"
 deity_theme:
   - surya
 purpose:
@@ -11,21 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ravi
-  - stotram
-  - samba
-  - purane
-  - ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)
-source:
-  text: Public Domain
+  keywords:
+    - purane
+    - ravi
+    - samba
+    - sri
+    - stotram
+    - ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ತ್ವಂ ದೇವ ಋಷಿಕರ್ತಾ ಚ ಪ್ರಕೃತಿಃ ಪುರುಷಃ ಪ್ರಭುಃ |  
     ಛಾಯಾ ಸಂಜ್ಞಾ ಪ್ರತಿಷ್ಠಾಪಿ ನಿರಾಲಂಬೋ ನಿರಾಶ್ರಯಃ || ೧ ||

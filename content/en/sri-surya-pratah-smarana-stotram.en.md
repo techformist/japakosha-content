@@ -2,7 +2,7 @@
 id: sri-surya-pratah-smarana-stotram.en
 mantra_id: sri-surya-pratah-smarana-stotram
 language_code: en
-title: Sri Surya Pratah Smarana Stotram
+title: "Sri Surya Pratah Smarana Stotram"
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - surya
-  - pratah
-  - smarana
-  - stotram
+  keywords:
+    - pratah
+    - smarana
+    - sri
+    - stotram
+    - surya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 pratah smarami khalu tatsaviturvarenyam
 rupam hi mandalamricor 'tha tanur yumshi

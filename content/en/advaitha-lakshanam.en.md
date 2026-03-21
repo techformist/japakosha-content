@@ -2,11 +2,12 @@
 id: advaitha-lakshanam.en
 mantra_id: advaitha-lakshanam
 language_code: en
-title: Advaitha Lakshanam
+title: "Advaitha Lakshanam"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: stotra
 tags:
   content_type:
@@ -16,7 +17,7 @@ tags:
     - lakshanam
     - non-dualism
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

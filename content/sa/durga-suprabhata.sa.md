@@ -1,31 +1,31 @@
 ---
-id: durga-suprabhata.sk
+id: durga-suprabhata.sa
 mantra_id: durga-suprabhata
-language_code: sk
+language_code: sa
 title: श्रीदुर्गासुप्रभातम्
 deity_theme:
   - durga
   - devi
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
-    - durga
     - devi
-    - suprabhata
-    - pratah
+    - durga
+  occasion:
+    - morning
 source:
-  text: Sage Kushika (Kaushika)
-  citation: Traditional Suprabhata literature
+  text: "Sage Kushika (Kaushika)"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ श्रीदुर्गायै नमः ॥
 
@@ -69,7 +69,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 
 नवम श्लोकः
 पार्वत्यै हैमवत्यै च गिरिजायै नमो नमः ।
-शैಲजायै दक्षयಜ್ञे विरोधिन्यै नमो नमः ॥ ९॥
+शैलजायै दक्षयज्ञे विरोधिन्यै नमो नमः ॥ ९॥
 
 दशम श्लोकः
 कामाक्ष्यै कामेश्वर्यै च कान्तयै नमो नमः ।

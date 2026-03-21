@@ -2,7 +2,7 @@
 id: sri-surya-stotram-2-deva-krutham.en
 mantra_id: sri-surya-stotram-2-deva-krutham
 language_code: en
-title: Sri Surya Stotram 2 (Deva Krutham)
+title: "Sri Surya Stotram 2 (Deva Krutham)"
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - surya
-  - stotram
-  - deva
-  - krutham
+  keywords:
+    - deva
+    - krutham
+    - sri
+    - stotram
+    - surya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 deva uchuh
 namaste rik-svarupaya samarupaya te namah

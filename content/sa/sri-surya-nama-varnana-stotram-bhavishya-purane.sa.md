@@ -1,8 +1,8 @@
 ---
-id: sri-surya-nama-varnana-stotram-bhavishya-purane.sk
+id: sri-surya-nama-varnana-stotram-bhavishya-purane.sa
 mantra_id: sri-surya-nama-varnana-stotram-bhavishya-purane
-language_code: sk
-title: श्री सूर्य नामवर्णन स्तोत्रम् (भविष्यपुराणे)
+language_code: sa
+title: "श्री सूर्य नामवर्णन स्तोत्रम् (भविष्यपुराणे)"
 deity_theme:
   - navagraha
 purpose:
@@ -11,22 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - surya
-  - nama
-  - varnana
-  - stotram
-  - bhavishya
-  - purane
-source:
-  text: Public Domain
+  keywords:
+    - bhavishya
+    - nama
+    - purane
+    - sri
+    - stotram
+    - surya
+    - varnana
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ब्रह्मोवाच |
 नामभिः संस्तुतो देवो यैरर्कः परितुष्यति |

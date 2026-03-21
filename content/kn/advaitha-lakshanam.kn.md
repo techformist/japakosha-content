@@ -6,17 +6,17 @@ title: ಅದ್ವೈತಲಕ್ಷಣಂ
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - advaitha
-  - lakshanam
-  - ಅದ್ವೈತಲಕ್ಷಣಂ
-source:
-  text: Public Domain
+  keywords:
+    - advaitha
+    - lakshanam
+    - ಅದ್ವೈತಲಕ್ಷಣಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

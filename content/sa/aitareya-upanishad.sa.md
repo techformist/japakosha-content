@@ -1,28 +1,28 @@
 ---
-id: aitareya-upanishad.sk
+id: aitareya-upanishad.sa
 mantra_id: aitareya-upanishad
-language_code: sk
+language_code: sa
 title: ऐतरेयोपनिषत्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - aitareya
-  - upanishad
-  - ऐतरेयोपनिषत्
-source:
-  text: Public Domain
+  keywords:
+    - aitareya
+    - upanishad
+    - ऐतरेयोपनिषत्
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 || शान्तिपाठः ||
 
@@ -102,7 +102,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
     सैषा विदृतिर्नाम द्वास्तदेतंन्ऽन्दनम् ।
     तस्य त्रय आवसथास्त्रयः स्वप्ना अयमावसथोऽयमावसथोऽयमावसथ इति ॥ १२ ॥
 
-स जातो भूतान्यभिव्यैख्यत् किमिहान्यं वावदिषदिति ।
+स जातो भूतान्यभिव्यैख्यत् किमिहान्यद्वाविदिषदिति ।
     स एतमेव पुरुषं ब्रह्म ततममपश्यदिदमदर्शनमिती ॥ ३ ॥ १३ ॥
 
 तस्मादिदंद्रो नामेदंद्रो ह वै नाम तमिदंद्रं सन्तमिन्द्र ।

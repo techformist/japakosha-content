@@ -1,41 +1,45 @@
 ﻿---
-id: "raja-shyamala-rahasya-upanishad.kn"
-mantra_id: "raja-shyamala-rahasya-upanishad"
-language_code: "kn"
+id: raja-shyamala-rahasya-upanishad.kn
+mantra_id: raja-shyamala-rahasya-upanishad
+language_code: kn
 title: "ರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷತ್"
-deity_theme: ["devi"]
-purpose: ["devotion", "spiritual-knowledge"]
-tradition: "upanishadic"
+deity_theme:
+  - devi
+purpose:
+  - liberation
+  - wisdom
+tradition: upanishadic
 tags:
-  content_type: ["upanishad"]
-keywords:
-  - "raja"
-  - "shyamala"
-  - "rahasya"
-  - "upanishad"
-  - "ರಾಜಶ್ಯಾಮಲಾ"
-  - "ರಹಸ್ಯೋಪನಿಷತ್"
-  - "ದೇವಿ"
-  - "ಶ್ಯಾಮಲಾ"
-source:
+  content_type: 
+    - upanishad
+  keywords:
+    - raja
+    - shyamala
+    - rahasya
+    - upanishad
+    - ರಾಜಶ್ಯಾಮಲಾ
+    - ರಹಸ್ಯೋಪನಿಷತ್
+    - ದೇವಿ
+    - ಶ್ಯಾಮಲಾsource:
   text: "Public Domain"
   citation: null
-license: "public-domain"
-quality_level: "community"
+license: public-domain
+quality_level: community
 phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-03-20T00:00:00.000Z"
 ---
+
 ಓಂ ಸ್ವಸ್ತಿ ನ ಇಂದ್ರೋ ವೃದ್ಧಶ್ರವಾಃ  
 ಸ್ವಸ್ತಿ ನಃ ಪೂಷಾ ವಿಶ್ವವೇದಾಃ |  
-    ಸ್ವಸ್ತಿ ನಸ್ತಾರ್ಕ್ಷ್ಯೋ ಅರಿಷ್ಟನೇಮಿಃ  
+ ಸ್ವಸ್ತಿ ನಸ್ತಾರ್ಕ್ಷ್ಯೋ ಅರಿಷ್ಟನೇಮಿಃ  
 ಸ್ವಸ್ತಿ ನೋ ಬೃಹಸ್ಪತಿರ್ದಧಾತು ||
 
 ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ
 ಓಂ ರತ್ನಸಾನುಶಿಖರೇಷ್ವಾಸೀನಂ ಶ್ರೀರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷದ್ವೇತ್ತಾರಂ ಮತಂಗ ಋಷಿಂ ಗುರುಂ ಕೂಚಿಮಾರಃ ಪ್ರೋವಾಚ |
-    ಮತಂಗ ಭಗವನ್ ಗುರೋ ರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷದಂ ಮೇಽನುಬ್ರೂಹಿ
+ಮತಂಗ ಭಗವನ್ ಗುರೋ ರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷದಂ ಮೇಽನುಬ್ರೂಹಿ
 ಅಥಾತಃ ಶ್ರೀರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷದಂ ವ್ಯಾಖ್ಯಾಸ್ಯಾಮಃ |
-    ಮಂತ್ರಜಪಾಧಿಕರಣ ನ್ಯಾಸಾಧಿಕರಣ ಸ್ತೋತ್ರಾಧಿಕರಣ ಪೂಜಾಧಿಕರಣ ಮೈಥುನಾಧಿಕರಣೈಃ ಪಂಚಭಿರ್ಬ್ರಾಹ್ಮಣೋ ಭೋಗಮೋಕ್ಷಮಾಪ್ನೋತಿ
+ಮಂತ್ರಜಪಾಧಿಕರಣ ನ್ಯಾಸಾಧಿಕರಣ ಸ್ತೋತ್ರಾಧಿಕರಣ ಪೂಜಾಧಿಕರಣ ಮೈಥುನಾಧಿಕರಣೈಃ ಪಂಚಭಿರ್ಬ್ರಾಹ್ಮಣೋ ಭೋಗಮೋಕ್ಷಮಾಪ್ನೋತಿ
 
 ## ಕನ್ನಡ ಅರ್ಥ
 
@@ -50,7 +54,7 @@ updated_at: "2026-03-20T00:00:00.000Z"
 3. **ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ:** ಮತಂಗ ಋಷಿಗಳು ತಮ್ಮ ಗುರುಗಳಾದ ಕೂಚಿಮಾರರಿಂದ ಈ ರಹಸ್ಯ ಉಪನಿಷತ್ತನ್ನು ಕಲಿತರು.
 
 **ಆಧ್ಯಾತ್ಮಿಕ ಮಹತ್ವ:**
+
 - ರಾಜಶ್ಯಾಮಲೆಯು ಸಂಗೀತ, ಕಲೆ ಮತ್ತು ವಿದ್ಯೆಯ ದೇವತೆ
 - ಐಶ್ವರ್ಯ, ವಿದ್ಯೆ ಮತ್ತು ರಾಜ್ಯ ಶಕ್ತಿಯನ್ನು ಪ್ರದಾನ ಮಾಡುವಳು
 - ಈ ಉಪನಿಷತ್ತನ್ನು ಜಪಿಸುವುದರಿಂದ ಜೀವನದಲ್ಲಿ ಸಮೃದ್ಧಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿ ಸಿಗುತ್ತದೆ
-

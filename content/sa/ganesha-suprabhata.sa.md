@@ -1,36 +1,35 @@
 ---
-id: ganesha-suprabhata.sk
+id: ganesha-suprabhata.sa
 mantra_id: ganesha-suprabhata
-language_code: sk
+language_code: sa
 title: श्रीगणेशसुप्रभातम्
 deity_theme:
   - ganesha
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
     - ganesha
-    - suprabhata
-    - pratah
+  occasion:
     - morning
 source:
-  text: Traditional Suprabhata literature
-  citation: Based on Sri Venkatesha Suprabhata tradition
+  text: "Traditional Suprabhata literature"
+  citation: "Based on Sri Venkatesha Suprabhata tradition"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ श्रीगणेशाय नमः ॥
 
 प्रातः स्मरामि गणनाथमनाथबन्धुं
 सिन्दूरपूरपरिशोभितगण्डयुग्मम् ।
-उद्दन्दविघ्नपरिखण्डनचण्डदण्डं
+उड्डण्डविघ्नपरिखण्डनचण्डदण्डं
 आखण्डलादिसुरनायकबृन्दवन्द्यम् ॥ १॥
 
 उत्तिष्ठोत्तिष्ठ गणेश प्रभाते तव देवता ।

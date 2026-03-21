@@ -2,7 +2,7 @@
 id: sri-gayatri-tattva-mala-mantram.en
 mantra_id: sri-gayatri-tattva-mala-mantram
 language_code: en
-title: Sri Gayatri Tattva Mala Mantram
+title: "Sri Gayatri Tattva Mala Mantram"
 deity_theme:
   - surya
   - universal
@@ -12,20 +12,20 @@ tradition: stotra
 tags:
   content_type:
     - mantra
-keywords:
-  - sri
-  - gayatri
-  - tattva
-  - mala
-  - mantram
+  keywords:
+    - gayatri
+    - mala
+    - mantram
+    - sri
+    - tattva
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 asya ShrIgA yatrItattvamAlAmantrasya vishvAmitra RRiShiH anuShTup chandaH paramAtmA devatA hAlo bIjAni swarAH shaktayaH avyaktaM kIlakaM mama samastapApakShayArthe ShrIgA yatrI mAlAmantra jape vinIyogaH
 chaturviMshati tattvAnAM yadatkaM tattvamottamam |

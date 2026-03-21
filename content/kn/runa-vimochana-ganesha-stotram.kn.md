@@ -2,30 +2,29 @@
 id: runa-vimochana-ganesha-stotram.kn
 mantra_id: runa-vimochana-ganesha-stotram
 language_code: kn
-title: ಶ್ರೀ ಋಣವಿಮೋಚನ ಮಹಾಗಣಪತಿ ಸ್ತೋತ್ರಂ
+title: "ಶ್ರೀ ಋಣವಿಮೋಚನ ಮಹಾಗಣಪತಿ ಸ್ತೋತ್ರಂ"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - runa
-  - vimochana
-  - ganapati
-  - stotram
-  - ಶ್ರೀ ಋಣವಿಮೋಚನ ಮಹಾಗಣಪತಿ ಸ್ತೋತ್ರಂ
-  - ganesha
-source:
-  text: Public Domain
+  keywords:
+    - ganapati
+    - ganesha
+    - runa
+    - stotram
+    - vimochana
+    - ಶ್ರೀ ಋಣವಿಮೋಚನ ಮಹಾಗಣಪತಿ ಸ್ತೋತ್ರಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಸ್ಮರಾಮಿ ದೇವದೇವೇಶಂ ವಕ್ರತುಂಡಂ ಮಹಾಬಲಮ್ |  
     ಷಡಕ್ಷರಂ ಕೃಪಾಸಿಂಧುಂ ನಮಾಮಿ ಋಣಮುಕ್ತಯೇ || ೧ ||

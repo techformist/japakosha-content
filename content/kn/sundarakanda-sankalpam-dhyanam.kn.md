@@ -2,29 +2,29 @@
 id: sundarakanda-sankalpam-dhyanam.kn
 mantra_id: sundarakanda-sankalpam-dhyanam
 language_code: kn
-title: 'ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ'
+title: "ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ"
 deity_theme:
   - hanuman
   - rama
 purpose:
+  - meditation
   - devotion
 tradition: puranic
 tags:
   content_type:
     - stotra
-keywords:
-  - sundarakanda
-  - sankalpam
-  - dhyanam
-  - 'ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ'
-source:
-  text: Public Domain
+  keywords:
+    - dhyanam
+    - sankalpam
+    - sundarakanda
+    - ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 **ಸಂಕಲ್ಪಂ –**
 ಗುರುರ್ಬ್ರಹ್ಮಾ ಗುರುರ್ವಿಷ್ಣುಃ ಗುರುರ್ದೇವೋ ಮಹೇಶ್ವರಃ |  

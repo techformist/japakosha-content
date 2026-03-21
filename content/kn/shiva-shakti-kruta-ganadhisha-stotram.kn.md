@@ -2,7 +2,7 @@
 id: shiva-shakti-kruta-ganadhisha-stotram.kn
 mantra_id: shiva-shakti-kruta-ganadhisha-stotram
 language_code: kn
-title: ಶ್ರೀ ಗಣಾಧೀಶ ಸ್ತೋತ್ರಂ (ಶಿವಶಕ್ತಿ ಕೃತಂ)
+title: "ಶ್ರೀ ಗಣಾಧೀಶ ಸ್ತೋತ್ರಂ (ಶಿವಶಕ್ತಿ ಕೃತಂ)"
 deity_theme:
   - ganesha
 purpose:
@@ -11,21 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - shiva
-  - shakti
-  - kruta
-  - ganadhisha
-  - stotram
-  - ಶ್ರೀ ಗಣಾಧೀಶ ಸ್ತೋತ್ರಂ (ಶಿವಶಕ್ತಿ ಕೃತಂ)
-source:
-  text: Public Domain
+  keywords:
+    - ganadhisha
+    - kruta
+    - shakti
+    - shiva
+    - stotram
+    - ಶ್ರೀ ಗಣಾಧೀಶ ಸ್ತೋತ್ರಂ (ಶಿವಶಕ್ತಿ ಕೃತಂ)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಶ್ರೀಶಿವಶಕ್ತ್ಯುವಾಚ |
     ನಮಸ್ತೇ ಗಣನಾಥಾಯ ಗಣಾನಾಂ ಪತಯೇ ನಮಃ |

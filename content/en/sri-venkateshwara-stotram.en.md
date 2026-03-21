@@ -2,27 +2,27 @@
 id: sri-venkateshwara-stotram.en
 mantra_id: sri-venkateshwara-stotram
 language_code: en
-title: Sri Venkateshwara Stotram
+title: "Sri Venkateshwara Stotram"
 deity_theme:
   - venkateshwara
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - venkateshwara
-  - stotram
+  keywords:
+    - sri
+    - stotram
+    - venkateshwara
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 kamalakucacucukakumkumato
 niyatrunitatulanilatanoho |

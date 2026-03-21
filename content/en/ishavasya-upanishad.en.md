@@ -2,26 +2,27 @@
 id: ishavasya-upanishad.en
 mantra_id: ishavasya-upanishad
 language_code: en
-title: Ishavasya Upanishad
+title: "Ishavasya Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - ishavasya
-  - upanishad
+  keywords:
+    - ishavasya
+    - upanishad
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 oM puurNamadhaH puurNamidaM puurNaat-puurNamudachyate |
     puurNasya puurNaMaadaaya puurNamevaavaShiShyate |

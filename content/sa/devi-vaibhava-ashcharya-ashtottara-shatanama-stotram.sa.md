@@ -1,8 +1,8 @@
 ---
-id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.sk
+id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.sa
 mantra_id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram
-language_code: sk
-title: देवी वैभवाश्चर्याष्टोत्तरशतनाम स्तोत्रं
+language_code: sa
+title: "देवी वैभवाश्चर्याष्टोत्तरशतनाम स्तोत्रं"
 deity_theme:
   - devi
 purpose:
@@ -11,24 +11,23 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - devi
-  - vaibhava
-  - ashcharya
-  - ashtottara
-  - shatanama
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ashcharya
+    - ashtottara
+    - devi
+    - shatanama
+    - stotram
+    - vaibhava
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 अस्य श्री देवीवैभवाश्चर्याष्टोत्तरशतदिव्यनाम स्तोत्रमहामन्त्रस्य आनन्दभैरव ऋषिः, अनुष्टुप् छन्दः, श्री आनन्दभैरवी श्रीमहात्रिपुरसुन्दरी देवता, ऐं बीजं, ह्रीं शक्तिः, श्रीं कीलकं, मम श्रीआनन्दभैरवी श्रीमहात्रिपुरसुन्दरी प्रसादसिद्ध्यर्थे जपे विनियोगः
-ध्यानम् |
+## ध्यानम्
     कुंकुमपंकसमाभा-
 \-मंकुशपाशेक्षुकोदंडशराम् |
     पंकजमध्यनिष्णां
@@ -139,7 +138,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 
 सिद्धेश्वरकुलाराध्या श्रीमच्चरणवैभवा || ३३ ||
 
-पुनर्ध्यानम् –
+## पुनर्ध्यानम्
 कुंकुमपंकसमाभा-
 \-मंकुशपाशेक्षुकोदंडशराम् |
     पंकजमध्यनिष्णां

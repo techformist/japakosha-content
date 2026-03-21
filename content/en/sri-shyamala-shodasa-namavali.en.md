@@ -2,7 +2,7 @@
 id: sri-shyamala-shodasa-namavali.en
 mantra_id: sri-shyamala-shodasa-namavali
 language_code: en
-title: Sri Shyamala Shodasa Namavali
+title: "Sri Shyamala Shodasa Namavali"
 deity_theme:
   - devi
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - shyamala
-  - shodasa
-  - namavali
+  keywords:
+    - namavali
+    - shodasa
+    - shyamala
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 om sangitayoginyai namah
 om shyamayai namah

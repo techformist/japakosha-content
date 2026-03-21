@@ -1,8 +1,8 @@
 ---
-id: ganesha-pratah-smarana-stotram.sk
+id: ganesha-pratah-smarana-stotram.sa
 mantra_id: ganesha-pratah-smarana-stotram
-language_code: sk
-title: श्री गणेश प्रातःस्मरणं
+language_code: sa
+title: "श्री गणेश प्रातःस्मरणं"
 deity_theme:
   - ganesha
 purpose:
@@ -11,23 +11,22 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - ganesha
-  - pratah
-  - smarana
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - pratah
+    - smarana
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 प्रातः स्मरामि गणनाथमनाथबन्धुं
 सिन्दूरपूरपरिशोभितगण्डयुग्मम् |
-    उद्धन्दविघ्नपरिखण्डनचण्डदण्डं
+    उड्डण्डविघ्नपरिखण्डनचण्डदण्डं
 आखण्डलादिसुरनायकबृन्दवन्द्यम् || १ ||
 
 प्रातर्नामामि चतुराननवन्द्यमानं

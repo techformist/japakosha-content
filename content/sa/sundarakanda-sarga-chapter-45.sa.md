@@ -1,28 +1,29 @@
 ---
-id: sundarakanda-sarga-chapter-45.sk
+id: sundarakanda-sarga-chapter-45.sa
 mantra_id: sundarakanda-sarga-chapter-45
-language_code: sk
-title: सुन्दरकाण्ड पञ्चचत्वारिंशः सर्गः (४५)
+language_code: sa
+title: "सुन्दरकाण्ड पञ्चचत्वारिंशः सर्गः (४५)"
 deity_theme:
   - rama
 purpose:
   - devotion
+  - meditation
 tradition: puranic
 tags:
   content_type:
     - stotra
   keywords:
-    - sundarakanda
-    - sarga
     - chapter
+    - sarga
+    - sundarakanda
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 || अमात्यपुत्रवधः ||
 ततस्ते राक्षसेन्द्रेण चोदिता मन्त्रिणां सुताः |
@@ -69,9 +70,9 @@ updated_at: '2026-02-15T07:06:28.137Z'
 तत्सैन्यमगमत्सर्वं दिशो दश भयार्दितम् || १४ ||
 
 विनेदुर्विस्वरं नागा निपेतुर्भुवि वाजिनः |
-भगनीडध्वजछत्रैर्भूश्च कीर्णाऽभवद्रथैः || १५ ||
+भगनीडध्वजछत्रैर्भूश्च कीर्णावद्रथैः || १५ ||
 
-स्रवता रुधिरेणाथ स्रवन्त्यो दर्शिताः पथि |
+स्रवता रुधिरेण स्रवन्त्यो दर्शिताः पथि |
 विविधैश्च स्वरैर्लंका ननाद विकृतं तदा || १६ ||
 
 स तान्प्रवृद्धान्विनिहत्य राक्षसा-

@@ -1,14 +1,14 @@
 ---
-id: lakshmi-suprabhata.sk
+id: lakshmi-suprabhata.sa
 mantra_id: lakshmi-suprabhata
-language_code: sk
+language_code: sa
 title: श्रीमहालक्ष्मीसुप्रभातम्
 deity_theme:
   - lakshmi
   - devi
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
@@ -16,16 +16,16 @@ tags:
   keywords:
     - lakshmi
     - mahalakshmi
-    - suprabhata
-    - pratah
+  occasion:
+    - morning
 source:
-  text: Traditional Suprabhata literature
-  citation: Traditional Suprabhata literature
+  text: "Traditional Suprabhata literature"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ श्रीमहालक्ष्म्यै नमः ॥
 

@@ -1,27 +1,27 @@
 ---
-id: balopanishad.sk
+id: balopanishad.sa
 mantra_id: balopanishad
-language_code: sk
+language_code: sa
 title: बालोपनिषत्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - stotra
-keywords:
-  - balopanishad
-  - बालोपनिषत्
-source:
-  text: Public Domain
+  keywords:
+    - balopanishad
+    - बालोपनिषत्
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 ॐ नमो ऽश्रीबालायै |

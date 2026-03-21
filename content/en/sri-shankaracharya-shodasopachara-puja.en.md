@@ -2,7 +2,7 @@
 id: sri-shankaracharya-shodasopachara-puja.en
 mantra_id: sri-shankaracharya-shodasopachara-puja
 language_code: en
-title: Sri Shankarabhagavatpada Shodasopachara Puja
+title: "Sri Shankarabhagavatpada Shodasopachara Puja"
 deity_theme:
   - universal
 purpose:
@@ -11,55 +11,55 @@ tradition: stotra
 tags:
   content_type:
     - puja-vidhi
-keywords:
-  - sri
-  - shankaracharya
-  - shodasopachara
-  - puja
+  keywords:
+    - puja
+    - shankaracharya
+    - shodasopachara
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
-**PunaH SankalpaM –**
+## PunaH SankalpaM
 pUrvokta evaM guNa viSheShaNa viShiShTAyAM shubhatithau vaidikamArga pRatiShThApakAnAM jagadgUrUNAM shrIshaMkarabhagavatpAdapUjAM kariShye
 
-**DhyAnaM –**
+## DhyAnaM
 shrutismRitipurANAnAmAlayaM karuNAlayam |
     namAmi bhagavatpAdashaMkaraM lokashaMkaram ||
 
 asmin bimbe shrIshaMkarabhagavatpAdaM dhyAyAmi
 
-**AvAhaNam –**
+## AvAhaNam
 yAmAshritA girAdevI nandayatyAtmasaMshritAn |
     tAmAshraye shrIyA juShTaM shaMkaraM karuNAnidhim ||
 
 shrIshaMkarabhagavatpAdaM AvAhayAmi
 
-**Asanam –**
+## Asanam
 shrIguruM bhagavatpAdaM shaNyaM bhaktavatsalam |
     shivaM shivakaraM shuddhamaprameyaM namAmyaham ||
 
 shrIshaMkarabhagavatpAdAya namaH AsanaM samarpayAmi
 
-**PUrNakumbhapradAnaM –**
+## PUrNakumbhapradAnaM
 nityaM shuddhaM nirAkAraM nirAbhAsaM niranjanaM |
     nityabodaM cidAnandaM gurumaM brahma namAmyaham ||
 
 shrIshaMkarabhagavatpAdAya namaH pUrNakumbhaM samarpayAmi
 
-**PAdyaM –**
+## PAdyaM
 sarvatantarasvatrA sadAtmAdvaitarUpiNe |
     shrImate shaMkarAryAya vedAntagurave namaH ||
 
 shrIshaMkarabhagavatpAdAya namaH pAdayoH pAdyaM samarpayAmi
 
-**ArghyaM –**
+## ArghyaM
 vedAntArthAbhidAnena sarvAnugrahakAriNaM |
     yatirUpadharaM vande shaMkaraM lokashaMkaram ||
 

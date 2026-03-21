@@ -2,7 +2,7 @@
 id: sri-ganesha-hrudayam.kn
 mantra_id: sri-ganesha-hrudayam
 language_code: kn
-title: ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ
+title: "ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ"
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - hrudayam
-  - ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ
-source:
-  text: Public Domain
+  keywords:
+    - ganesha
+    - hrudayam
+    - sri
+    - ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಶಿವ ಉವಾಚ |  
     ಗಣೇಶಹೃದಯಂ ವಕ್ಷ್ಯೇ ಸರ್ವಸಿದ್ಧಿಪ್ರದಾಯಕಮ್ |  

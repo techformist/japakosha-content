@@ -2,29 +2,28 @@
 id: sri-lakshmi-ashtottara-shatanamavali-3.kn
 mantra_id: sri-lakshmi-ashtottara-shatanamavali-3
 language_code: kn
-title: ಶ್ರೀ ಲಕ್ಷ್ಮ್ಯಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ 3
+title: "ಶ್ರೀ ಲಕ್ಷ್ಮ್ಯಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ 3"
 deity_theme:
   - lakshmi
 purpose:
-  - devotion
+  - prosperity
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - lakshmi
-  - ashtottara
-  - shatanamavali
-  - ಶ್ರೀ ಲಕ್ಷ್ಮ್ಯಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ 3
-source:
-  text: Public Domain
+  keywords:
+    - ashtottara
+    - lakshmi
+    - shatanamavali
+    - sri
+    - ಶ್ರೀ ಲಕ್ಷ್ಮ್ಯಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ 3
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಓಂ ಬ್ರಹ್ಮಜ್ಞಾಯೈ ನಮಃ |  
     ಓಂ ಬ್ರಹ್ಮಸುಖದಾಯೈ ನಮಃ |  

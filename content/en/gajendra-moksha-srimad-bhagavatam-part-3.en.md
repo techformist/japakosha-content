@@ -2,28 +2,28 @@
 id: gajendra-moksha-srimad-bhagavatam-part-3.en
 mantra_id: gajendra-moksha-srimad-bhagavatam-part-3
 language_code: en
-title: Gajendra Moksha (Srimad Bhagavatam) Part 3
+title: "Gajendra Moksha (Srimad Bhagavatam) Part 3"
 deity_theme:
   - vishnu
 purpose:
-  - devotion
+  - liberation
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - gajendra
-  - moksha
-  - srimad bhagavatam
-  - part
+  keywords:
+    - gajendra
+    - moksha
+    - part
+    - srimad bhagavatam
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shriishuka uvaaca –
 tadaa deva-RRishi-gandharvaa brahma-iishaanapura-augamaaH |

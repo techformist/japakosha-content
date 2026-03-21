@@ -2,28 +2,26 @@
 id: trideva-kruta-ravi-stuti.en
 mantra_id: trideva-kruta-ravi-stuti
 language_code: en
-title: Shri Ravi Stuti (Trideva Krutam)
+title: "Shri Ravi Stuti (Trideva Krutam)"
 deity_theme:
   - navagraha
 purpose:
-  - devotion
+  - auspiciousness
 tradition: stotra
 tags:
   content_type:
     - stuti
   keywords:
-    - trideva
-    - kruta
     - ravi
-    - stuti
+    - trideva
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 dritrivam devadevasya rupam bhanormahatmanah |
 vismayotphullanayanastustavaste divakaram || 1 ||

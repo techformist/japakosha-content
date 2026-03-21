@@ -2,7 +2,7 @@
 id: narada-kruta-ganapati-stotram.kn
 mantra_id: narada-kruta-ganapati-stotram
 language_code: kn
-title: ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)
+title: "ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)"
 deity_theme:
   - ganesha
 purpose:
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - narada
-  - kruta
-  - ganapati
-  - stotram
-  - ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)
-source:
-  text: Public Domain
+  keywords:
+    - ganapati
+    - kruta
+    - narada
+    - stotram
+    - ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ನಾರದ ಉವಾಚ |  
     ಭೋ ಗಣೇಶ ಸುರಶ್ರೇಷ್ಠ ಲಂಬೋದರ ಪರಾತ್ಪರ |  

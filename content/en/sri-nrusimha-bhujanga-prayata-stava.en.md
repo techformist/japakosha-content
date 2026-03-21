@@ -2,7 +2,7 @@
 id: sri-nrusimha-bhujanga-prayata-stava.en
 mantra_id: sri-nrusimha-bhujanga-prayata-stava
 language_code: en
-title: Sri Nrusimha Bhujanga Prayata Stava
+title: "Sri Nrusimha Bhujanga Prayata Stava"
 deity_theme:
   - narasimha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - nrusimha
-  - bhujanga
-  - prayata
-  - stava
+  keywords:
+    - bhujanga
+    - nrusimha
+    - prayata
+    - sri
+    - stava
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 RutaM kartumevAashu namrasya vAkyam |

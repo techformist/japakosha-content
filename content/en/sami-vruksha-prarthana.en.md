@@ -1,23 +1,23 @@
 ---
-id: "sami-vruksha-prarthana.en"
-mantra_id: "sami-vruksha-prarthana"
-language_code: "en"
+id: sami-vruksha-prarthana.en
+mantra_id: sami-vruksha-prarthana
+language_code: en
 title: "Shami Tree Prayer"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "stotra"
+deity_theme: "[\\"universal\\"]"
+purpose: "[\\"devotion\\"]"
+tradition: stotra
 tags:
-  content_type: ["stotra"]
-keywords:
-  - "sami"
-  - "vruksha"
-  - "prarthana"
-  - "shami tree prayer"
+  content_type:
+  keywords:
+    - "prarthana"
+    - "sami"
+    - "shami tree prayer"
+    - "vruksha"
 source:
   text: "Public Domain"
   citation: null
-license: "public-domain"
-quality_level: "community"
+license: public-domain
+quality_level: community
 phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"

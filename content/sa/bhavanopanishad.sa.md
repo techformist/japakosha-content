@@ -1,21 +1,20 @@
 ---
-id: "bhavanopanishad.sk"
-mantra_id: "bhavanopanishad"
-language_code: "sk"
-title: "भावनोपनिषत्"
-deity_theme: ["universal"]
-purpose: ["devotion"]
-tradition: "upanishadic"
+id: bhavanopanishad.sa
+mantra_id: bhavanopanishad
+language_code: sa
+title: भावनोपनिषत्
+deity_theme: "[\"universal\"]"
+purpose: "[\"devotion\"]"
+tradition: upanishadic
 tags:
-  content_type: ["stotra"]
-keywords:
-  - "bhavanopanishad"
-  - "भावनोपनिषत्"
-source:
+  content_type:
+  keywords:
+    - bhavanopanishad
+    - भावनोपनिषत्
   text: "Public Domain"
   citation: null
-license: "public-domain"
-quality_level: "community"
+license: public-domain
+quality_level: community
 phonetic: null
 created_at: "2026-03-20T00:00:00.000Z"
 updated_at: "2026-03-20T00:00:00.000Z"

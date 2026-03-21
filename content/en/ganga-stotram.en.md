@@ -2,7 +2,7 @@
 id: ganga-stotram.en
 mantra_id: ganga-stotram
 language_code: en
-title: Shri Ganga Stotram
+title: "Shri Ganga Stotram"
 deity_theme:
   - universal
 purpose:
@@ -11,11 +11,11 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - ganga
-  - stotram
+  keywords:
+    - ganga
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
@@ -23,75 +23,75 @@ phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"
 ---
-devi sureshvari bhagavati gange |
-    tribhuvana-taarinii taralatarange |
-    shankaramauli-vihaarini vimalenamama |
-    matiraastaaM tava padakamale || 1 ||
+devi sureśvari bhagavatī gaṅge |
+    tribhuvana-tāriṇī taralatarāṅge |
+    śaṅkaramaulī-vihāriṇī vimalenamamā |
+    matirastāṃ tava padakamale || 1 ||
 
-bhaagiirathisukhadaayini maata-
-\-stava jalamahimaa nigeame khyaataH |
-    naahaM jaane tava mahiimaaMnaaM |
-    paahi kRuupa-mayii maamaagyaanaaM || 2 ||
+bhāgīrathisukhadāyinī mātṛ-
+-stava jalamahimā nigame khyātaḥ |
+    nāhaṃ jāne tava mahimāṃ na māṃ |
+    pāhi kṛpāmayī māmājñānāṃ || 2 ||
 
-haripada-paadyatarangiNi gange |
-    himavidhunuktadhavalatarange |
-    duuurikuRu mama duShkRuTi-bhaaraM |
-    kuru kRuipayaa bhava-saagara-paaraM || 3 ||
+haripadapādyatarangiṇī gaṅge |
+    himavidhunuktadhavalatarāṅge |
+    dūrikṛu mama duṣkṛtibhāraṃ |
+    kuru kṛpayā bhavasāgarapāraṃ || 3 ||
 
-tava jalaa-malena yena niipeetam |
-    parama-padaM khalu tena gRuHitam |
-    maatar-gange tvayi yo bhaktaH |
-    kila taM dRuShTu na yamaH shaktaH || 4 ||
+tava jalāmalena yena nīpitaṃ |
+    paramapadaṃ khalu tena gṛhītaṃ |
+    mātṛgaṅge tvayi yo bhaktaḥ |
+    kila taṃ dṛṣṭu na yamaḥ śaktaḥ || 4 ||
 
-patito-ddhaariiNaa jaahnavii gange |
-    khaṇḍitagiri-varaMMaḍita bhange |
-    bhiiShma-jananii he munivarakanyenamapa |
-    patitaniivaRinii tribhuvanadhanyenamai || 5 ||
+patitodhāriṇī jāhnavī gaṅge |
+    khaṇḍitagirivarāṃ bhage |
+    bhīṣmajananī hē munivarakanyēnapa |
+    patitanīvarinī tribhuvanadhanēyēnamai || 5 ||
 
-kalpa-lataa iva phaladaaM loke |
-    praNamati yastvaaM na patati shoKe |
-    paaraa-vaara-vihaarini gange |
-    vimukhayuvati-kṛatataraalaa-paange || 6 ||
+kalpalatā iva phaladāṃ lōkē |
+    praṇamati yastvāṃ na patati śōkē |
+    pāravāravihāriṇī gaṅgē |
+    vimukhayuvatī-kṛtataraṅgala-pāṅgē || 6 ||
 
-tava cenmaaH srotaH snaataH |
-    punarapi jaThare so.api na jaataH |
-    naraka-niivaraNii jaahnavii gange |
-    kaluSha-vaashinii mahiimottuMge || 7 ||
+tava cēnmaḥ srōtaḥ snātaḥ |
+    punarapi jaṭharē sō.api na jātaḥ |
+    narakanīvaraṇī jāhnavī gaṅgē |
+    kaluṣavāśinī mahimottuṅgē || 7 ||
 
-punarasadaMge puNya-tarange |
-    jaya jaya jaahnavii karuNaa-paange |
-    indramukuTamaNi-rajitacaraNe |
-    sukhade shubhade bhRRitya-sharaNye || 8 ||
+punarasādāṅgē puṇyatarāṅgē |
+    jaya jaya jāhnavī karuṇāpāṅgē |
+    indramukuṭamaṇi-rajitacaraṇē |
+    sukhadē śubhadē bhṛtyaśaraṇyē || 8 ||
 
-rogaM shokaM taapaM paapaM |
-    hara me bhagavati kumatikalaapam |
-    tribhuvana-saare vasudhaa-haare |
-    tvamasi gatir mama khalu saMsaare || 9 ||
+rōgaṃ śōkaṃ tāpaṃ pāpaṃ |
+    hara mē bhagavati kumātikalāpaṃ |
+    tribhuvanasārē vasudhāhārē |
+    tvamasi gatir mama khalu saṃsārē || 9 ||
 
-alakaanande paramaanande |
-    kuru karuNaamayii kaataravandyenamai |
-    tava TaTanikaTe yasya nivaasaH |
-    khalu vaikunThe tasya nivaasaH || 10 ||
+alakānandē paramānandē |
+    kuru karuṇāmayī kātaravandyēnamai |
+    tava ṭaṭaṅikāṭē yasya nivāsaḥ |
+    khalu vaikunṭhē tasya nivāsaḥ || 10 ||
 
-varamiha niire kamaTho miiNaH |
-    kiM vaa tiire sharaTaH kShiiNaH |
-    athavaa shvapacho malino diina-
-\-stava na hi duure nRipati-kuliiNaH || 11 ||
+varaṃ iha nīrē kāmathō mīnaḥ |
+    kiṃ vā tīrē śaraṭaḥ kṣīṇaḥ |
+    athavā śvapacō malīna dīna-
+-stava na hi dūrē nṛpatakulīnaḥ || 11 ||
 
-bho bhuavanaeshvari puNye dhanye |
-    devi dravamayi munivarakanye |
-    gangaastavamimamamalaaM nityaM |
-    paThati naro yaH sa jayati satyam || 12 ||
+bhō bhuvanēśvari puṇyē dhanyē |
+    dēvi dravamayi munivarakanyē |
+    gaṅgāstavamimāma malāṃ nityaṃ |
+    paṭhati narō yaḥ sa jayati satyam || 12 ||
 
-yeshaaM hRidayaM gangaabhakti-
-\-sateShaM bhavati sadaa sukhadddhuktiH |
-    madhuraa-kaaMtaa paMjaTikaa bhii |
-    paramaananda-kalita-lalitaa bhii || 13 ||
+yēṣāṃ hṛdayaṃ gaṅgābhakti-
+-satēṣaṃ bhavati sadā sukhādhuktiḥ |
+    madhurākāntā pañjatikā bhī |
+    paramānakalā-kalitalalitā bhī || 13 ||
 
-gangaastotramidaM bhavasaaraM |
-    vaaMchita-phaladaM vimalaM saaraM |
-    shankara-sevaka-shankara-rachitaM |
-    paThati sukhii stava iti cha samaptaH || 14 ||
+gaṅgāstōtramidaṃ bhavasāraṃ |
+    vāñchitaphaladāṃ vimalaṃ sāraṃ |
+    śaṅkaraśēvakā-śaṅkarā-racitaṃ |
+    paṭhatī sukhī stavamiti cha samaptāḥ || 14 ||
 
 ## English Translation
 

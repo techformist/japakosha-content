@@ -2,23 +2,22 @@
 id: brahma-krutha-surya-stuti.en
 mantra_id: brahma-krutha-surya-stuti
 language_code: en
-title: Brahma Krutha Surya Stuti (Hymn to Sun by Brahma)
+title: "Brahma Krutha Surya Stuti (Hymn to Sun by Brahma)"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - auspiciousness
 tradition: stotra
 tags:
   content_type:
     - stuti
   keywords:
-    - surya
-    - sun
     - brahma
-    - stuti
     - navagraha
+    - sun
+    - surya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

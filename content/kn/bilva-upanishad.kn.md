@@ -6,23 +6,23 @@ title: ಬಿಲ್ವೋಪನಿಷತ್
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - bilva
-  - upanishad
-  - ಬಿಲ್ವೋಪನಿಷತ್
-source:
-  text: Public Domain
+  keywords:
+    - bilva
+    - upanishad
+    - ಬಿಲ್ವೋಪನಿಷತ್
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಅಥ ವಾಮದೇವಃ ಪರಮೇಶ್ವರಂ ಸೃಷ್ಟಿಸ್ಥಿತಿಲಯಕಾರಣಮುಮಾಸಹಿತಂ ಸ್ವಶಿರಸಾ ಪ್ರಣಮ್ಯೇತಿ ಹೋವಾಚ |
     ಅಧೀಹಿ ಭಗವನ್ ಸರ್ವವಿದ್ಯಾಂ ಸರ್ವರಹಸ್ಯವರಿಷ್ಠಾಂ ಸದಾ ಸದ್ಭಿಃ ಪೂಜ್ಯಮಾನಾ ನಿಗೂಢಾಮ್

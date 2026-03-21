@@ -2,7 +2,7 @@
 id: sri-ganesha-bhujangam.kn
 mantra_id: sri-ganesha-bhujangam
 language_code: kn
-title: ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗಂ
+title: "ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗಂ"
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - bhujangam
-  - ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗಂ
-source:
-  text: Public Domain
+  keywords:
+    - bhujangam
+    - ganesha
+    - sri
+    - ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ರಣತ್ಕ್ಷುದ್ರಘಂಟಾನಿನಾದಾಭಿರಾಮಂ  
 ಚಲತ್ತಾಂಡವೋದ್ದಂಡವತ್ಪದ್ಮತಾಲಮ್ |  

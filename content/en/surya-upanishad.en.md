@@ -2,26 +2,26 @@
 id: surya-upanishad.en
 mantra_id: surya-upanishad
 language_code: en
-title: Surya Upanishad
+title: "Surya Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
   keywords:
     - surya
-    - upanishad
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 om bhadram karnebhih shrnuyama devah | bhadram pashyemakshabhiryajatrah | sthirairangai stuvagmasa stanubhih | vyashema devahitam yadayuh | svasti na indro viddhashravah | svasti nah pusha vishvedevah | svasti nastarkshyo arishthanemih | svasti no brihaspatirdadhatu ||
 om shantih shantih shantih ||

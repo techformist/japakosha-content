@@ -1,29 +1,28 @@
 ---
-id: gajendra-moksha-srimad-bhagavatam-part-3.sk
+id: gajendra-moksha-srimad-bhagavatam-part-3.sa
 mantra_id: gajendra-moksha-srimad-bhagavatam-part-3
-language_code: sk
-title: गजेन्द्रमोक्षः (श्रीमद्भागवतम्) ३
+language_code: sa
+title: "गजेन्द्रमोक्षः (श्रीमद्भागवतम्) ३"
 deity_theme:
   - vishnu
 purpose:
-  - devotion
+  - liberation
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - gajendra
-  - moksha
-  - srimad bhagavatam
-  - part
-source:
-  text: Public Domain
+  keywords:
+    - gajendra
+    - moksha
+    - part
+    - srimad bhagavatam
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 श्रीशुक उवाच –
 तदा देवर्षिगन्धर्वा ब्रह्मेशानपुरोगमाः |

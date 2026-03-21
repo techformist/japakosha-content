@@ -1,28 +1,28 @@
 ---
-id: bilva-upanishad.sk
+id: bilva-upanishad.sa
 mantra_id: bilva-upanishad
-language_code: sk
+language_code: sa
 title: बिल्वोपनिषत्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - bilva
-  - upanishad
-  - बिल्वोपनिषत्
-source:
-  text: Public Domain
+  keywords:
+    - bilva
+    - upanishad
+    - बिल्वोपनिषत्
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 
 अथ वामदेवः परमेश्वरं सृष्टिस्थितिलयकारणमुमासहितं स्वशिरसा प्रणम्येति होवाच ॥
@@ -101,7 +101,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 
 तिष्ठत्येव महावीरः पुनर्जन्मविवर्जितः ॥
 
-सोदकैर्बिल्वपत्रैश्च यः कुर्यान्मama पूजनम् ॥
+सोदकैर्बिल्वपत्रैश्च यः कुर्यान्मम पूजनम् ॥
 
 मम सान्निध्यमाप्नोति प्रमथैः सह मोदते ॥
 
@@ -141,7 +141,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 
 प्राप्येते भोगमोक्षौ हि स्थित्यन्ते मदनुग्रहात् ॥
 
-उत्तानभागपर्णेन मूर्ध्नि मे न्युब्जमर्पयेत् ॥
+उत्तानभागपर्णेन मूर्ध्नि मे न्यस्यमर्पयेत् ॥
 
 मोक्षेऽमृतावकुण्ठोऽहं भवेयं तव कामधुक् ॥
 
@@ -155,4 +155,4 @@ updated_at: '2026-03-20T00:00:00.000Z'
 
 य एतदधीते ब्रह्महाऽब्रह्महा भवति ॥
 
-स्वर्णस्तेय्यस्तेयी भवति ॥
+स्वर्णस्तेय्यस्तेयी भवति ॥ ॥

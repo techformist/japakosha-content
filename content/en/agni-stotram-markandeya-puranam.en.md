@@ -2,7 +2,7 @@
 id: agni-stotram-markandeya-puranam.en
 mantra_id: agni-stotram-markandeya-puranam
 language_code: en
-title: Agni Stotram (Markandeya Puranam)
+title: "Agni Stotram (Markandeya Puranam)"
 deity_theme:
   - universal
 purpose:
@@ -13,12 +13,11 @@ tags:
     - stotra
   keywords:
     - agni
-    - stotram
     - fire
     - markandeya puranam
 source:
-  text: Public Domain
-  citation: Markandeya Purana
+  text: "Public Domain"
+  citation: "Markandeya Purana"
 license: public-domain
 quality_level: community
 phonetic: null

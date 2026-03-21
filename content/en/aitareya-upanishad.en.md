@@ -2,22 +2,22 @@
 id: aitareya-upanishad.en
 mantra_id: aitareya-upanishad
 language_code: en
-title: Aitareya Upanishad
+title: "Aitareya Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
   keywords:
     - aitareya
-    - upanishad
     - vedanta
 source:
-  text: Public Domain
-  citation: Rig Veda, Aitareya Aranyaka
+  text: "Public Domain"
+  citation: "Rig Veda, Aitareya Aranyaka"
 license: public-domain
 quality_level: community
 phonetic: null

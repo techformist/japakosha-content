@@ -2,7 +2,7 @@
 id: ganesha-pancharatnam.en
 mantra_id: ganesha-pancharatnam
 language_code: en
-title: Shri Ganesha Pancharatnam
+title: "Shri Ganesha Pancharatnam"
 deity_theme:
   - ganesha
 purpose:
@@ -11,47 +11,47 @@ tradition: stotra
 tags:
   content_type:
     - pancharatnam
-keywords:
-  - ganesha
-  - pancharatnam
+  keywords:
+    - ganesha
+    - pancharatnam
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
-mudaa kaaraattamodakaM sadaa vimukti-saadhakam |
-    kaalaaadharaa-vataMsaM vilaaSinaa-loka-rakShakam ||
-anaa-yataka-ika-naayaka vinaaShite-ii-bhadaita kaM |
-    naataa-shubhaa-shuuna-shakaM namaami taM vinaayakam || 1 ||
+mudā karātamodakam sadā vimukti-sādhakam |
+    kālādhāra-vaṃśaṃ vilāsinī-loka-rakṣakam ||
+anāyata-ikanāyaka vināśitēbhadāitakaṃ |
+    nātaśubhāśūnaśakam namāmi taṃ vināyakam || 1 ||
 
-nate-taraaatibhiikaraM navoditaarka-bhaasvaram |
-    namat-suaraari-nijaraM nataadhikaapada-udharam |
+natetarātībhīkaraṃ navoditārkabhāsvarām |
+    namatsurārinijaraṃ natādhipāpadudharam |
     sureshvaraM nidIshvaraM gajeshvaraM gaNeshvaraM |
     maheshvaraM tamaashraye paarata-parama nirantaram || 2 ||
 
-samasta-lokashaMkaraM nirasta-daitiya-kunjaram |
-    daretarodaraM varaM vareibhava-akatra-makSharam |
-    kRuipaa-kaaraM kShamaa-kaaraM mudaa-kaaraM yashaskaaraM |
-    manaskaaraM namaskRuTaaM namaskaromi bhaasvaram || 3 ||
+samasta-lokashaṃkaraṃ nirasta-daitiya-kunjarām |
+    daretarodarāvaraṃ varebhavā-akatra-makṣaraṃ |
+    kriyā-kāraṃ kṣamā-kāraṃ mudā-kāraṃ yaśaskāraṃ |
+    manaskāraṃ namaskṛtāṃ namaskaromi bhāsvaraṃ || 3 ||
 
-akiMchanaartimaajanaM chirantaa-nokti-bhaajanaM |
-    puraa-rii-puurva-nandanaM suraa-ari-garvacarvaNaM |
+akinchānārtimājanaṃ chirantā-nokti-bhājanam |
+    purārī-pūrva-nandanaṃ surā-ri-garvacarvaṇam |
     prapaMca-naasha-bhiiShaNaM dhanaM-jayaa-dibhūṢaNaM |
     kapolaa-daana-vaaraNaM bhaje puraaNa-vaaraNam || 4 ||
 
-nitaan-takaan-ta-danta-kaan-ti-manta-kaan-ta-kaatmajaM |
-    achintya-ruupamanta-hiinamantaraaya-kRuṇatanaM |
+nitāntakāntadāntaka-antimāntakātmajam |
+    achintya-rūpamtahīnamantarāya-kṛṇatanaṃ |
     hRRidantare nirantaraM vasantameva yoginaaM |
     taMeka-dantaM eva taM vichintaayaami satatam || 5 ||
 
-mahaa-gaNesha-pancharatnam aadarena yo.anvaham |
-    prajalpati prabhaatake hRRidi smaran gaNeshvaram |
-    arogataam-adosha-taaM susahiitiiM suputrataaM |
-    samaahitaa-ayuraShTabhUtii M abhyupaiti so.aciraat || 6 ||
+mahā-gaṇeśa-pancharatnam ādarena yo'nvaham |
+    prajalpati prabhātake hṛdi smaran gaṇeśvaram |
+    arogatām-adoṣatāṃ susahitīṃ suputratāṃ |
+    samāhitā-āyurṣṭabhūtiṃ M abhyupaiti so'acirāt || 6 ||
 
 ## English Translation
 

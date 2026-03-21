@@ -1,7 +1,7 @@
 ---
-id: sri-ganadhipa-pancharatnam.sk
+id: sri-ganadhipa-pancharatnam.sa
 mantra_id: sri-ganadhipa-pancharatnam
-language_code: sk
+language_code: sa
 title: श्रीगणाधिपपञ्चरत्नम्
 deity_theme:
   - ganesha
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - pancharatnam
-keywords:
-  - sri
-  - ganadhipa
-  - pancharatnam
-source:
-  text: Public Domain
+  keywords:
+    - ganadhipa
+    - pancharatnam
+    - sri
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 सरागिलोकदुर्लभं विरागिलोकपूजितम् |

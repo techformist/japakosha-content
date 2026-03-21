@@ -2,29 +2,29 @@
 id: sri-arunachaleshwara-ashtottara-shatanamavali.kn
 mantra_id: sri-arunachaleshwara-ashtottara-shatanamavali
 language_code: kn
-title: ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+title: "ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
 deity_theme:
   - shiva
 purpose:
+  - auspiciousness
   - devotion
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - arunachaleshwara
-  - ashtottara
-  - shatanamavali
-  - ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-source:
-  text: Public Domain
+  keywords:
+    - arunachaleshwara
+    - ashtottara
+    - shatanamavali
+    - sri
+    - ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಓಂ ಶೋಣಾದ್ರೀಶಾಯ ನಮಃ  
 ಓಂ ಅರುಣಾದ್ರೀಶಾಯ ನಮಃ  

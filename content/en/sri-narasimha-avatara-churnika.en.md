@@ -2,7 +2,7 @@
 id: sri-narasimha-avatara-churnika.en
 mantra_id: sri-narasimha-avatara-churnika
 language_code: en
-title: Sri Narasimha Avatara Churnika
+title: "Sri Narasimha Avatara Churnika"
 deity_theme:
   - narasimha
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - narasimha
-  - avatara
-  - churnika
+  keywords:
+    - avatara
+    - churnika
+    - narasimha
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 itthaM dAnavedendra hiraNyakashipuH parigRhymANavairaH, vairAnubandhAjvalyamAnaroshAnalaH, roshAnalajaMghanyAmAnavijnAnavinayaH, vinayagAmbhIryajegIyAmAnahRudayaH, hRudayAchaMcalyAmanAtAmasaH, tAmasaguNachaMkrANasthairyo bhUtvA, visraMBheNa hukRutyA, bAlaM prahlAdaM paramabhAgavataM dhikkRutyA bhavataM shrIyaHpatiM asmin stambhe darishayeti, kanatakaMkanamayakaMkaNa kreMkArashabdapUrvakaM digadantidantabhEdanApATavaprashtene hastena sabhAmaNDapastambhe prATitA, prakShubitaparividAlitadashadigAntA tanmahAstambhAt baMbhajyAmAnAt, prodbhUtainjaMjamyAmAnainA, pralayavelAsambhUta saptaskaMbhadhurasamIrana saMghaTita ghorarajoghuShyAmAnA mahabalAhakavarganirgatanibiDaniShThuradussahAnighATasaMghanighoShanikAshachaTachaT spaTaspTaddhvanipramukha bhayAkarAravapuMjainA parivAptainA niravAshAm AkAshakuhurAntarAleShu paripUriteShu, prakShubitapraMkapitasvasvasthAnatayA paravaShainA nAntadodhUyAmAnahRudayainA pitAmaha mahEndra varuNA vAyushikhamukha charAcharajantujAlaisaha brahmANDakaTAlheShu parisphoTiteShu, bhagavAn shrIyaHpatiH shrImanAmAnarASyaNaH, bhaktAnAmabhayaMkaraH, duShTaniGraha shiShTaparipAlaNakShamaH, sharaNAgatavatsalaH, praphullapadmayugalashAsAchakrAcApahalakulishajalacharareKhAMkiTA chArucharaNa talaH, charaMachaMkraNa ghanavinamita vishvaviSvambharAbhAraudheya dikkuM bhikuM bhinasakuM bhInI dh karakUrmakulashikharaH, jarAshija shuNDAle shuNDA daNmaNdiTA praMda prachaMdamahUrastambhayugalaH, ghaNaghaNAyAmAN maNikiMkiNIkaNAmukharita mekhalAvalayavalayita pITAmbaraparishiTakaTi pradeIshaH, nirjaranimanagavartavartulakamalAakaragaMbhIra nAbhivivaraH, kulAcalasAnubhAgasadRisha karKa vishAla vakShasthalaH, durjanadanujadhairyaratikAlavitrAyAMaNA rakShorAjavakShobhAga viShankaTakShetravilekhanachaMgalAgaMgayAmAnA- sharaNAgatanayana cakoracandrarekhAyAmANAvajrAyudhapratimAnAbhAsamAnAni shatanakharataramukhanakharaH, shaMkhacakragADADkhaMgumaTaprati mukhanAnyAyudaH, mahitamahautuMgamahIdharaShRiMgasanibhaH, vIrasAgaravelAyAmANAliMkAvirAjamANaH, nirargala anekashatabhujArgalaH, maMjumaMjIramaNipuMjaranjiTamaMju lahArukEyUrakaMkaNakirITa- makarakuMDalAdibhUShaNa bhUShitaH, trivaliyutashikharishikarAbhaparinddha bandhurakandharaH, prakShaMpa kaMpita pArijATApAdapapallavaprAtikAshakopAveshanchalItAdharaH, sharatkAla meghaJamAMadhya dhadhaghAyAmANATaDillatAsamAnadedIpyAmANadaMShTRaMkuRaH, kalapAntakAla sakalabhuvanagrasanavilasanAvijRumbhANa saptajiBhAjihvAtulita taralatarAyAmANAvibhrAjamAnajiBhvaH, meRumaMdaramahAghUhAntarAla vistAravipulavakTranAsikAraMdraH nAsikAraMndra nissaraNibiDanishvAsanikarasaMghaTTanasaMkShobhita saMghaTTita saMghaTTa sphoTaspHoTa sphoTa sphoTa hRudiMda hRudiMda dhrutadhRuta nighaShTanighaShTa saptaSapta svanAni kAlaM prakAlitamAnanih SyandamAnAbahirābhyantarabAhya kashAparivfta vyApta ekAnekAbhedA shabdashabdashabdashabdAni haMsapaMktibhiH paripUrNachAruShaTashaTaviShANa muktAHemapranAlinIlihApulinagabhi nirbhinnastrigatastrigata vahnipraveShTibhiH praveShTibhiH pariveShTitaiH saMracitaiH praveShTitairapi vividhairvRuttijAlaiH anAvRttAnugatairghananAdaishca kAlenaiva kAlenaiva bhUyishThAbhUyishThA mohAtapashokaparavasAnaiH dAnavaiH pratidInairaveshTitaiH nissAranaiH prapAnivRuddhaiH samantAdapyuttarottaradhurmAmanAH paryantamanAvRttimatparispAradhUrAvRtteShu nAnAvasthAshitAiH svabhUtasvarUpairvRuttaisvaryasvabhAvaiH paricChadaiH paripoornaiH shatairapi sahasraihapi ayutaishapratijagatirAjye vyApakaiH prabhedabhinnamAnapratihatanirmalamani maNimaNiratatapratimaNDitagahanAn taptapinchchaputramaNimaNi vicitravi bhUShitaiH maNi prabhA vibhUShitaiH svashaktibhiH prakaShita svarUpaiH parispArNena paripUrNena sarvabhavenA bhUtavartIbhUtena ekaikaika ekadA ekadA dUraddUra gahanAntarAla vishAlanAshAbdAshravya vicalitasvarUpAnAmanAmanAmanA vibrateNa vyatIkAnta sanAtanena vibhUShita bAhyaH saMsThitaH paryanTaH paryantAmA udbabhUva

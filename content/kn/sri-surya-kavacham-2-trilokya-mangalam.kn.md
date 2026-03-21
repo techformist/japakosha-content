@@ -2,32 +2,31 @@
 id: sri-surya-kavacham-2-trilokya-mangalam.kn
 mantra_id: sri-surya-kavacham-2-trilokya-mangalam
 language_code: kn
-title: ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)
+title: "೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)"
 deity_theme:
   - surya
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - sri
-  - surya
-  - kavacham
-  - (trilokya
-  - mangalam)
-  - ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)
-  - trilokya
-  - mangalam
-source:
-  text: Public Domain
+  keywords:
+    - (trilokya
+    - kavacham
+    - mangalam
+    - mangalam)
+    - sri
+    - surya
+    - trilokya
+    - ೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಶ್ರೀಸೂರ್ಯ ಉವಾಚ |  
     ಸಾಂಬ ಸಾಂಬ ಮಹಾಬಾಹೋ ಶೃಣು ಮೇ ಕವಚಮ್ ಶುಭಮ್ |

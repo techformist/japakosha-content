@@ -1,7 +1,7 @@
 ---
-id: sri-ganesha-avatara-stotram.sk
+id: sri-ganesha-avatara-stotram.sa
 mantra_id: sri-ganesha-avatara-stotram
-language_code: sk
+language_code: sa
 title: श्रीगणेशावतारस्तोत्रम्
 deity_theme:
   - ganesha
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - avatara
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - avatara
+    - ganesha
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 अङ्गिरस उवाच |

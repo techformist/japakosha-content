@@ -2,29 +2,28 @@
 id: ganesha-suprabhata.kn
 mantra_id: ganesha-suprabhata
 language_code: kn
-title: ಶ್ರೀ ಗಣೇಶ ಸುಪ್ರಭಾತಂ
+title: "ಶ್ರೀ ಗಣೇಶ ಸುಪ್ರಭಾತಂ"
 deity_theme:
   - ganesha
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
     - ganesha
-    - suprabhata
-    - pratah
+  occasion:
     - morning
 source:
-  text: Traditional Suprabhata literature
-  citation: Based on Sri Venkatesha Suprabhata tradition
+  text: "Traditional Suprabhata literature"
+  citation: "Based on Sri Venkatesha Suprabhata tradition"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ ಶ್ರೀಗಣೇಶಾಯ ನಮಃ ॥
 

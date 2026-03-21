@@ -1,8 +1,8 @@
 ---
-id: sri-chandra-stotram-3.sk
+id: sri-chandra-stotram-3.sa
 mantra_id: sri-chandra-stotram-3
-language_code: sk
-title: श्रीचन्द्रस्तोत्रम् ३
+language_code: sa
+title: "श्रीचन्द्रस्तोत्रम् ३"
 deity_theme:
   - navagraha
 purpose:
@@ -11,24 +11,23 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - chandra
-  - stotram
-  - ३
-source:
-  text: Public Domain
+  keywords:
+    - chandra
+    - sri
+    - stotram
+    - ३
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
-ध्यानम् –
+## ध्यानम्
 श्वेताम्बरोज्ज्वलतनुं सितमाल्यगन्धं
-श्वेताश्वयुक्तरथगं सुरसेवितांघ्रिम् |
+श्वेताश्वयुक्तरथम् सुरसेवितांघ्रिम् |
     दोर्भ्यां धृताभयगदं वरदं सुधांशुं
 श्रीवत्समौक्तिकधरं प्रणमामि चन्द्रम् || १ ||
 
@@ -37,7 +36,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
     प्रत्यङ्मुखस्थश्चतुरश्रपीठे
 गदाधरो नोऽवतु रोहिणीशः || २ ||
 
-अथ स्तोत्रम् –
+## स्तोत्रम्
 चन्द्रं नमामि वरदं शङ्करस्य विभूषणम् |
     कलानिधिं कान्तिरूपं केयूरमकुटोज्वलम् || ३ ||
 

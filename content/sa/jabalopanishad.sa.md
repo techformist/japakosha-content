@@ -1,26 +1,26 @@
 ---
-id: jabalopanishad.sk
+id: jabalopanishad.sa
 mantra_id: jabalopanishad
-language_code: sk
+language_code: sa
 title: जाबालोपनिषद्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - stotra
-keywords:
-  - jabalopanishad
-source:
-  text: Public Domain
+  keywords:
+    - jabalopanishad
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते |
     पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते

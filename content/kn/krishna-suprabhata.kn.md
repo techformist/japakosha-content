@@ -2,30 +2,29 @@
 id: krishna-suprabhata.kn
 mantra_id: krishna-suprabhata
 language_code: kn
-title: ಶ್ರೀ ಕೃಷ್ಣ ಸುಪ್ರಭಾತ
+title: "ಶ್ರೀ ಕೃಷ್ಣ ಸುಪ್ರಭಾತ"
 deity_theme:
   - krishna
   - vishnu
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
     - krishna
-    - suprabhata
-    - pratah
+  occasion:
     - morning
 source:
-  text: Traditional Sri Vaishnava prayer
-  citation: Traditional Suprabhata literature
+  text: "Traditional Sri Vaishnava prayer"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ಕೌಸುಂಭೌರ್ಭಾಸುರಸಹಸ್ರೈರ್ಮಂಡಲೀಕೃತಭಾಸ್ಕರಃ ।
 ಪ್ರಭಾತೇ ಕರುಣಾಪೂರ್ಣಃ ಸ ಕೃಷ್ಣಃ ಕೇಶವಃ ಪ್ರಭುಃ ॥ ೧॥
@@ -63,7 +62,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 
 **೨. ವೇಣುವಿನ ಸಿಹಿಯಾದ ಧ್ವನಿಯಿಂದ ಅಲಂಕೃತನಾದ, ಸುಂದರ ನಗರದಲ್ಲಿ ವಾಸಿಸುವ, ಗೋಪಾಲರ ಸುಂದರ ಮೊಮ್ಮಗನಾದ, ಗೋಕುಲದಲಿ ಸುಖವನ್ನು ಕೊಡುವ ಶುಭಕರನಾದವನು.**
 
-**೩. ನಂದನ ಮಗನಾದ ಆನಂದದಾಯಕ, ಮುರಲಿಯನ್ನು ಹಿಡುವವನು, ಸುಂದರ ರೂಪಿಯಾದ, ಯಶೋದೆಯ ಮಗಳಾದ ಆನಂದದಾಯಕನಾದವನು ಬೆಳಗಿನ ಸ್ಮರಣೆಯಿಂದ ಉದ್ಭವಿಸುತ್ತಾನೆ.**
+**೩. ನಂದನ ಮಗನಾದ ಆನಂದದಾಯಕ, ಮುರಲಿಯನ್ನು ಹಿಡುವವನು, ಸುಂದರ ರೂಪಿಯಾದ, ಯಶೋದೆಯ ಮಗನಾದ ಆನಂದದಾಯಕನಾದವನು ಬೆಳಗಿನ ಸ್ಮರಣೆಯಿಂದ ಉದ್ಭವಿಸುತ್ತಾನೆ.**
 
 **೪. ಯಾದವ ಕುಲದ ದೀಪವಾದ, ಚಂದ್ರನ ಮುಖವುಳ್ಳ, ರಾಘವನೇ, ಶ್ರೀ ಕೃಷ್ಣನು ಜೋರಾಗಿ ಕರೆದರೆ ನೀವು ನಿದ್ದೆಯಿಂದ ಏಳುತ.**
 

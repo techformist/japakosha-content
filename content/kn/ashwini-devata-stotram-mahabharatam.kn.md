@@ -2,30 +2,29 @@
 id: ashwini-devata-stotram-mahabharatam.kn
 mantra_id: ashwini-devata-stotram-mahabharatam
 language_code: kn
-title: ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ
+title: "ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - health
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - ashwini
-  - devata
-  - stotram
-  - (mahabharatam)
-  - ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ
-  - mahabharatam
-source:
-  text: Public Domain
+  keywords:
+    - (mahabharatam)
+    - ashwini
+    - devata
+    - mahabharatam
+    - stotram
+    - ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಪ್ರಪೂರ್ವಗೌ ಪೂರ್ವಜೌ ಚಿತ್ರಭಾನೂ  
 ಗಿರಾವಾಶಂಸಾಮಿ ತಪಸಾ ಹ್ಯನಂತೌ|  

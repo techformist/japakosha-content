@@ -2,28 +2,29 @@
 id: sri-veerabhadra-ashtottara-shatanamavali.en
 mantra_id: sri-veerabhadra-ashtottara-shatanamavali
 language_code: en
-title: Sri Veerabhadra Ashtottara Shatanamavali
+title: "Sri Veerabhadra Ashtottara Shatanamavali"
 deity_theme:
   - shiva
 purpose:
+  - auspiciousness
   - devotion
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - veerabhadra
-  - ashtottara
-  - shatanamavali
+  keywords:
+    - ashtottara
+    - shatanamavali
+    - sri
+    - veerabhadra
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 om veerabhadraya namah
 om mahashoraya namah

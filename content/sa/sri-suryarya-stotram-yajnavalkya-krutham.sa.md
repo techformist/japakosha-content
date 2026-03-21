@@ -1,8 +1,8 @@
 ---
-id: sri-suryarya-stotram-yajnavalkya-krutham.sk
+id: sri-suryarya-stotram-yajnavalkya-krutham.sa
 mantra_id: sri-suryarya-stotram-yajnavalkya-krutham
-language_code: sk
-title: श्री सूर्यार्या स्तोत्रम् (याज्ञवल्क्य कृतं)
+language_code: sa
+title: "श्री सूर्यार्या स्तोत्रम् (याज्ञवल्क्य कृतं)"
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - suryarya
-  - stotram
-  - yajnavalkya
-  - krutham
-source:
-  text: Public Domain
+  keywords:
+    - krutham
+    - sri
+    - stotram
+    - suryarya
+    - yajnavalkya
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 शुकतुंडच्छविसवितुश्चंडरुचेः पुंडरीकवनबंधोः |
 मंडलमुदितं वंदे कुंडलमाखंडलाशायाः || १ ||

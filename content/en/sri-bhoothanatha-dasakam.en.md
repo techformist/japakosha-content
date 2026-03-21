@@ -2,7 +2,7 @@
 id: sri-bhoothanatha-dasakam.en
 mantra_id: sri-bhoothanatha-dasakam
 language_code: en
-title: Sri Bhoothanatha Dasakam
+title: "Sri Bhoothanatha Dasakam"
 deity_theme:
   - ayyappa
 purpose:
@@ -11,18 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - bhoothanatha
-  - dasakam
+  keywords:
+    - bhoothanatha
+    - dasakam
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 paaNdyabhuupatiindrapuuvapuNyamohanaaKrite
 paNDiitaarchitaanghripuNdaRIikaa paavanaaKrite |

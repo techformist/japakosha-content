@@ -1,24 +1,119 @@
 {
   "deity_themes": [
-    { "id": "ganesha", "name": "Ganesha", "description": "Prayers to Lord Ganesha, remover of obstacles", "display_order": 1 },
-    { "id": "shiva", "name": "Shiva", "description": "Prayers to Lord Shiva, the transformer", "display_order": 2 },
-    { "id": "vishnu", "name": "Vishnu", "description": "Prayers to Lord Vishnu, the preserver", "display_order": 3 },
-    { "id": "devi", "name": "Devi", "description": "Prayers to the Divine Mother", "display_order": 4 },
-    { "id": "hanuman", "name": "Hanuman", "description": "Prayers to Lord Hanuman, the devoted one", "display_order": 5 },
-    { "id": "rama", "name": "Rama", "description": "Prayers to Lord Rama", "display_order": 6 },
-    { "id": "krishna", "name": "Krishna", "description": "Prayers to Lord Krishna", "display_order": 7 },
-    { "id": "lakshmi", "name": "Lakshmi", "description": "Prayers to Goddess Lakshmi", "display_order": 8 },
-    { "id": "saraswati", "name": "Saraswati", "description": "Prayers to Goddess Saraswati", "display_order": 9 },
-    { "id": "surya", "name": "Surya", "description": "Prayers to the Sun God", "display_order": 10 },
-    { "id": "navagraha", "name": "Navagraha", "description": "Prayers to the nine celestial bodies", "display_order": 11 },
-    { "id": "narasimha", "name": "Narasimha", "description": "Prayers to Lord Narasimha", "display_order": 12 },
-    { "id": "subrahmanya", "name": "Subrahmanya", "description": "Prayers to Lord Subrahmanya/Murugan", "display_order": 13 },
-    { "id": "dattatreya", "name": "Dattatreya", "description": "Prayers to Lord Dattatreya", "display_order": 14 },
-    { "id": "ayyappa", "name": "Ayyappa", "description": "Prayers to Lord Ayyappa", "display_order": 15 },
-    { "id": "venkateshwara", "name": "Venkateshwara", "description": "Prayers to Lord Venkateshwara", "display_order": 16 },
-    { "id": "lalitha", "name": "Lalitha", "description": "Prayers to Goddess Lalitha Tripurasundari", "display_order": 17 },
-    { "id": "guru", "name": "Guru", "description": "Prayers to the spiritual teacher", "display_order": 18 },
-    { "id": "universal", "name": "Universal", "description": "Prayers transcending specific deity traditions", "display_order": 99 }
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "description": "Prayers to Lord Ganesha, remover of obstacles",
+      "display_order": 1
+    },
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "description": "Prayers to Lord Shiva, the transformer",
+      "display_order": 2
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "description": "Prayers to Lord Vishnu, the preserver",
+      "display_order": 3
+    },
+    {
+      "id": "devi",
+      "name": "Devi",
+      "description": "Prayers to the Divine Mother",
+      "display_order": 4
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman",
+      "description": "Prayers to Lord Hanuman, the devoted one",
+      "display_order": 5
+    },
+    {
+      "id": "rama",
+      "name": "Rama",
+      "description": "Prayers to Lord Rama",
+      "display_order": 6
+    },
+    {
+      "id": "krishna",
+      "name": "Krishna",
+      "description": "Prayers to Lord Krishna",
+      "display_order": 7
+    },
+    {
+      "id": "lakshmi",
+      "name": "Lakshmi",
+      "description": "Prayers to Goddess Lakshmi",
+      "display_order": 8
+    },
+    {
+      "id": "saraswati",
+      "name": "Saraswati",
+      "description": "Prayers to Goddess Saraswati",
+      "display_order": 9
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "description": "Prayers to the Sun God",
+      "display_order": 10
+    },
+    {
+      "id": "navagraha",
+      "name": "Navagraha",
+      "description": "Prayers to the nine celestial bodies",
+      "display_order": 11
+    },
+    {
+      "id": "narasimha",
+      "name": "Narasimha",
+      "description": "Prayers to Lord Narasimha",
+      "display_order": 12
+    },
+    {
+      "id": "subrahmanya",
+      "name": "Subrahmanya",
+      "description": "Prayers to Lord Subrahmanya/Murugan",
+      "display_order": 13
+    },
+    {
+      "id": "dattatreya",
+      "name": "Dattatreya",
+      "description": "Prayers to Lord Dattatreya",
+      "display_order": 14
+    },
+    {
+      "id": "ayyappa",
+      "name": "Ayyappa",
+      "description": "Prayers to Lord Ayyappa",
+      "display_order": 15
+    },
+    {
+      "id": "venkateshwara",
+      "name": "Venkateshwara",
+      "description": "Prayers to Lord Venkateshwara",
+      "display_order": 16
+    },
+    {
+      "id": "lalitha",
+      "name": "Lalitha",
+      "description": "Prayers to Goddess Lalitha Tripurasundari",
+      "display_order": 17
+    },
+    {
+      "id": "guru",
+      "name": "Guru",
+      "description": "Prayers to the spiritual teacher",
+      "display_order": 18
+    },
+    {
+      "id": "universal",
+      "name": "Universal",
+      "description": "Prayers transcending specific deity traditions",
+      "display_order": 99
+    }
   ],
   "purposes": [
     "peace",
@@ -109,9 +204,5 @@
     "cc-by-sa-4.0",
     "contributor-owned"
   ],
-  "quality_levels": [
-    "verified",
-    "community",
-    "unverified"
-  ]
+  "quality_levels": ["verified", "community", "unverified"]
 }

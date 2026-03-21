@@ -1,8 +1,8 @@
 ---
-id: sri-surya-stotram-2-deva-krutham.sk
+id: sri-surya-stotram-2-deva-krutham.sa
 mantra_id: sri-surya-stotram-2-deva-krutham
-language_code: sk
-title: श्री सूर्य स्तोत्रम् २ (देव कृतं)
+language_code: sa
+title: "श्री सूर्य स्तोत्रम् २ (देव कृतं)"
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - surya
-  - stotram
-  - deva
-  - krutham
-source:
-  text: Public Domain
+  keywords:
+    - deva
+    - krutham
+    - sri
+    - stotram
+    - surya
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 देवा ऊचुः |
 नमस्ते ऋक्स्वरूपाय सामरूपाय ते नमः |
@@ -51,7 +50,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 क्रियते त्वत्करैः स्पर्शाज्जलादीनां पवित्रता |
 होमदानादिको धर्मो नोपकाराय जायते || ८ ||
 
-तावद्यावंन संयोगी जगदेतत् त्वदंशुभिः |
+तावद्यावन्न संयोगी जगदेतत् त्वदंशुभिः |
 ऋचस्ते सकला ह्येता यजूंष्येतानि चान्यतः || ९ ||
 
 सकलानि च सामानि निपतंति त्वदंगतः |

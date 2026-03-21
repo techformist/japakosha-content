@@ -2,7 +2,7 @@
 id: devi-vaibhava-ashcharya-ashtottara-shatanamavali.en
 mantra_id: devi-vaibhava-ashcharya-ashtottara-shatanamavali
 language_code: en
-title: Devi Vaibhava Ashcharya Ashtottara Shatanamavali
+title: "Devi Vaibhava Ashcharya Ashtottara Shatanamavali"
 deity_theme:
   - devi
 purpose:
@@ -11,32 +11,32 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - devi
-  - vaibhava
-  - ashcharya
-  - ashtottara
-  - shatanamavali
+  keywords:
+    - ashcharya
+    - ashtottara
+    - devi
+    - shatanamavali
+    - vaibhava
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
-oM paramaananda-laharya-ai namaH |
-    oM paracaitanya-diipikaayai namaH |
-    oM svayaM-prakaasha-kiraNaayai namaH |
-    oM nitya-vaibhava-shalinya-ai namaH |
-    oM vishuddha-kevala-khaDa-satya-kaalaatma-ruPiNyai namaH |
-    oM aadi-madhya-antarahitaayai namaH |
-    oM mahaamaayaa-vilaasinya-ai namaH |
-    oM guNa-traya-paricChetryai namaH |
-    oM sarva-tattva-prakaashinya-ai namaH | 9
-oM strii-puMsa-bhaava-rasikaayai namaH |
-    oM jagat-sarga-aadi-laMPaTaayai namaH |
+oṃ paramānanda-lahary-ai namaḥ |
+    oṃ paracaitanyadīpikāyai namaḥ |
+    oṃ svayaṃprakāśakiraṇāyai namaḥ |
+    oṃ nitya-vaibhava-śālinīy-ai namaḥ |
+    oṃ viśuddha-kēvala-khaḍa-satya-kālātmā-rūpiṇy-ai namaḥ |
+    oṃ ādi-madhya-antarāhitāyai namaḥ |
+    oṃ mahāmāyā-vilāsinīy-ai namaḥ |
+    oṃ guṇa-traya-paricchētrai namaḥ |
+    oṃ sarva-tattva-prakāśiny-ai namaḥ | 9
+oṃ strī-puṃsa-bhāva-rasikāyai namaḥ |
+    oṃ jagat-sarga-ādi-lampatāyai namaḥ |
     oM asheSha-naama-ruupa-aadi-bheda-ccheda-ravi-prabhaayai namaH |
     oM anaadi-vaasanaa-ruupaayai namaH |
     oM vaasana-udyat-prapaMchikaayai namaH |

@@ -2,7 +2,7 @@
 id: sri-ganadhipa-pancharatnam.en
 mantra_id: sri-ganadhipa-pancharatnam
 language_code: en
-title: Sri Ganadhipa Pancharatnam
+title: "Sri Ganadhipa Pancharatnam"
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - pancharatnam
-keywords:
-  - sri
-  - ganadhipa
-  - pancharatnam
+  keywords:
+    - ganadhipa
+    - pancharatnam
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 saraagilokaduradhabam viraagilokapoojitam |

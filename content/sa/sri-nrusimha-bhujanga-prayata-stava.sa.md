@@ -1,7 +1,7 @@
 ---
-id: sri-nrusimha-bhujanga-prayata-stava.sk
+id: sri-nrusimha-bhujanga-prayata-stava.sa
 mantra_id: sri-nrusimha-bhujanga-prayata-stava
-language_code: sk
+language_code: sa
 title: श्रीनृसिंहभुजङ्गप्रयातस्तवः
 deity_theme:
   - narasimha
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - nrusimha
-  - bhujanga
-  - prayata
-  - stava
-source:
-  text: Public Domain
+  keywords:
+    - bhujanga
+    - nrusimha
+    - prayata
+    - sri
+    - stava
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 ऋतं कर्तुमेवाशु नम्रस्य वाक्यं
@@ -58,7 +57,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 नमस्कुर्महे शैलवासं नृसिंहम् || ६ ||
 
 नरो यन्मनोर्जापतो भक्तिभावा-
-छ्शरीरेण तेनैव पश्यत्यमोघाम् |
+शरीरेण तेनैव पश्यत्यमोघाम् |
 तनुं नारसिंहस्य वक्तीति वेदो
 नमस्कुर्महे शैलवासं नृसिंहम् || ७ ||
 

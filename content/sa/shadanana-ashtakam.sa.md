@@ -1,7 +1,7 @@
 ---
-id: shadanana-ashtakam.sk
+id: shadanana-ashtakam.sa
 mantra_id: shadanana-ashtakam
-language_code: sk
+language_code: sa
 title: षडाननाष्टकम्
 deity_theme:
   - subrahmanya
@@ -11,17 +11,16 @@ tradition: stotra
 tags:
   content_type:
     - ashtakam
-keywords:
-  - shadanana
-  - ashtakam
-source:
-  text: Public Domain
+  keywords:
+    - ashtakam
+    - shadanana
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 अगस्तिरुवाच |
 नमोऽस्तु वृन्दारकवृन्दवन्द्य-

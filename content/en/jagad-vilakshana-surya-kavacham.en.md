@@ -2,28 +2,28 @@
 id: jagad-vilakshana-surya-kavacham.en
 mantra_id: jagad-vilakshana-surya-kavacham
 language_code: en
-title: Jagad-Vilakshana Surya Kavacham
+title: "Jagad-Vilakshana Surya Kavacham"
 deity_theme:
   - surya
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - jagad
-  - vilakshana
-  - surya
-  - kavacham
+  keywords:
+    - jagad
+    - kavacham
+    - surya
+    - vilakshana
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 bRhaspatiH uvAcha |
     indra SRNu pravakShyAmi kavaCha paramAdbhutam |

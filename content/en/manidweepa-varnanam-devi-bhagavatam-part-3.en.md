@@ -1,26 +1,26 @@
 ---
-id: "manidweepa-varnanam-devi-bhagavatam-part-3.en"
-mantra_id: "manidweepa-varnanam-devi-bhagavatam-part-3"
-language_code: "en"
+id: manidweepa-varnanam-devi-bhagavatam-part-3.en
+mantra_id: manidweepa-varnanam-devi-bhagavatam-part-3
+language_code: en
 title: "Manidweepa Varnanam - Devi Bhagavatam Part 3"
-deity_theme: ["devi"]
-purpose: ["devotion"]
-tradition: "stotra"
+deity_theme: "[\\"devi\\"]"
+purpose: "[\\"devotion\\"]"
+tradition: stotra
 tags:
-  content_type: ["stotra"]
-keywords:
-  - "manidweepa"
-  - "varnanam"
-  - "(devi"
-  - "bhagavatam)"
-  - "part"
-  - "devi"
-  - "bhagavatam"
+  content_type:
+  keywords:
+    - "(devi"
+    - "bhagavatam"
+    - "bhagavatam)"
+    - "devi"
+    - "manidweepa"
+    - "part"
+    - "varnanam"
 source:
   text: "Public Domain"
   citation: null
-  license: "public-domain"
-quality_level: "community"
+  license: public-domain
+quality_level: community
 phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"

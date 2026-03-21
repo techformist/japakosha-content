@@ -2,7 +2,7 @@
 id: sri-chandra-stotram-3.kn
 mantra_id: sri-chandra-stotram-3
 language_code: kn
-title: ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೩
+title: "ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೩"
 deity_theme:
   - navagraha
 purpose:
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - chandra
-  - stotram
-  - ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೩
-source:
-  text: Public Domain
+  keywords:
+    - chandra
+    - sri
+    - stotram
+    - ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೩
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಧ್ಯಾನಮ್ –  
 ಶ್ವೇತಾಂಬರೋಜ್ಜ್ವಲತನುಂ ಸಿತಮಾಲ್ಯಗಂಧಂ  

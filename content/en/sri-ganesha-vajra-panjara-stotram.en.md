@@ -2,29 +2,29 @@
 id: sri-ganesha-vajra-panjara-stotram.en
 mantra_id: sri-ganesha-vajra-panjara-stotram
 language_code: en
-title: Sri Ganesha Vajra Panjara Stotram
+title: "Sri Ganesha Vajra Panjara Stotram"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ganesha
-  - vajra
-  - panjara
-  - stotram
+  keywords:
+    - ganesha
+    - panjara
+    - sri
+    - stotram
+    - vajra
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 dhyAnam |
     trinetraM gajAsyaM chaturbAhudhAram

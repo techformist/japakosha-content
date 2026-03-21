@@ -11,21 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - devi
-  - vaibhava
-  - ashcharya
-  - ashtottara
-  - shatanamavali
-  - ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+  keywords:
+    - ashcharya
+    - ashtottara
+    - devi
+    - shatanamavali
+    - vaibhava
+    - ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಓಂ ಪರಮಾನಂದಲಹರ್ಯೈ ನಮಃ |  
     ಓಂ ಪರಚೈತನ್ಯದೀಪಿಕಾಯೈ ನಮಃ |  

@@ -2,28 +2,28 @@
 id: sri-ganesha-hrudaya-kavacham.en
 mantra_id: sri-ganesha-hrudaya-kavacham
 language_code: en
-title: Sri Ganesha Hrudaya Kavacham
+title: "Sri Ganesha Hrudaya Kavacham"
 deity_theme:
   - ganesha
 purpose:
-  - devotion
+  - protection
 tradition: stotra
 tags:
   content_type:
     - kavacham
-keywords:
-  - sri
-  - ganesha
-  - hrudaya
-  - kavacham
+  keywords:
+    - ganesha
+    - hrudaya
+    - kavacham
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 namastasmai gaNeshAya sarvavighnavinAshine |
     kAryAraMbeShu sarveShu pUjito yaH surairapi || 1 ||

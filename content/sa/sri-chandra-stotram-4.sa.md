@@ -1,8 +1,8 @@
 ---
-id: sri-chandra-stotram-4.sk
+id: sri-chandra-stotram-4.sa
 mantra_id: sri-chandra-stotram-4
-language_code: sk
-title: श्रीचन्द्रस्तोत्रम् ४
+language_code: sa
+title: "श्रीचन्द्रस्तोत्रम् ४"
 deity_theme:
   - navagraha
 purpose:
@@ -11,24 +11,23 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - chandra
-  - stotram
-  - ४
-source:
-  text: Public Domain
+  keywords:
+    - chandra
+    - sri
+    - stotram
+    - ४
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
-ध्यानम् –
-श्वेताम्बरान्वितपुर्वरशुभ्रवर्णं
-श्वेताश्वयुक्तरथगं सुरसेवितांघ्रिम् |
+## ध्यानम्
+श्वेताम्बरान्वितपुरुवरशुभ्रवर्णं
+श्वेताश्वयुक्तरथम् सुरसेवितांघ्रिम् |
     दोर्भ्यां धृताभयगदं वरदं सुधांशुं
 श्रीवत्समौक्तिकधरं प्रणमामि चन्द्रम् || १ ||
 
@@ -46,7 +45,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 श्वेतच्छत्रधरं देवं सर्वाभरणभूषितम् |
     एतत् स्तोत्रं पठित्वा तु सर्वसम्पत्करं शुभम् || ५ ||
 
-फलश्रुतिः –
+## फल श्रुति
 क्षयापस्मारकुष्ठादि तापज्वरनिवारणम् |
     इदं निशाकरस्तोत्रं यः पठेत् सततं नरः |
     सोपद्रवात् प्रमुच्येत नात्र कार्या विचारणा || ६ ||

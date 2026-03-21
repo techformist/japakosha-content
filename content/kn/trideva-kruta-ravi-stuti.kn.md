@@ -2,29 +2,28 @@
 id: trideva-kruta-ravi-stuti.kn
 mantra_id: trideva-kruta-ravi-stuti
 language_code: kn
-title: ಶ್ರೀ ರವಿ ಸ್ತುತಿಃ (ತ್ರಿದೇವ ಕೃತಂ)
+title: "ಶ್ರೀ ರವಿ ಸ್ತುತಿಃ (ತ್ರಿದೇವ ಕೃತಂ)"
 deity_theme:
   - navagraha
 purpose:
-  - devotion
+  - auspiciousness
 tradition: stotra
 tags:
   content_type:
     - stuti
-keywords:
-  - trideva
-  - kruta
-  - ravi
-  - stuti
-  - ಶ್ರೀ ರವಿ ಸ್ತುತಿಃ (ತ್ರಿದೇವ ಕೃತಂ)
-source:
-  text: Public Domain
+  keywords:
+    - kruta
+    - ravi
+    - stuti
+    - trideva
+    - ಶ್ರೀ ರವಿ ಸ್ತುತಿಃ (ತ್ರಿದೇವ ಕೃತಂ)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ದೃಷ್ಟ್ವೈವಂ ದೇವದೇವಸ್ಯ ರೂಪಂ ಭಾನೋರ್ಮಹಾತ್ಮನಃ |  
     ವಿಸ್ಮಯೋತ್ಫುಲ್ಲನಯನಾಸ್ತುಷ್ಟವುಸ್ತೇ ದಿವಾಕರಮ್ || ೧ ||

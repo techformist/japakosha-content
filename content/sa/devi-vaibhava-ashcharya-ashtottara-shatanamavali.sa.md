@@ -1,7 +1,7 @@
 ---
-id: devi-vaibhava-ashcharya-ashtottara-shatanamavali.sk
+id: devi-vaibhava-ashcharya-ashtottara-shatanamavali.sa
 mantra_id: devi-vaibhava-ashcharya-ashtottara-shatanamavali
-language_code: sk
+language_code: sa
 title: देवीवैभवाश्चर्याष्टोत्तरशतनामावलिः
 deity_theme:
   - devi
@@ -11,20 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - devi
-  - vaibhava
-  - ashcharya
-  - ashtottara
-  - shatanamavali
-source:
-  text: Public Domain
+  keywords:
+    - ashcharya
+    - ashtottara
+    - devi
+    - shatanamavali
+    - vaibhava
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ परमानन्दलहर्यै नमः |
     ॐ परचैतन्यदीपिकायै नमः |
@@ -60,7 +59,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
     ॐ शिष्टसञ्जीवनप्रौढायै नमः |
     ॐ दुष्टसंहारसिद्धिदायै नमः |
     ॐ लीलाविनिर्मितानेककोटिब्रह्माण्डमण्डलायै नमः |
-    ॐ एकस्यै नमः |
+    ॐ एकायै नमः | ६३
     ॐ अनेकात्मिकायै नमः | ३६
 ॐ नानारूपिण्यै नमः |
     ॐ अर्धाङ्गनेश्वर्यै नमः |
@@ -97,7 +96,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
     ॐ महात्रिपुरसुन्दर्यै नमः |
     ॐ त्रिपुरावासरसिकायै नमः |
     ॐ त्रिपुराश्रीस्वरूपिण्यै नमः |
-    ॐ महापद्दवनान्तस्थायै नमः | ७२
+    ॐ महापद्मवनान्तस्थायै नमः | ७२
 ॐ श्रीमत्त्रिपुरमालिन्यै नमः |
     ॐ महात्रिपुरसिद्धाम्बायै नमः |
     ॐ श्रीमहात्रिपुराम्बिकायै नमः |

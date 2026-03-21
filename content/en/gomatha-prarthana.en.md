@@ -2,20 +2,21 @@
 id: gomatha-prarthana.en
 mantra_id: gomatha-prarthana
 language_code: en
-title: Gomatha Prarthana
+title: "Gomatha Prarthana"
 deity_theme:
   - universal
 purpose:
+  - gratitude
   - devotion
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - gomatha
-  - prarthana
+  keywords:
+    - gomatha
+    - prarthana
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
@@ -23,23 +24,23 @@ phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"
 ---
-namo brahmaNya-devaaya go-braahmaNa-hitaaya ca |
-    jagaddhitaaya kRuShNaaya goviidaaya namo namaH || 1 ||
+namo brahmānyadēvāya gōbrāhmaṇahitāya ca |
+    jagaddhitāya kṛṣṇāya gōvidāya namō namaḥ || 1 ||
 
-kiirtanaM shraavaNaM daanaM darshanaM chaapi paarthiva |
-    gaavaaM prashyate viira sarvapaapaharaM shivam || 2 ||
+kīrtanaṃ śravaṇaṃ dānaṃ darśanaṃ chāpi pārthiva |
+    gavāṃ praśyatē vīra sarvapāpaharaṃ śivaṃ || 2 ||
 
-ghRRita-kshiira-pradaa gaavo ghRRitayonyo ghRRitodbhavaaH |
-    ghRRitanaadyo ghRRitaavartaastaM etaM santu sadaa gRRihe || 3 ||
+ghṛtakṣīrapradā gāvō ghṛtāyōnyō ghṛtōdbhavāḥ |
+    ghṛtānadyō ghṛtāvartāstaṃ etaṃ santu sadā gṛhē || 3 ||
 
-ghRRitaM me hRidaye nityaM ghRRitaM naabhyaam pratiShTitam |
-    ghRRitaM sarveShu gaatreShu ghRRitaM me manasisthitam || 4 ||
+ghṛtaṃ mē hṛdayē nityaṃ ghṛtaṃ nābhyāṃ pratiṣṭhitaṃ |
+    ghṛtaṃ sarvēṣu gātrēṣu ghṛtaṃ mē manaḥsisthitam || 4 ||
 
-gaavo mamaa-agrato nityaM gaavaH pRRiShTata eva ca |
-    gaavo me sarvataH chaiva gaavaaM madhyevasaamyaham || 5 ||
+gāvō mamāgraṃ nityaṃ gāvaḥ pṛṣṭatā ēva ca |
+    gāvō mē sarvataḥ chaiva gavāṃ madhyēvasāmyaham || 5 ||
 
-ityaachamya japet-saayaM praatah ca puruShassadaa |
-    yadahnaatkurutepaapam tasmaat sa parimucyate || 6 ||
+ityāchamya japētsāyāṃ prātaḥ ca puruṣassadā |
+    yadahnātkurutēpāpaṃ tasmāt sa parimucyatē || 6 ||
 
 ## English Translation
 

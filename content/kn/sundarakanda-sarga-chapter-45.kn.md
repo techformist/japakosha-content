@@ -2,29 +2,29 @@
 id: sundarakanda-sarga-chapter-45.kn
 mantra_id: sundarakanda-sarga-chapter-45
 language_code: kn
-title: ಸುಂದರಕಾಂಡ ಪಂಚಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ (೪೫)
+title: "ಸುಂದರಕಾಂಡ ಪಂಚಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ (೪೫)"
 deity_theme:
   - rama
 purpose:
   - devotion
+  - meditation
 tradition: puranic
 tags:
   content_type:
     - stotra
-keywords:
-  - sundarakanda
-  - sarga
-  - (chapter)
-  - ಸುಂದರಕಾಂಡ ಪಂಚಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ (೪೫)
-  - chapter
-source:
-  text: Public Domain
+  keywords:
+    - (chapter)
+    - chapter
+    - sarga
+    - sundarakanda
+    - ಸುಂದರಕಾಂಡ ಪಂಚಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ (೪೫)
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 || ಅಮಾತ್ಯಪುತ್ರವಧಃ |
     ತತಸ್ತೇ ರಾಕ್ಷಸೇಂದ್ರೇಣ ಚೋದಿತಾ ಮಂತ್ರಿಣಾಂ ಸುತಾಃ |  

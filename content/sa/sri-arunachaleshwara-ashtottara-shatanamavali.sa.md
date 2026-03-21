@@ -1,29 +1,29 @@
 ---
-id: sri-arunachaleshwara-ashtottara-shatanamavali.sk
+id: sri-arunachaleshwara-ashtottara-shatanamavali.sa
 mantra_id: sri-arunachaleshwara-ashtottara-shatanamavali
-language_code: sk
-title: श्री अरुणाचलेश्वर अष्टोत्तरशतनामावलिः
+language_code: sa
+title: "श्री अरुणाचलेश्वर अष्टोत्तरशतनामावलिः"
 deity_theme:
   - shiva
 purpose:
+  - auspiciousness
   - devotion
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - arunachaleshwara
-  - ashtottara
-  - shatanamavali
-source:
-  text: Public Domain
+  keywords:
+    - arunachaleshwara
+    - ashtottara
+    - shatanamavali
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ शोणाद्रीशाय नमः
 ॐ अरुणाद्रीशाय नमः
@@ -33,7 +33,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 ॐ धीराय नमः
 ॐ शिवाय नमः
 ॐ सेवकवर्धकाय नमः
-ॐ अक्षिपेयामृतेशानाय नमः || ९ ||
+ॐ अक्षिपियामृतेशानाय नमः || ९ ||
 
 ॐ स्त्रीपुंभावप्रदायकाय नमः
 ॐ भक्तविज्ञप्तिसमादात्रे नमः

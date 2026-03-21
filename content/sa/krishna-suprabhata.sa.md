@@ -1,31 +1,30 @@
 ---
-id: krishna-suprabhata.sk
+id: krishna-suprabhata.sa
 mantra_id: krishna-suprabhata
-language_code: sk
+language_code: sa
 title: श्रीकृष्णसुप्रभातम्
 deity_theme:
   - krishna
   - vishnu
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
     - krishna
-    - suprabhata
-    - pratah
+  occasion:
     - morning
 source:
-  text: Traditional Sri Vaishnava prayer
-  citation: Traditional Suprabhata literature
+  text: "Traditional Sri Vaishnava prayer"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 कौसुम्भौर्भासुरसहस्रैर्मण्डलीकृतभास्करः ।
 प्रभाते करुणापूर्णः स कृष्णः केशवः प्रभुः ॥ १॥
@@ -40,15 +39,15 @@ updated_at: '2026-03-20T00:00:00.000Z'
 प्रभाते श्रीकृष्णेनोच्चैः स्वपिता भवतां यदि ॥ ४॥
 
 गोविन्दो गोपालो वेणुमान् मुरलीधरो रसिकः ।
-यदुनन्दो बलभद್ರो देवकीनन्दनो हरिः ॥ ५॥
+यदुनन्दो बलभद्रो देवकीनन्दनो हरिः ॥ ५॥
 
 श्रीवत्सङ्कितचिह्नेन चन्द्रचूडेन भास्कर ।
 वन्देऽहं शशिवदनेन मुरलीधरपूर्वकैः ॥ ६॥
 
-माधवो माधवो वेणुवान् गोपीजनवಲ्लಭः ।
+माधवो माधवो वेणुवान् गोपीजनवल्लभः ।
 प्रभाते नवनीतोऽपि केशवः कृष्ण एव च ॥ ७॥
 
-राधावल्लಭो रसराजो गोकुलनायको हरिः ।
+राधावल्लभो रसराजो गोकुलनायको हरिः ।
 प्रभाते पुष्पमालाभिः सम्पूजितो ममेश्वरः ॥ ८॥
 
 यशोदासुतः सोमश्रेष्ठो वृष्भानुः कालिन्दिनः ।

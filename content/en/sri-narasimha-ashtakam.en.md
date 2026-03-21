@@ -2,27 +2,28 @@
 id: sri-narasimha-ashtakam.en
 mantra_id: sri-narasimha-ashtakam
 language_code: en
-title: Sri Narasimha Ashtakam
+title: "Sri Narasimha Ashtakam"
 deity_theme:
   - narasimha
 purpose:
-  - devotion
+  - protection
+  - courage
 tradition: stotra
 tags:
   content_type:
     - ashtakam
-keywords:
-  - sri
-  - narasimha
-  - ashtakam
+  keywords:
+    - ashtakam
+    - narasimha
+    - sri
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 shrImadakalaMka paripUrNa shashikoTi-

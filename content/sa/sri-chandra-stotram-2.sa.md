@@ -1,8 +1,8 @@
 ---
-id: sri-chandra-stotram-2.sk
+id: sri-chandra-stotram-2.sa
 mantra_id: sri-chandra-stotram-2
-language_code: sk
-title: श्री चन्द्र स्तोत्रम् २
+language_code: sa
+title: "श्री चन्द्र स्तोत्रम् २"
 deity_theme:
   - navagraha
 purpose:
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - chandra
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - chandra
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 श्वेताम्बरः श्वेतवपुः किरीटी
 श्वेतद्युतिर्दण्डधरो द्विबाहुः |

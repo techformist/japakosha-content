@@ -1,29 +1,29 @@
 ---
-id: sri-veerabhadra-ashtottara-shatanamavali.sk
+id: sri-veerabhadra-ashtottara-shatanamavali.sa
 mantra_id: sri-veerabhadra-ashtottara-shatanamavali
-language_code: sk
-title: श्री वीरभद्राष्टोत्तरशतनामावलिः
+language_code: sa
+title: "श्री वीरभद्राष्टोत्तरशतनामावलिः"
 deity_theme:
   - shiva
 purpose:
+  - auspiciousness
   - devotion
 tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - sri
-  - veerabhadra
-  - ashtottara
-  - shatanamavali
-source:
-  text: Public Domain
+  keywords:
+    - ashtottara
+    - shatanamavali
+    - sri
+    - veerabhadra
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ॐ वीरभद्राय नमः
 ॐ महाशूराय नमः

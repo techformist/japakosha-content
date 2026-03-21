@@ -1,8 +1,8 @@
 ---
-id: sri-bhoothanatha-dasakam.sk
+id: sri-bhoothanatha-dasakam.sa
 mantra_id: sri-bhoothanatha-dasakam
-language_code: sk
-title: श्री भूतनाथ दशकम्
+language_code: sa
+title: "श्री भूतनाथ दशकम्"
 deity_theme:
   - ayyappa
 purpose:
@@ -11,18 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - bhoothanatha
-  - dasakam
-source:
-  text: Public Domain
+  keywords:
+    - bhoothanatha
+    - dasakam
+    - sri
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 पाण्ड्यभूपतीन्द्रपूर्वपुण्यमोहनाकृते
 पण्डितार्चिताङ्घ्रिपुण्डरीक पावनाकृते |
@@ -46,7 +45,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 
 वीरबाहुवर्णणीयवीर्यशौर्यवारिधे
 वारिजासनादिदेववन्द्य सुन्दराकृते |
-वारणेन्द्रवाजिसिंहवाह भक्तशेवधे
+वारणेन्द्रवाजिसिंहवाह भक्तसेवधे
 पूर्णपुष्कलासमेत भूतनाथ पाहि माम् || ५ ||
 
 अत्युदारभक्तचित्तरङ्गनर्तनप्रभो

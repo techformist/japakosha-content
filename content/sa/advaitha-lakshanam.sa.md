@@ -1,22 +1,22 @@
 ---
-id: advaitha-lakshanam.sk
+id: advaitha-lakshanam.sa
 mantra_id: advaitha-lakshanam
-language_code: sk
+language_code: sa
 title: अद्वैतलक्षणं
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - advaitha
-  - lakshanam
-  - अद्वैतलक्षणं
-source:
-  text: Public Domain
+  keywords:
+    - advaitha
+    - lakshanam
+    - अद्वैतलक्षणं
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
@@ -40,5 +40,5 @@ updated_at: "2026-03-20T00:00:00.000Z"
 बहिः प्रज्ञां सदोत्सृज्याप्यन्तः प्रज्ञां च यो बुधः ।
 कयापि प्रज्ञयोपेतः प्रज्ञावानिति कथ्यते ॥ ५ ॥
 
-कर्मणो भावनाचेयं सा ब्रह्मपरिपन्थिनी ।
+कर्मणो भावनाचीयं सा ब्रह्मपरिपन्थिनी ।
 कर्मभावनया तुल्यं विज्ञानमुपजायते ॥ ६ ॥

@@ -1,8 +1,8 @@
 ---
-id: sri-tulasi-stotram.sk
+id: sri-tulasi-stotram.sa
 mantra_id: sri-tulasi-stotram
-language_code: sk
-title: श्री तुलसी स्तोत्रम्
+language_code: sa
+title: "श्री तुलसी स्तोत्रम्"
 deity_theme:
   - universal
 purpose:
@@ -11,12 +11,11 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - tulasi
-  - stotram
-source:
-  text: Public Domain
+  keywords:
+    - sri
+    - stotram
+    - tulasi
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

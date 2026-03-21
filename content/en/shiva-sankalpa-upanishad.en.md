@@ -2,27 +2,29 @@
 id: shiva-sankalpa-upanishad.en
 mantra_id: shiva-sankalpa-upanishad
 language_code: en
-title: Shiva Sankalpa Upanishad
+title: "Shiva Sankalpa Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
+  - meditation
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - shiva
-  - sankalpa
-  - upanishad
+  keywords:
+    - sankalpa
+    - shiva
+    - upanishad
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 oM yenedaM bhUtam bhuvanaM bhaviShyatparigRuhiitamamRutea sarvam |
 yena yaJ~nastrayate saptahotaa tanme manaH shivasaNkalpamastu || 1

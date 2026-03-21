@@ -2,28 +2,28 @@
 id: manu-krutha-surya-stuti.en
 mantra_id: manu-krutha-surya-stuti
 language_code: en
-title: Surya Stuti (by Manu)
+title: "Surya Stuti (by Manu)"
 deity_theme:
   - surya
 purpose:
-  - devotion
+  - auspiciousness
 tradition: stuti
 tags:
   content_type:
     - stuti
-keywords:
-  - manu
-  - krutha
-  - surya
-  - stuti
+  keywords:
+    - krutha
+    - manu
+    - stuti
+    - surya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 manuRuvAcha |
     namo namo vareNaya varadAyA'aMshumAline |

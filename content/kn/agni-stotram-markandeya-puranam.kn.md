@@ -2,7 +2,7 @@
 id: agni-stotram-markandeya-puranam.kn
 mantra_id: agni-stotram-markandeya-puranam
 language_code: kn
-title: ಅಗ್ನಿ ಸ್ತೋತ್ರಂ
+title: "ಅಗ್ನಿ ಸ್ತೋತ್ರಂ"
 deity_theme:
   - universal
 purpose:
@@ -11,16 +11,15 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - agni
-  - stotram
-  - (markandeya
-  - puranam)
-  - ಅಗ್ನಿ ಸ್ತೋತ್ರಂ
-  - markandeya
-  - puranam
-source:
-  text: Public Domain
+  keywords:
+    - (markandeya
+    - agni
+    - markandeya
+    - puranam
+    - puranam)
+    - stotram
+    - ಅಗ್ನಿ ಸ್ತೋತ್ರಂ
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community

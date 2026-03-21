@@ -2,7 +2,7 @@
 id: narada-kruta-ganapati-stotram.en
 mantra_id: narada-kruta-ganapati-stotram
 language_code: en
-title: Sri Ganapati Stotram (By Narada)
+title: "Sri Ganapati Stotram (By Narada)"
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - narada
-  - kruta
-  - ganapati
-  - stotram
+  keywords:
+    - ganapati
+    - kruta
+    - narada
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 narada uvaca |
 bho ganeshas sureshtha lambodara paratpara |

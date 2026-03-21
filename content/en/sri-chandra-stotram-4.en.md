@@ -2,7 +2,7 @@
 id: sri-chandra-stotram-4.en
 mantra_id: sri-chandra-stotram-4
 language_code: en
-title: Sri Chandra Stotram 4
+title: "Sri Chandra Stotram 4"
 deity_theme:
   - navagraha
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - chandra
-  - stotram
-  - 4
+  keywords:
+    - 4
+    - chandra
+    - sri
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 Dhyana -

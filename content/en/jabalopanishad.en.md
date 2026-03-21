@@ -2,25 +2,26 @@
 id: jabalopanishad.en
 mantra_id: jabalopanishad
 language_code: en
-title: Jabala Upanishad
+title: "Jabala Upanishad"
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - stotra
-keywords:
-  - jabalopanishad
+  keywords:
+    - jabalopanishad
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 oM puurNamadaH puurNamidaM puurNaat-puurNamudachyate |
     puurNasya puurNaMaadaaya puurNamevaavaShiShyate

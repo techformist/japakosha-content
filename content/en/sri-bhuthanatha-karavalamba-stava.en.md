@@ -2,7 +2,7 @@
 id: sri-bhuthanatha-karavalamba-stava.en
 mantra_id: sri-bhuthanatha-karavalamba-stava
 language_code: en
-title: Sri Bhuthanatha Karavalamba Stava
+title: "Sri Bhuthanatha Karavalamba Stava"
 deity_theme:
   - ayyappa
 purpose:
@@ -11,19 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - bhuthanatha
-  - karavalamba
-  - stava
+  keywords:
+    - bhuthanatha
+    - karavalamba
+    - sri
+    - stava
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 oaNkaaruuPa shabariivarapiiThadiiipa
 ShriMgara raMga ramaNiiyakalaa kalaaap |

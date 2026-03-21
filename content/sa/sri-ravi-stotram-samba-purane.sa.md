@@ -1,8 +1,8 @@
 ---
-id: sri-ravi-stotram-samba-purane.sk
+id: sri-ravi-stotram-samba-purane.sa
 mantra_id: sri-ravi-stotram-samba-purane
-language_code: sk
-title: श्रीरविस्तोत्रम् (साम्बपुराणे)
+language_code: sa
+title: "श्रीरविस्तोत्रम् (साम्बपुराणे)"
 deity_theme:
   - surya
 purpose:
@@ -11,19 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - ravi
-  - stotram
-  - samba purane
-source:
-  text: Public Domain
+  keywords:
+    - ravi
+    - samba purane
+    - sri
+    - stotram
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 त्वं देव ऋषिकर्ता च प्रकृतिः पुरुषः प्रभुः |

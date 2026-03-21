@@ -6,24 +6,25 @@ title: ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
+  - meditation
 tradition: upanishadic
 tags:
   content_type:
     - upanishad
-keywords:
-  - shiva
-  - sankalpa
-  - upanishad
-  - ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
-source:
-  text: Public Domain
+  keywords:
+    - sankalpa
+    - shiva
+    - upanishad
+    - ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 ಓಂ ಯೇನೇದಂ ಭೂತಂ ಭುವನಂ ಭವಿಷ್ಯತ್ ಪರಿಗೃಹೀತಮೃತೇನ ಸರ್ವಮ್ ।
 ಯೇನ ಯಜ್ಞಸ್ತ್ರಾಯತೇ ಸಪ್ತಹೋತಾ ತನ್ಮೇ ಮನಃ ಶಿವಸಂಕಲ್ಪಮಸ್ತು ॥ ೧

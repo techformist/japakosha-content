@@ -1,8 +1,8 @@
 ---
-id: riddhi-stava.sk
+id: riddhi-stava.sa
 mantra_id: riddhi-stava
-language_code: sk
-title: ऋद्धि स्तवः
+language_code: sa
+title: "ऋद्धि स्तवः"
 deity_theme:
   - venkateshwara
 purpose:
@@ -11,17 +11,16 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - riddhi
-  - stava
-source:
-  text: Public Domain
+  keywords:
+    - riddhi
+    - stava
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 श्रीमन्वृषभशैलेश वर्धतां विजयी भवान् |
 दिव्यं त्वदीयमैश्वर्यं निर्मर्यादं विजृम्भताम् || १ ||

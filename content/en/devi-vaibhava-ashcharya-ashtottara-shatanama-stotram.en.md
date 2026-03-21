@@ -2,7 +2,7 @@
 id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.en
 mantra_id: devi-vaibhava-ashcharya-ashtottara-shatanama-stotram
 language_code: en
-title: Devi Vaibhava Ashcharya Ashtottara Shatanama Stotram
+title: "Devi Vaibhava Ashcharya Ashtottara Shatanama Stotram"
 deity_theme:
   - devi
 purpose:
@@ -11,140 +11,140 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-keywords:
-  - devi
-  - vaibhava
-  - ashcharya
-  - ashtottara
-  - shatanama
-  - stotram
+  keywords:
+    - ashcharya
+    - ashtottara
+    - devi
+    - shatanama
+    - stotram
+    - vaibhava
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
-asya shri devi-vaibhava-ashcharya-ashtottara-shatanaama stotra-mahaamantrasyaa aananda-bhairava rishiH, anuShTup chandaH, shri aananda-bhairavi shri-mahaatri-pura-sundarii devataa, aiM biijaM, hriiM shaktiH, shriiM kiilakaM, mama shri aananda-bhairavi shri-mahaatri-pura-sundarii prasaada-siddhyarthe jape viniyogaH
+asya śrī dēvī-vaibhava-aścārya-aṣṭōttara-śatanāma stōtra-mahāmantrasya ānanda-bhairava ṛṣiḥ, anuṣṭup chandaḥ, śrī ānanda-bhairavī śrī-mahātripurasundarī dēvatā, aiṃ bījaṃ, hrīṃ śaktiḥ, śrīṃ kīlakaṃ, mama śrī ānanda-bhairavī śrī-mahātripurasundarī prasāda-siddhyarthē japē viniyōgaḥ
 
 dhyaanam |
-    kunkuma-parkasamaabhaa-
-    -maMkusha-paashekShukoDaMdasharaam |
-    paMkaja-madhyaniShNaaM
-    paMkeruha-locanaaM paaraaM vande |
-    paMca-puuJaa |
-    laM pRuthivyaatmikaa-yai gandhaM samarpaayaami |
-    haM aakaashaatmikaa-yai puShpaiH puujaayaa mi |
-    yaM vaayvaatmikaa-yai dhuupa-maaghraapaayaami |
-    raM agnyaatmikaa-yai diipaM darshaayaami |
-    vaM amRRtaatmikaa-yai amRRtaM mahaanaivedyaM nivedayaami |
-    saM sarvaatmikaa-yai sarv-opachaaraan samarpaayaami |
-    oM aiM hriiM shriiM |
-    paramaaananda-laharii paracaitanya-diipikaa |
-    svayaM-prakaasha-kiraNaa nitya-vaibhava-shalinii || 1 ||
+    kuṃkuma-prakāśamābhā-
+    -maṃkuśa-pāśakṣukōḍaṃdaśarāṃ |
+    paṃkaja-madhyaniṣṇāṃ
+    paṃkēruha-lōcanāṃ pārāṃ vandē |
+    pañcapūjā |
+    laṃ pṛthivyātmikāyai gandhaṃ samarpayāmi |
+    haṃ ākāśātmikāyai puṣpaiḥ pūjāyāmi |
+    yaṃ vāyavātmikāyai dhūpāmāghrapāyāmi |
+    raṃ agnyātmikāyai dīpaṃ darśayāmi |
+    vaṃ amṛtātmikāyai amṛtaṃ mahānaivēdyam nivēdayāmi |
+    saṃ sarvātmikāyai sarvōpacārān samarpayāmi |
+    oṃ aiṃ hrīṃ śrīṃ |
+    paramānanda-laharī paracaitanyadīpikā |
+    svayaṃprakāśakiraṇā nityavaibhavaśalinī || 1 ||
 
-vishuddha-kevala-khaDa-satya-kaalaatma-ruPiNii |
-    aadi-madhya-antarahitaa mahaamaayaa-vilaasinii || 2 ||
+viśuddha-kēvala-khaḍa-satya-kālātmā-rūpiṇī |
+    ādi-madhya-antarāhitā mahāmāyā-vilāsinī || 2 ||
 
-guNa-traya-paricchhetroi sarva-tattva-prakaashinii |
-    strii-puMsa-bhaava-rasikaa jagat-sarga-aadi-laMpaTaa || 3 ||
+guṇatraya-paricchhētrō sarva-tattva-prakāśinī |
+    strī-puṃsabhāva-rasikā jagatsarga-ādi-lampatā || 3 ||
 
-asheSha-naama-ruupa-aadi-bheda-ccheda-ravi-prabhaa |
-    anaadi-vaasanaa-ruupaa vaasana-udyat-prapaMchikaa || 4 ||
+aśēṣa-nāma-rūpādi-bhēda-chēda-ravi-prabhā |
+    anādi-vāsanā-rūpā vāsanāudyat-prapañchikā || 4 ||
 
-prapaMca-upashama-prauDhaa caraa-cara-jagamayii |
-    samasta-jagadaadhaaraa sarvasaMjiivana-otsukaa || 5 ||
+prapañca-upaśamapraudhā carā-carajagamayī |
+    samasta-jagādhārā sarvasaṃjīvana-ōtsukā || 5 ||
 
-bhakta-ceto-mayaananta-svaartha-vaibhava-vibhramaa |
-    sarva-aakShaNa-vashyaadi-sarva-karma-dhuraM-dharaa || 6 ||
+bhakta-cētōmayānanta-svārtha-vaibhava-vibhramā |
+    sarvākṣaṇa-vaśyādi-sarva-karma-dhuraṃ-dharā || 6 ||
 
-vijyaana-paramaaananda-vidyaa saMtaana-siddhi-daa |
-    aayuraarogya-soubhagya-bala-shrii-kIrti-bhaagya-daa || 7 ||
+vijñāna-paramānanda-vidyā saṃtanā-siddhi-dā |
+    āyurārōgya-saubhāgya-bala-śrī-kīrti-bhāgya-dā || 7 ||
 
-dhana-dhaanya-maNi-vastra-bhUShaa-lepana-maalya-daa |
-    gRiha-graama-mahaaraajya-saamraajya-sukha-daayinii || 8 ||
+dhana-dhānya-maṇi-vastra-bhūṣā-lēpana-mālyā-dā |
+    gṛha-grāma-mahārājya-sāmrājya-sukha-dāyinī || 8 ||
 
-saptaaMga-shakti-sampuurNa-saarvabhauma-phala-pradaa |
-    brahma-viShNu-shiivendraadi-pada-vishrANa-nakShamaa || 9 ||
+saptāṅga-śakti-sampūrṇa-sārvabhauṃa-phala-pradā |
+    brahmaviṣṇu-śivēndrādi-padaviśraṇa-nakṣamā || 9 ||
 
-bhukti-mukti-mahaabhakti-viraktya-dvaita-daayinii |
-    nigraha-anugraha-adhyakShaa jyaana-nirdvaita-daayinii || 10 ||
+bhukti-mukti-mahābhakti-viraktēya-dvaita-dāyinī |
+    nigraha-anugraha-adhyakṣā jñāna-nirdvaita-dāyinī || 10 ||
 
-parakaaya-praveshaadi-yoga-siddhi-pradaayinii |
-    shiShTasaMjiivana-prauDhaa duShTasaMhaara-siddhi-daa || 11 ||
+parakāyapravēṣādi-yōga-siddhi-pradāyinī |
+    śiṣṭasaṃjīvana-praudhā duṣṭasaṃhāra-siddhi-dā || 11 ||
 
-liilaa-vinirmitaa-neeka-koTi-brahmaaNDa-maMDalaa |
-    ekaanaekaatmikaa naanaa-ruPiNii ardhaaMga-na-ishvarii || 12 ||
+līlā-vinirmitā-nēka-kōṭi-brahmāṇḍamaṇḍalā |
+    ēkānēkātmikā nānā-rūpiṇī ardhāṅganā-īśvarī || 12 ||
 
-shiiva-shakti-mayii nitya-shRRuMgAra-eka-rasa-priyaa |
-    tuShTaa puShTaa-aparicChinnaa nitya-yauvana-mohinii || 13 ||
+śiva-śakti-mayī nitya-śṛṅgāra-ēka-rasa-priyā |
+    tuṣṭā puṣṭā-aparicchinna nitya-yauvana-mōhinī || 13 ||
 
-samasta-devataa-ruupaa sarva-deva-adhidevataa |
-    deva-RRishi-pitRRi-siddhaadi-yoginii-bhairavaatmikaa || 14 ||
+samasta-dēvatā-rūpā sarvadēvādhidevatā |
+    dēva-ṛṣi-pitṛ-siddhādi-yōgiṇī-bhairavātmikā || 14 ||
 
-nidhi-siddhi-maNi-mudraa shaastra-astra-ayudha-bhaasuraa |
-    chhatraa-caamara-vaadii-tra-pataakaa-vyajanaaM-chitaa || 15 ||
+nidhi-siddhi-maṇi-mudrā śāstra-astra-āyudha-bhāsurā |
+    chatrā-cāmaravāditra-paṭakā-vyajanaṃ-chitā || 15 ||
 
-hastya-ashva-ratha-paadaataa-maatya-senaa-susevitaa |
-    purohita-kula-aachaarya-guru-shiShyaadi-sevitaa || 16 ||
+hastya-aśvaratha-pādātā-mātya-sēnā-suśēvitā |
+    pūrōhita-kula-āchārya-guru-śiṣyādi-sēvitā || 16 ||
 
-su-dhaa-samudra-madhya-udyat sura-druma-nivaasinii |
-    maNi-diipaantara-prodyat-kadamba-vana-nivaasinii || 17 ||
+su-dhā-samudra-madhyaudyat suradrumanivāsinī |
+    maṇi-dīpāntara-prōdyatkadamba-vanani vāsinī || 17 ||
 
-chiintaaMaNi-gRuhAntaH-sthaa maNi-maNTapa-madhyagaa |
-    ratna-siMhaasana-prodyac-chivamaMca-adhishaayinii || 18 ||
+cintāmaṇi-gṛhāntaḥ-sthā maṇi-maṇṭapa-madhyagā |
+    ratna-siṃhāsana-prōdyacchiavamaṃcādhīśāyinī || 18 ||
 
-sadaa-shiiva-maha-liMga-mUla-saMGaTTa-yonikaa |
-    anyonya-liMga-saMgharSha-kaDUU-saMkShubhamaanasaa || 19 ||
+sadā-śiva-maha-liṅga-mūla-saṅghaṭṭa-yōnikā |
+    anyōnya-liṅga-saṅgharṣa-kadū-saṃkṣubhamānasā || 19 ||
 
-kaLodyad-bindu-kaaLinya-atyanaada-paramaparaa |
-    naadaa-antaa-nanda-sandoha-svayaM-vyakta-vaco.amRitaa || 20 ||
+kalōdyad-bindu-kālinya-atyānāda-paramaparā |
+    nādāntā-nanda-sandōha-svayaṃ-vyakta-vacō.āmṛtā || 20 ||
 
-kaama-raaja-mahaatantra-rahasya-aachaara-daakShiNaa |
-    makaara-paMcakodbhUta-prauDhaaM-tollaaasa-sundarii || 21 ||
+kāmarāja-mahātantra-rahasya-ācāra-dākṣiṇā |
+    makāra-paṃcakōdbhūta-praudhāṃ-tōllāsā-sundarī || 21 ||
 
-shrii-cakra-raja-nilayaa shrii-vidyaa-mantra-vigrahaa |
-    akhaDa-sac-cidaananda-shiiva-shakti-aikya-ruPiNii || 22 ||
+śrī-cakra-rāja-nilayā śrī-vidyā-mantra-vigrahā |
+    akhaḍa-sat-cidānanda-śiva-śakti-aikya-rūpiṇī || 22 ||
 
-tripuraa tripureShanii mahaatri-pura-sundarii |
-    tripuraavasa-rasikaa tripura-shrii-svaruuPinii || 23 ||
+tripurā tripurēṣanī mahātripurasundarī |
+    tripurāvasa-rasikā tripura-śrī-svarūpiṇī || 23 ||
 
-mahaapadma-vanaaM-sthaa shriimat-tripura-maalinii |
-    mahaatripura-siddhaaMbaa shrii-mahaatripura-aaM-bikaa || 24 ||
+mahāpadma-vanāṃ-sthā śrīmat-tripura-mālinī |
+    mahātripura-siddhāmbā śrī-mahātripurā-āmbikā || 24 ||
 
-nava-cakra-kramaadevii mahaatripura-bhairavii |
-    shrii-maataa lalitaa baalaa raajaraajeshvarii shivaa || 25 ||
+nava-cakra-kramādēvī mahātripura-bhairavī |
+    śrī-mātā lalitā bālā rājarājēśvarī śivā || 25 ||
 
-utpatti-sthiti-saMhaara-krama-cakra-nivaasinii |
-    ardha-meruuaatma-cakra-sthaa sarvaloka-maheshvarii || 26 ||
+utpatti-sthiti-saṃhāra-krama-cakra-nivāsinī |
+    ardhameru-vātmā-cakra-sthā sarvalōka-mahēśvarī || 26 ||
 
-valmiika-pura-madhyasthaa jaMbUvana-nivaasinii |
-    aruNaachala-shRRuMga-sthaa vyaaghraaalaya-nivaasinii || 27 ||
+valmīka-pura-madhyasthā jāmbūvana-nivāsinī |
+    aruṇācala-śṛṅga-sthā vyāghrālaya-nivāsinī || 27 ||
 
-shrii-kaalahasti-nilayaa kaashii-pura-nivaasinii |
-    shriimat-kailaasa-nilayaa dvaadaashaanta-maheshvarii || 28 ||
+śrī-kālahasti-nilayā kāśī-pura-nivāsinī |
+    śrīmat-kailāsa-nilayā dvādaśānta-mahēśvarī || 28 ||
 
-shrii-ShoDaashaanta-madhyasthaa sarva-vedaaMta-lakShitaa |
-    shruti-smRRiti-puraaNa-itihaasa-aagama-kale-eshvarii || 29 ||
+śrī-ṣōḍaśānta-madhyasthā sarva-vēdānta-lakṣitā |
+    śruti-smṛti-purāṇa-itihāsa-āgama-kalēśvarī || 29 ||
 
-bhUta-bhautika-tanmaatraa-devataa-praaNa-hRumayii |
-    jiIveshvara-brahma-ruupaa shrii-guNaadhyaa guNaatmikaa || 30 ||
+bhūta-bhautika-tanmātrā-dēvatā-prāṇa-hṛdayī |
+    jīvēśvara-brahma-rūpā śrī-guṇādhyā guṇātmikā || 30 ||
 
-avasthaa-traya-nirmuktaa vaag-ramo-ma-mahiimayii |
-    gaayatrii-bhuvana-eshanii durgaa-kaalyaadi-ruPiNii || 31 ||
+avasthā-traya-nirmuktā vāg-ramōmamahimayī |
+    gāyatī-bhuvanēśanī durgā-kālyādi-rūpiṇī || 31 ||
 
-matsya-kuurma-varaahaadi-naanaa-ruupa-vilaasinii |
-    mahaa-yogiishvara-aaradhayaa mahaviira-vara-pradaa || 32 ||
+matsya-kūrma-varāhādi-nānā-rūpa-vilāsinī |
+    mahā-yōgīśvara-ārādhyāya mahāvīra-vara-pradā || 32 ||
 
-siddheshvara-kula-aaradhayaa shriimac-caraNa-vaibhavaa || 33 ||
+siddhēśvara-kula-ārādhyāya śrīmac-caraṇa-vaibhavā || 33 ||
 
-punaR dhyaanam –
-kunkuma-parkasamaabhaa-
-    -maMkusha-paashekShukoDaMdasharaam |
-    paMkaja-madhyaniShNaaM
-paMkeruha-locanaaM paaraaM vande |
+punaḥ dhyānam –
+kuṃkuma-prakāśamābhā-
+    -maṃkuśa-pāśakṣukōḍaṃdaśarāṃ |
+    paṃkaja-madhyaniṣṇāṃ
+paṃkēruha-lōcanāṃ pārāṃ vandē |
 
 ## English Translation
 

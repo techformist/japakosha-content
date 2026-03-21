@@ -2,7 +2,7 @@
 id: sri-suryarya-stotram-yajnavalkya-krutham.en
 mantra_id: sri-suryarya-stotram-yajnavalkya-krutham
 language_code: en
-title: Sri Suryarya Stotram (Yajnavalkya Krutham)
+title: "Sri Suryarya Stotram (Yajnavalkya Krutham)"
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - suryarya
-  - stotram
-  - yajnavalkya
-  - krutham
+  keywords:
+    - krutham
+    - sri
+    - stotram
+    - suryarya
+    - yajnavalkya
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 shukatundachchavisavitashchandarucesh pundarikavanabandhoah
 mandalamuditam vande kundalamakhandalashayah || 1 ||

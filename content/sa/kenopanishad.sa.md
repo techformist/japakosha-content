@@ -1,26 +1,26 @@
 ---
-id: kenopanishad.sk
+id: kenopanishad.sa
 mantra_id: kenopanishad
-language_code: sk
+language_code: sa
 title: केनोपनिषत्
 deity_theme:
   - universal
 purpose:
-  - devotion
+  - liberation
+  - wisdom
 tradition: upanishadic
 tags:
   content_type:
     - stotra
-keywords:
-  - kenopanishad
-source:
-  text: Public Domain
+  keywords:
+    - kenopanishad
+  text: "Public Domain"
   citation: null
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 || शान्ति पाठः ||
 
@@ -49,7 +49,7 @@ updated_at: '2026-02-15T07:06:28.137Z'
 यन्मनसा न मनुते येनाहुर्मनो मतम् |
     तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते || ५ ||
 
-यच्चक्षुषा न पश्यति येन चक्षूर्गंषि पश्यति |
+यच्चक्षुषा न पश्यति येन चक्षुर्गच्छसि पश्यति |
     तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते || ६ ||
 
 यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदगं श्रुतम् |

@@ -1,31 +1,30 @@
 ---
-id: rama-suprabhata.sk
+id: rama-suprabhata.sa
 mantra_id: rama-suprabhata
-language_code: sk
+language_code: sa
 title: श्रीरामसुप्रभातम्
 deity_theme:
   - rama
   - vishnu
 purpose:
+  - auspiciousness
   - devotion
-  - morning_prayer
 tradition: suprabhata
 tags:
   content_type:
     - suprabhata
   keywords:
     - rama
-    - suprabhata
-    - pratah
+  occasion:
     - morning
 source:
-  text: Attributed to Appayya Dikshitar / Sri Vaishnava tradition
-  citation: Traditional Suprabhata literature
+  text: "Attributed to Appayya Dikshitar / Sri Vaishnava tradition"
+  citation: "Traditional Suprabhata literature"
   license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+created_at: "2026-03-20T00:00:00.000Z"
+updated_at: "2026-03-20T00:00:00.000Z"
 ---
 ॥ श्रीरामाय नमः ॥
 
@@ -35,7 +34,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 श्रीराम! सुप्रभातम् ॥ १॥
 
 अङ्गुष्ठत्राणविधाय धनुः शरशङ्कयोः
-सुन्दरस्तनितशरीरसज्जನचित्तहरैः!
+सुन्दरस्तनितशरीरसज्जनचित्तहरैः!
 शत्रुघ्नस्य भ्रातुः स्वरकारितशङ्खनादे
 श्रीराम! सुप्रभातम् ॥ २॥
 
@@ -76,7 +75,7 @@ updated_at: '2026-03-20T00:00:00.000Z'
 
 समुद्र! लङ्का! रविः शशी! धरणी! खगोत्तम!
 कपिशैल! कपिश्रेष्ठ! दधिमुख! वानर!
-हनूमन्तेति वदತो ननु कर्णविनोदः
+हनूमन्तेति वदतो ननु कर्णविनोदः
 श्रीराम! सुप्रभातम् ॥ १०॥
 
 अनुदिनं तव पादयोः पादाम्बुजयोग्या

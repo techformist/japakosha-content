@@ -2,7 +2,7 @@
 id: sri-matangi-stotram-3.en
 mantra_id: sri-matangi-stotram-3
 language_code: en
-title: Sri Matangi Stotram 3
+title: "Sri Matangi Stotram 3"
 deity_theme:
   - devi
 purpose:
@@ -11,19 +11,19 @@ tradition: tantric
 tags:
   content_type:
     - stotra
-keywords:
-  - sri
-  - matangi
-  - stotram
-  - 3
+  keywords:
+    - 3
+    - matangi
+    - sri
+    - stotram
 source:
-  text: Public Domain
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 
 namAmi varadAM devIM suMukhIM sarvasiddhidAm |

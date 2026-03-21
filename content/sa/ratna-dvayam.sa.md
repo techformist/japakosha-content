@@ -1,7 +1,7 @@
 ---
-id: ratna-dvayam.sk
+id: ratna-dvayam.sa
 mantra_id: ratna-dvayam
-language_code: sk
+language_code: sa
 title: रत्नद्वयम्
 deity_theme:
   - universal
@@ -11,17 +11,16 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-keywords:
-  - ratna
-  - dvayam
-source:
-  text: Public Domain
+  keywords:
+    - dvayam
+    - ratna
+  text: "Public Domain"
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+created_at: "2026-02-15T07:06:28.137Z"
+updated_at: "2026-02-15T07:06:28.137Z"
 ---
 न मेऽस्ति देहेन्द्रियबुद्धियोगो
 न पुण्यलेशोऽपि न पापलेशाः |
