@@ -3,50 +3,52 @@
  * Generates publishable JSON artifacts from content markdown on main.
  * Usage: node scripts/generate-artifacts.mjs
  */
-import { execSync } from 'child_process';
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'fs';
-import { resolve } from 'path';
-import { globSync } from 'glob';
-import { createRequire } from 'module';
+import { execSync } from "child_process";
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "fs";
+import { resolve } from "path";
+import { globSync } from "glob";
+import { createRequire } from "module";
 
 const require = createRequire(import.meta.url);
-const matter = require('gray-matter');
+const matter = require("gray-matter");
 
-const ROOT = resolve(import.meta.dirname, '..');
-const DIST_DIR = resolve(ROOT, 'dist');
-const LATEST_DIR = resolve(DIST_DIR, 'latest');
-const MANTRAS_DIR = resolve(LATEST_DIR, 'mantras');
-const METADATA = JSON.parse(readFileSync(resolve(ROOT, 'metadata.json'), 'utf-8'));
+const ROOT = resolve(import.meta.dirname, "..");
+const DIST_DIR = resolve(ROOT, "dist");
+const LATEST_DIR = resolve(DIST_DIR, "latest");
+const MANTRAS_DIR = resolve(LATEST_DIR, "mantras");
+const METADATA = JSON.parse(
+  readFileSync(resolve(ROOT, "metadata.json"), "utf-8"),
+);
 
 const LICENSE_LABELS = {
-  'public-domain': 'Public Domain',
-  'cc-by-4.0': 'CC BY 4.0',
-  'cc-by-sa-4.0': 'CC BY-SA 4.0',
+  "public-domain": "Public Domain",
+  "cc-by-4.0": "CC BY 4.0",
+  "cc-by-sa-4.0": "CC BY-SA 4.0",
 };
 
 const SCRIPT_DISPLAY_NAMES = {
-  Beng: 'Bengali',
-  Deva: 'Devanagari',
-  Gujr: 'Gujarati',
-  Guru: 'Gurmukhi',
-  Knda: 'Kannada',
-  Latn: 'Latin',
-  Mlym: 'Malayalam',
-  Orya: 'Odia',
-  Taml: 'Tamil',
-  Telu: 'Telugu',
+  Beng: "Bengali",
+  Deva: "Devanagari",
+  Gujr: "Gujarati",
+  Guru: "Gurmukhi",
+  Knda: "Kannada",
+  Latn: "Latin",
+  Mlym: "Malayalam",
+  Orya: "Odia",
+  Taml: "Tamil",
+  Telu: "Telugu",
 };
 
 function titleCase(value) {
   return String(value)
-    .split('-')
+    .split("-")
     .filter(Boolean)
-    .map(part => part.charAt(0).toUpperCase() + part.slice(1))
-    .join(' ');
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
 }
 
 function stableCompare(a, b) {
-  return String(a).localeCompare(String(b), 'en');
+  return String(a).localeCompare(String(b), "en");
 }
 
 function orderCompare(a, b) {
@@ -68,13 +70,13 @@ function getGitSha() {
   }
 
   try {
-    return execSync('git rev-parse HEAD', {
+    return execSync("git rev-parse HEAD", {
       cwd: ROOT,
-      encoding: 'utf-8',
-      stdio: ['ignore', 'pipe', 'ignore'],
+      encoding: "utf-8",
+      stdio: ["ignore", "pipe", "ignore"],
     }).trim();
   } catch {
-    return 'unknown';
+    return "unknown";
   }
 }
 
@@ -87,37 +89,42 @@ function buildCategories() {
 
   for (const deity of METADATA.deity_themes || []) {
     categories.push({
-      id: toCategoryId('deity', deity.id),
+      id: toCategoryId("deity", deity.id),
       name: deity.name,
-      type: 'deity',
+      type: "deity",
       ...(deity.description ? { description: deity.description } : {}),
-      ...(deity.display_order !== undefined ? { order: deity.display_order } : {}),
+      ...(deity.display_order !== undefined
+        ? { order: deity.display_order }
+        : {}),
     });
   }
 
   for (const [index, purpose] of (METADATA.purposes || []).entries()) {
     categories.push({
-      id: toCategoryId('purpose', purpose),
+      id: toCategoryId("purpose", purpose),
       name: titleCase(purpose),
-      type: 'purpose',
+      type: "purpose",
       order: index + 1,
     });
   }
 
   for (const [index, tradition] of (METADATA.traditions || []).entries()) {
     categories.push({
-      id: toCategoryId('tradition', tradition),
+      id: toCategoryId("tradition", tradition),
       name: titleCase(tradition),
-      type: 'tradition',
+      type: "tradition",
       order: index + 1,
     });
   }
 
-  for (const [index, contentType] of ((METADATA.tags && METADATA.tags.content_type) || []).entries()) {
+  for (const [index, contentType] of (
+    (METADATA.tags && METADATA.tags.content_type) ||
+    []
+  ).entries()) {
     categories.push({
-      id: toCategoryId('type', contentType),
+      id: toCategoryId("type", contentType),
       name: titleCase(contentType),
-      type: 'type',
+      type: "type",
       order: index + 1,
     });
   }
@@ -128,25 +135,48 @@ function buildCategories() {
 function resolveScript(languageCode) {
   const scriptCode = METADATA.languages?.[languageCode]?.script;
   if (!scriptCode) {
-    return 'Unknown';
+    return "Unknown";
   }
   return SCRIPT_DISPLAY_NAMES[scriptCode] || scriptCode;
 }
 
 function buildCategoryIds(data) {
   const categoryIds = [
-    ...(Array.isArray(data.deity_theme) ? data.deity_theme.map(value => toCategoryId('deity', value)) : []),
-    ...(Array.isArray(data.purpose) ? data.purpose.map(value => toCategoryId('purpose', value)) : []),
-    ...(data.tradition ? [toCategoryId('tradition', data.tradition)] : []),
-    ...(Array.isArray(data.tags?.content_type) ? data.tags.content_type.map(value => toCategoryId('type', value)) : []),
+    ...(Array.isArray(data.deity_theme)
+      ? data.deity_theme.map((value) => toCategoryId("deity", value))
+      : []),
+    ...(Array.isArray(data.purpose)
+      ? data.purpose.map((value) => toCategoryId("purpose", value))
+      : []),
+    ...(data.tradition ? [toCategoryId("tradition", data.tradition)] : []),
+    ...(Array.isArray(data.tags?.content_type)
+      ? data.tags.content_type.map((value) => toCategoryId("type", value))
+      : []),
   ];
 
   return uniqueSorted(categoryIds);
 }
 
+function buildTags(data) {
+  const tags = {};
+
+  for (const [tagGroup, rawValues] of Object.entries(data.tags || {})) {
+    if (!Array.isArray(rawValues)) {
+      continue;
+    }
+
+    const values = uniqueSorted(rawValues.filter(Boolean));
+    if (values.length > 0) {
+      tags[tagGroup] = values;
+    }
+  }
+
+  return Object.keys(tags).length > 0 ? tags : undefined;
+}
+
 function parseContentFile(relPath) {
   const absPath = resolve(ROOT, relPath);
-  const raw = readFileSync(absPath, 'utf-8');
+  const raw = readFileSync(absPath, "utf-8");
   const parsed = matter(raw);
   const data = parsed.data || {};
 
@@ -159,7 +189,7 @@ function parseContentFile(relPath) {
   }
 
   return {
-    relPath: relPath.replace(/\\/g, '/'),
+    relPath: relPath.replace(/\\/g, "/"),
     data,
     body: parsed.content.trim(),
   };
@@ -187,10 +217,12 @@ function buildMantraArtifact(mantraId, entries) {
   }
 
   const primary = entries[0].data;
+  const tags = buildTags(primary);
   const artifact = {
     canonical_id: mantraId,
     slug: mantraId,
     category_ids: buildCategoryIds(primary),
+    ...(tags ? { tags } : {}),
     localizations: entries
       .slice()
       .sort((a, b) => stableCompare(a.data.language_code, b.data.language_code))
@@ -207,7 +239,7 @@ function buildMantraArtifact(mantraId, entries) {
 }
 
 function writeJson(filePath, value) {
-  writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf-8');
+  writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, "utf-8");
 }
 
 function writeRootIndex() {
@@ -231,11 +263,11 @@ function writeRootIndex() {
 </html>
 `;
 
-  writeFileSync(resolve(DIST_DIR, 'index.html'), html, 'utf-8');
+  writeFileSync(resolve(DIST_DIR, "index.html"), html, "utf-8");
 }
 
-const mdFiles = globSync('content/**/*.md', { cwd: ROOT })
-  .map(file => file.replace(/\\/g, '/'))
+const mdFiles = globSync("content/**/*.md", { cwd: ROOT })
+  .map((file) => file.replace(/\\/g, "/"))
   .sort(stableCompare);
 
 const parsedFiles = mdFiles.map(parseContentFile);
@@ -268,12 +300,14 @@ for (const canonicalId of canonicalIds) {
   manifestEntries.push({
     canonical_id: artifact.canonical_id,
     slug: artifact.slug,
-    languages: artifact.localizations.map(localization => localization.language_code),
+    languages: artifact.localizations.map(
+      (localization) => localization.language_code,
+    ),
     path: `/latest/mantras/${artifact.canonical_id}.json`,
   });
 }
 
-writeJson(resolve(LATEST_DIR, 'categories.json'), categories);
+writeJson(resolve(LATEST_DIR, "categories.json"), categories);
 writeRootIndex();
 
 const manifest = {
@@ -281,22 +315,26 @@ const manifest = {
   generatedAt: new Date().toISOString(),
   mantraCount: manifestEntries.length,
   languageCount: languageCodes.size,
-  categoriesPath: '/latest/categories.json',
-  mantrasBasePath: '/latest/mantras',
+  categoriesPath: "/latest/categories.json",
+  mantrasBasePath: "/latest/mantras",
   mantras: manifestEntries,
 };
 
-writeJson(resolve(LATEST_DIR, 'manifest.json'), manifest);
-writeFileSync(resolve(DIST_DIR, '.nojekyll'), '', 'utf-8');
+writeJson(resolve(LATEST_DIR, "manifest.json"), manifest);
+writeFileSync(resolve(DIST_DIR, ".nojekyll"), "", "utf-8");
 
 if (
-  !existsSync(resolve(DIST_DIR, 'index.html')) ||
-  !existsSync(resolve(LATEST_DIR, 'manifest.json')) ||
-  !existsSync(resolve(LATEST_DIR, 'categories.json'))
+  !existsSync(resolve(DIST_DIR, "index.html")) ||
+  !existsSync(resolve(LATEST_DIR, "manifest.json")) ||
+  !existsSync(resolve(LATEST_DIR, "categories.json"))
 ) {
-  throw new Error('Artifact generation did not produce the required output files.');
+  throw new Error(
+    "Artifact generation did not produce the required output files.",
+  );
 }
 
-console.log(`Generated ${manifest.mantraCount} mantra artifact(s) in dist/latest/.`);
+console.log(
+  `Generated ${manifest.mantraCount} mantra artifact(s) in dist/latest/.`,
+);
 console.log(`Languages represented: ${manifest.languageCount}`);
 console.log(`Categories generated: ${categories.length}`);

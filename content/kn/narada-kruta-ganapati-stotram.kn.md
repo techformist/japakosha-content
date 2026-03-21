@@ -11,6 +11,10 @@ tradition: stotra
 tags:
   content_type:
     - stotra
+  ritual:
+    - festival
+  occasion:
+    - ganesh-chaturthi
 keywords:
   - ganapati
   - kruta
@@ -24,7 +28,7 @@ license: public-domain
 quality_level: community
 phonetic: null
 created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-21T00:00:00.000Z'
 ---
 ನಾರದ ಉವಾಚ |  
     ಭೋ ಗಣೇಶ ಸುರಶ್ರೇಷ್ಠ ಲಂಬೋದರ ಪರಾತ್ಪರ |  

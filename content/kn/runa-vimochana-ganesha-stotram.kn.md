@@ -11,6 +11,10 @@ tradition: stotra
 tags:
   content_type:
     - stotra
+  ritual:
+    - festival
+  occasion:
+    - ganesh-chaturthi
 keywords:
   - ganapati
   - ganesha
@@ -25,7 +29,7 @@ license: public-domain
 quality_level: community
 phonetic: null
 created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-21T00:00:00.000Z'
 ---
 ಸ್ಮರಾಮಿ ದೇವದೇವೇಶಂ ವಕ್ರತುಂಡಂ ಮಹಾಬಲಮ್ |  
     ಷಡಕ್ಷರಂ ಕೃಪಾಸಿಂಧುಂ ನಮಾಮಿ ಋಣಮುಕ್ತಯೇ || ೧ ||

@@ -11,6 +11,10 @@ tradition: stotra
 tags:
   content_type:
     - stuti
+  ritual:
+    - festival
+  occasion:
+    - ganesh-chaturthi
 keywords:
   - bhujanga
   - ganesha
@@ -24,7 +28,7 @@ license: public-domain
 quality_level: community
 phonetic: null
 created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-21T00:00:00.000Z'
 ---
 ಶ್ರಿಯಃ ಕಾರ್ಯಸಿದ್ಧೇರ್ಧಿಯಃ ಸತ್ಸುಖರ್ಧೇಃ  
 ಪತಿಂ ಸಜ್ಜನಾನಾಂ ಗತಿಂ ದೇವತಾನಾಮ್ |  

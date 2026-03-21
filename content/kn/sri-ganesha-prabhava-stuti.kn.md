@@ -11,6 +11,10 @@ tradition: stotra
 tags:
   content_type:
     - stuti
+  ritual:
+    - festival
+  occasion:
+    - ganesh-chaturthi
 keywords:
   - ganesha
   - mantra
@@ -25,7 +29,7 @@ license: public-domain
 quality_level: community
 phonetic: null
 created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-21T00:00:00.000Z'
 ---
 ಓಮಿತ್ಯಾದೌ ವೇದವಿದೋ ಯಂ ಪ್ರವದಂತಿ  
 ಬ್ರಹ್ಮಾದ್ಯಾ ಯಂ ಲೋಕವಿಧಾನೇ ಪ್ರಣಮಂತಿ |  

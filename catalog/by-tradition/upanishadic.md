@@ -5,153 +5,183 @@
 
 ---
 
-## ಸೂರ್ಯೋಪನಿಷತ್
-**mantra_id:** `surya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## सूर्योपनिषत्
+**mantra_id:** `surya-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Surya Upanishad](../content/en/surya-upanishad.en.md)
 - [Kannada — ಸೂರ್ಯೋಪನಿಷತ್](../content/kn/surya-upanishad.kn.md)
+- [Sanskrit — सूर्योपनिषत्](../content/sa/surya-upanishad.sa.md)
 
-**Keywords:** surya, upanishad, ಸೂರ್ಯೋಪನಿಷತ್
+**Keywords:** surya
 
 ---
 
-## ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
-**mantra_id:** `shiva-sankalpa-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## शिवसंकल्पोपनिषत्
+**mantra_id:** `shiva-sankalpa-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom, meditation · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Shiva Sankalpa Upanishad](../content/en/shiva-sankalpa-upanishad.en.md)
 - [Kannada — ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್](../content/kn/shiva-sankalpa-upanishad.kn.md)
+- [Sanskrit — शिवसंकल्पोपनिषत्](../content/sa/shiva-sankalpa-upanishad.sa.md)
 
-**Keywords:** shiva, sankalpa, upanishad, ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್
+**Keywords:** sankalpa, shiva, upanishad
 
 ---
 
-## ರುದ್ರೋಪನಿಷತ್
-**mantra_id:** `rudropanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## रुद्रोपनिषत्
+**mantra_id:** `rudropanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Rudropanishad](../content/en/rudropanishad.en.md)
 - [Kannada — ರುದ್ರೋಪನಿಷತ್](../content/kn/rudropanishad.kn.md)
+- [Sanskrit — रुद्रोपनिषत्](../content/sa/rudropanishad.sa.md)
 
-**Keywords:** rudropanishad, ರುದ್ರೋಪನಿಷತ್
-
----
-
-## ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್
-**mantra_id:** `raja-shyamala-rahasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
-
-Available in:
-- [Kannada — ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್](../content/kn/raja-shyamala-rahasya-upanishad.kn.md)
-
-**Keywords:** raja, shyamala, rahasya, upanishad, ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್
+**Keywords:** rudropanishad
 
 ---
 
-## ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್
-**mantra_id:** `pancha-brahma-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## राजश्यामलारहस्योपनिषत्
+**mantra_id:** `raja-shyamala-rahasya-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Raja Shyamala Rahasya Upanishad](../content/en/raja-shyamala-rahasya-upanishad.en.md)
+- [Kannada — ರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷತ್](../content/kn/raja-shyamala-rahasya-upanishad.kn.md)
+- [Sanskrit — राजश्यामलारहस्योपनिषत्](../content/sa/raja-shyamala-rahasya-upanishad.sa.md)
+
+**Keywords:** rahasya, raja, shyamala, upanishad
+
+---
+
+## पञ्चब्रह्मोपनिषत्
+**mantra_id:** `pancha-brahma-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
+
+Available in:
+- [English — Pancha Brahma Upanishad](../content/en/pancha-brahma-upanishad.en.md)
 - [Kannada — ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್](../content/kn/pancha-brahma-upanishad.kn.md)
+- [Sanskrit — पञ्चब्रह्मोपनिषत्](../content/sa/pancha-brahma-upanishad.sa.md)
 
-**Keywords:** pancha, brahma, upanishad, ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್
+**Keywords:** brahma, pancha, upanishad
 
 ---
 
-## ಲಿಂಗೋಪನಿಷತ್
-**mantra_id:** `lingopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## लिङ्गोपनिषत्
+**mantra_id:** `lingopanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Lingopanishad](../content/en/lingopanishad.en.md)
 - [Kannada — ಲಿಂಗೋಪನಿಷತ್](../content/kn/lingopanishad.kn.md)
+- [Sanskrit — लिङ्गोपनिषत्](../content/sa/lingopanishad.sa.md)
 
-**Keywords:** lingopanishad, ಲಿಂಗೋಪನಿಷತ್
+**Keywords:** lingopanishad
 
 ---
 
-## ಕೇನೋಪನಿಷತ್
-**mantra_id:** `kenopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## केनोपनिषत्
+**mantra_id:** `kenopanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Kena Upanishad](../content/en/kenopanishad.en.md)
 - [Kannada — ಕೇನೋಪನಿಷತ್](../content/kn/kenopanishad.kn.md)
+- [Sanskrit — केनोपनिषत्](../content/sa/kenopanishad.sa.md)
 
-**Keywords:** kenopanishad, ಕೇನೋಪನಿಷತ್
+**Keywords:** kenopanishad
 
 ---
 
-## ಕಠೋಪನಿಷತ್
-**mantra_id:** `kathopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## कठोपनिषत्
+**mantra_id:** `kathopanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Katha Upanishad](../content/en/kathopanishad.en.md)
 - [Kannada — ಕಠೋಪನಿಷತ್](../content/kn/kathopanishad.kn.md)
+- [Sanskrit — कठोपनिषत्](../content/sa/kathopanishad.sa.md)
 
-**Keywords:** katopanishad, ಕಠೋಪನಿಷತ್, kathopanishad
+**Keywords:** kathopanishad, katopanishad
 
 ---
 
-## ಕೈವಲ್ಯೋಪನಿಷತ್
-**mantra_id:** `kaivalya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## कैवल्योपनिषत्
+**mantra_id:** `kaivalya-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Kaivalya Upanishad](../content/en/kaivalya-upanishad.en.md)
 - [Kannada — ಕೈವಲ್ಯೋಪನಿಷತ್](../content/kn/kaivalya-upanishad.kn.md)
+- [Sanskrit — कैवल्योपनिषत्](../content/sa/kaivalya-upanishad.sa.md)
 
-**Keywords:** kaivalya, upanishad, ಕೈವಲ್ಯೋಪನಿಷತ್
+**Keywords:** kaivalya, upanishad
 
 ---
 
-## ಜಾಬಾಲೋಪನಿಷತ್
-**mantra_id:** `jabalopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## जाबालोपनिषद्
+**mantra_id:** `jabalopanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Jabala Upanishad](../content/en/jabalopanishad.en.md)
 - [Kannada — ಜಾಬಾಲೋಪನಿಷತ್](../content/kn/jabalopanishad.kn.md)
+- [Sanskrit — जाबालोपनिषद्](../content/sa/jabalopanishad.sa.md)
 
-**Keywords:** jabalopanishad, ಜಾಬಾಲೋಪನಿಷತ್
+**Keywords:** jabalopanishad
 
 ---
 
-## ಈಶಾವಾಸ್ಯೋಪನಿಷತ್
-**mantra_id:** `ishavasya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## ईशावास्योपनिषद्
+**mantra_id:** `ishavasya-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Ishavasya Upanishad](../content/en/ishavasya-upanishad.en.md)
 - [Kannada — ಈಶಾವಾಸ್ಯೋಪನಿಷತ್](../content/kn/ishavasya-upanishad.kn.md)
+- [Sanskrit — ईशावास्योपनिषद्](../content/sa/ishavasya-upanishad.sa.md)
 
-**Keywords:** ishavasya, upanishad, ಈಶಾವಾಸ್ಯೋಪನಿಷತ್
+**Keywords:** ishavasya, upanishad
 
 ---
 
-## ಬಿಲ್ವೋಪನಿಷತ್
-**mantra_id:** `bilva-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## बिल्वोपनिषत्
+**mantra_id:** `bilva-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Bilva Upanishad](../content/en/bilva-upanishad.en.md)
 - [Kannada — ಬಿಲ್ವೋಪನಿಷತ್](../content/kn/bilva-upanishad.kn.md)
+- [Sanskrit — बिल्वोपनिषत्](../content/sa/bilva-upanishad.sa.md)
 
-**Keywords:** bilva, upanishad, ಬಿಲ್ವೋಪನಿಷತ್
+**Keywords:** bilva, upanishad, बिल्वोपनिषत्
 
 ---
 
-## ಭಾವನೋಪನಿಷತ್
+## भावनोपनिषत्
 **mantra_id:** `bhavanopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Bhavanopanishad](../content/en/bhavanopanishad.en.md)
 - [Kannada — ಭಾವನೋಪನಿಷತ್](../content/kn/bhavanopanishad.kn.md)
+- [Sanskrit — भावनोपनिषत्](../content/sa/bhavanopanishad.sa.md)
 
-**Keywords:** bhavanopanishad, ಭಾವನೋಪನಿಷತ್
+**Keywords:** bhavanopanishad, भावनोपनिषत्
 
 ---
 
-## ಶ್ರೀ ಬಾಲೋಪನಿಷತ್
-**mantra_id:** `balopanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## बालोपनिषत्
+**mantra_id:** `balopanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Bala Upanishad](../content/en/balopanishad.en.md)
 - [Kannada — ಶ್ರೀ ಬಾಲೋಪನಿಷತ್](../content/kn/balopanishad.kn.md)
+- [Sanskrit — बालोपनिषत्](../content/sa/balopanishad.sa.md)
 
-**Keywords:** balopanishad, ಶ್ರೀ ಬಾಲೋಪನಿಷತ್
+**Keywords:** balopanishad, बालोपनिषत्
 
 ---
 
-## ಐತರೇಯೋಪನಿಷತ್
-**mantra_id:** `aitareya-upanishad` · **Deity:** universal · **Purpose:** devotion · **Tradition:** upanishadic · **Source:** Public Domain
+## ऐतरेयोपनिषत्
+**mantra_id:** `aitareya-upanishad` · **Deity:** universal · **Purpose:** liberation, wisdom · **Tradition:** upanishadic · **Source:** Public Domain
 
 Available in:
+- [English — Aitareya Upanishad](../content/en/aitareya-upanishad.en.md)
 - [Kannada — ಐತರೇಯೋಪನಿಷತ್](../content/kn/aitareya-upanishad.kn.md)
+- [Sanskrit — ऐतरेयोपनिषत्](../content/sa/aitareya-upanishad.sa.md)
 
-**Keywords:** aitareya, upanishad, ಐತರೇಯೋಪನಿಷತ್
+**Keywords:** aitareya, upanishad, ऐतरेयोपनिषत्
 
 ---
 

@@ -5,13 +5,15 @@
 
 ---
 
-## ಷಡಾನನಾಷ್ಟಕಂ
+## षडाननाष्टकम्
 **mantra_id:** `shadanana-ashtakam` · **Deity:** subrahmanya · **Purpose:** devotion · **Tradition:** stotra · **Source:** Public Domain
 
 Available in:
+- [English — Shadanana Ashtakam](../content/en/shadanana-ashtakam.en.md)
 - [Kannada — ಷಡಾನನಾಷ್ಟಕಂ](../content/kn/shadanana-ashtakam.kn.md)
+- [Sanskrit — षडाननाष्टकम्](../content/sa/shadanana-ashtakam.sa.md)
 
-**Keywords:** shadanana, ashtakam, ಷಡಾನನಾಷ್ಟಕಂ
+**Keywords:** ashtakam, shadanana
 
 ---
 

@@ -1,133 +1,151 @@
 <!-- AUTO-GENERATED — do not edit manually -->
 # JapaKosha Content Index
 
-**99** mantras across **99** files.
+**105** mantras across **315** files.
 
 ## By Deity
 - [Ayyappa](by-deity/ayyappa.md) (4)
 - [Dattatreya](by-deity/dattatreya.md) (1)
-- [Devi](by-deity/devi.md) (10)
-- [Ganesha](by-deity/ganesha.md) (18)
+- [Devi](by-deity/devi.md) (12)
+- [Ganesha](by-deity/ganesha.md) (19)
 - [Hanuman](by-deity/hanuman.md) (1)
-- [Lakshmi](by-deity/lakshmi.md) (1)
+- [Krishna](by-deity/krishna.md) (1)
+- [Lakshmi](by-deity/lakshmi.md) (2)
 - [Lalitha](by-deity/lalitha.md) (1)
 - [Narasimha](by-deity/narasimha.md) (3)
 - [Navagraha](by-deity/navagraha.md) (11)
-- [Rama](by-deity/rama.md) (2)
-- [Shiva](by-deity/shiva.md) (2)
+- [Rama](by-deity/rama.md) (3)
+- [Shiva](by-deity/shiva.md) (3)
 - [Subrahmanya](by-deity/subrahmanya.md) (1)
 - [Surya](by-deity/surya.md) (8)
 - [Universal](by-deity/universal.md) (34)
 - [Venkateshwara](by-deity/venkateshwara.md) (2)
-- [Vishnu](by-deity/vishnu.md) (3)
+- [Vishnu](by-deity/vishnu.md) (5)
 
 ## By Purpose
-- [Devotion](by-purpose/devotion.md) (99)
+- [Auspiciousness](by-purpose/auspiciousness.md) (13)
+- [Courage](by-purpose/courage.md) (1)
+- [Devotion](by-purpose/devotion.md) (65)
+- [Gratitude](by-purpose/gratitude.md) (3)
+- [Health](by-purpose/health.md) (2)
+- [Liberation](by-purpose/liberation.md) (19)
+- [Meditation](by-purpose/meditation.md) (4)
+- [Peace](by-purpose/peace.md) (1)
+- [Prosperity](by-purpose/prosperity.md) (6)
+- [Protection](by-purpose/protection.md) (6)
+- [Purification](by-purpose/purification.md) (3)
+- [Wisdom](by-purpose/wisdom.md) (16)
 
 ## By Tradition
 - [Puranic](by-tradition/puranic.md) (2)
-- [Stotra](by-tradition/stotra.md) (78)
+- [Stotra](by-tradition/stotra.md) (84)
 - [Tantric](by-tradition/tantric.md) (4)
 - [Upanishadic](by-tradition/upanishadic.md) (15)
 
 ## All Mantras
 
-- **[ಅದ್ವೈತಲಕ್ಷಣಂ](../content/kn/advaitha-lakshanam.kn.md)** — Kannada
-- **[ಅಗ್ನಿ ಸ್ತೋತ್ರಂ](../content/kn/agni-stotram-markandeya-puranam.kn.md)** — Kannada
-- **[ಐತರೇಯೋಪನಿಷತ್](../content/kn/aitareya-upanishad.kn.md)** — Kannada
-- **[ಅಶ್ವತ್ಥ ಸ್ತೋತ್ರಂ](../content/kn/ashvattha-stotram.kn.md)** — Kannada
-- **[ಅಶ್ವಿನೀ ದೇವತಾ ಸ್ತೋತ್ರಂ](../content/kn/ashwini-devata-stotram-mahabharatam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಬಾಲೋಪನಿಷತ್](../content/kn/balopanishad.kn.md)** — Kannada
-- **[ಭಾವನೋಪನಿಷತ್](../content/kn/bhavanopanishad.kn.md)** — Kannada
-- **[ಭೀಷ್ಮಾಷ್ಟಮಿ ತರ್ಪಣ ಶ್ಲೋಕಂ](../content/kn/bheeshma-ashtami-tarpana-slokam.kn.md)** — Kannada
-- **[ಬಿಲ್ವೋಪನಿಷತ್](../content/kn/bilva-upanishad.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)](../content/kn/brahma-krutha-surya-stuti.kn.md)** — Kannada
-- **[ದೇವೀ ವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ](../content/kn/devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.kn.md)** — Kannada
-- **[ದೇವೀವೈಭವಾಶ್ಚರ್ಯಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/devi-vaibhava-ashcharya-ashtottara-shatanamavali.kn.md)** — Kannada
-- **[ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೨](../content/kn/gajendra-moksha-srimad-bhagavatam-part-2.kn.md)** — Kannada
-- **[ಗಜೇಂದ್ರಮೋಕ್ಷಃ (ಶ್ರೀಮದ್ಭಾಗವತಂ) ೩](../content/kn/gajendra-moksha-srimad-bhagavatam-part-3.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಪಂಚರತ್ನಂ](../content/kn/ganesha-pancharatnam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ](../content/kn/ganesha-pratah-smarana-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂ](../content/kn/ganga-stotram.kn.md)** — Kannada
-- **[ಗೋಮಾತ ಪ್ರಾರ್ಥನ](../content/kn/gomatha-prarthana.kn.md)** — Kannada
-- **[ಈಶಾವಾಸ್ಯೋಪನಿಷತ್](../content/kn/ishavasya-upanishad.kn.md)** — Kannada
-- **[ಜಾಬಾಲೋಪನಿಷತ್](../content/kn/jabalopanishad.kn.md)** — Kannada
-- **[೩ (ಜಗದ್ವಿಲಕ್ಷಣಂ)](../content/kn/jagad-vilakshana-surya-kavacham.kn.md)** — Kannada
-- **[ಜೈ ಶ್ರೀರಾಮ್](../content/kn/jai-shree-ram.kn.md)** — Kannada
-- **[ಕೈವಲ್ಯೋಪನಿಷತ್](../content/kn/kaivalya-upanishad.kn.md)** — Kannada
-- **[ಕಠೋಪನಿಷತ್](../content/kn/kathopanishad.kn.md)** — Kannada
-- **[ಕೇನೋಪನಿಷತ್](../content/kn/kenopanishad.kn.md)** — Kannada
-- **[ಕುಂಡಲಿನೀ ಸ್ತೋತ್ರಂ](../content/kn/kundalini-stotram.kn.md)** — Kannada
-- **[ಲಿಂಗೋಪನಿಷತ್](../content/kn/lingopanishad.kn.md)** — Kannada
-- **[೨](../content/kn/manidweepa-varnanam-devi-bhagavatam-part-2.kn.md)** — Kannada
-- **[೩](../content/kn/manidweepa-varnanam-devi-bhagavatam-part-3.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಮನು ಕೃತಂ)](../content/kn/manu-krutha-surya-stuti.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ (ನಾರದ ಕೃತಂ)](../content/kn/narada-kruta-ganapati-stotram.kn.md)** — Kannada
-- **[ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್](../content/kn/pancha-brahma-upanishad.kn.md)** — Kannada
-- **[ಪರಮಾದ್ವೈತಂ](../content/kn/paramadvaitham.kn.md)** — Kannada
-- **[ಶ್ರೀ ಶನಿ ಸ್ತೋತ್ರಂ (ಪಿಪ್ಪಲಾದ ಕೃತಂ)](../content/kn/pippalada-krutha-sri-shani-stotram.kn.md)** — Kannada
-- **[ರಾಜಶ್ಯಾಮಲಾರಹಸ್ಯೋಪನಿಷತ್](../content/kn/raja-shyamala-rahasya-upanishad.kn.md)** — Kannada
-- **[ರತ್ನದ್ವಯಂ](../content/kn/ratna-dvayam.kn.md)** — Kannada
-- **[ಋದ್ಧಿ ಸ್ತವಃ](../content/kn/riddhi-stava.kn.md)** — Kannada
-- **[ರುದ್ರೋಪನಿಷತ್](../content/kn/rudropanishad.kn.md)** — Kannada
-- **[ಶ್ರೀ ಋಣಹರ್ತೃ ಗಣೇಶ ಸ್ತೋತ್ರಂ](../content/kn/runa-hartru-ganesha-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಋಣವಿಮೋಚನ ಮಹಾಗಣಪತಿ ಸ್ತೋತ್ರಂ](../content/kn/runa-vimochana-ganesha-stotram.kn.md)** — Kannada
-- **[ಶಮೀ ಪ್ರಾರ್ಥನ](../content/kn/sami-vruksha-prarthana.kn.md)** — Kannada
-- **[ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ](../content/kn/santana-ganapati-stotram.kn.md)** — Kannada
-- **[ಷಡಾನನಾಷ್ಟಕಂ](../content/kn/shadanana-ashtakam.kn.md)** — Kannada
-- **[ಶಿವಸಂಕಲ್ಪೋಪನಿಷತ್](../content/kn/shiva-sankalpa-upanishad.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣಾಧೀಶ ಸ್ತೋತ್ರಂ (ಶಿವಶಕ್ತಿ ಕೃತಂ)](../content/kn/shiva-shakti-kruta-ganadhisha-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಅರುಣಾಚಲೇಶ್ವರ ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-arunachaleshwara-ashtottara-shatanamavali.kn.md)** — Kannada
-- **[ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1](../content/kn/sri-ayyappa-sharanu-gosha-1.kn.md)** — Kannada
-- **[ಶ್ರೀ ಭೂತನಾಥ ದಶಕಂ](../content/kn/sri-bhoothanatha-dasakam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಭೂತನಾಥ ಕರಾವಲಂಬ ಸ್ತವಃ](../content/kn/sri-bhuthanatha-karavalamba-stava.kn.md)** — Kannada
-- **[೨](../content/kn/sri-chandra-stotram-2.kn.md)** — Kannada
-- **[೩](../content/kn/sri-chandra-stotram-3.kn.md)** — Kannada
-- **[೪](../content/kn/sri-chandra-stotram-4.kn.md)** — Kannada
-- **[ಶ್ರೀ ದತ್ತ ನಕ್ಷತ್ರಮಾಲಿಕಾ ಸ್ತೋತ್ರಂ](../content/kn/sri-datta-nakshatra-malika.kn.md)** — Kannada
-- **[ಶ್ರೀ ಧರ್ಮಶಾಸ್ತಾ ಸ್ತೋತ್ರಂ (ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ವಿರಚಿತಂ)](../content/kn/sri-dharma-sastha-stotram-by-sringeri-jagadguru.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣಾಧಿಪ ಪಂಚರತ್ನಂ](../content/kn/sri-ganadhipa-pancharatnam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ](../content/kn/sri-ganapathi-mangalashtakam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರಂ](../content/kn/sri-ganapathi-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ](../content/kn/sri-ganapati-mantraksharavali-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶಾವತಾರ ಸ್ತೋತ್ರಂ](../content/kn/sri-ganesha-avatara-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗ ಸ್ತುತಿಃ](../content/kn/sri-ganesha-bhujanga-stuti.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗಂ](../content/kn/sri-ganesha-bhujangam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಹೃದಯ ಕವಚಂ](../content/kn/sri-ganesha-hrudaya-kavacham.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಹೃದಯಂ](../content/kn/sri-ganesha-hrudayam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ಮಂತ್ರಪ್ರಭಾವ ಸ್ತುತಿಃ](../content/kn/sri-ganesha-prabhava-stuti.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಣೇಶ ವಜ್ರಪಂಜರ ಸ್ತೋತ್ರಂ](../content/kn/sri-ganesha-vajra-panjara-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಂಗಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-ganga-ashtottara-shatanamavali.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಾಯತ್ರೀ ಶಾಪವಿಮೋಚನಂ](../content/kn/sri-gayatri-shapa-vimochanam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಗಾಯತ್ರೀ ತತ್ತ್ವಮಾಲಾಮಂತ್ರಂ](../content/kn/sri-gayatri-tattva-mala-mantram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಲಕ್ಷ್ಮ್ಯಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ 3](../content/kn/sri-lakshmi-ashtottara-shatanamavali-3.kn.md)** — Kannada
-- **[ಶ್ರೀ ಲಲಿತಾ ಲಕಾರಾದಿ ಶತನಾಮ ಸ್ತೋತ್ರಂ](../content/kn/sri-lalita-lakaradi-shatanama-stotram.kn.md)** — Kannada
-- **[೩](../content/kn/sri-matangi-kavacham-3.kn.md)** — Kannada
-- **[೩](../content/kn/sri-matangi-stotram-3.kn.md)** — Kannada
-- **[ಶ್ರೀ ಮಾತಂಗೀ ಸ್ತೋತ್ರಂ (ದೇವೀ ಷಟ್ಕಂ)](../content/kn/sri-matangi-stotram-4-devi-shatkam.kn.md)** — Kannada
-- **[೫](../content/kn/sri-matangi-stotram-5.kn.md)** — Kannada
-- **[ಶ್ರೀ ನೃಸಿಂಹಾಷ್ಟಕಂ](../content/kn/sri-narasimha-ashtakam.kn.md)** — Kannada
-- **[ಶ್ರೀ ನೃಸಿಂಹಾವತಾರ ಚೂರ್ಣಿಕಾ](../content/kn/sri-narasimha-avatara-churnika.kn.md)** — Kannada
-- **[ಶ್ರೀ ನೃಸಿಂಹ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತವಃ](../content/kn/sri-nrusimha-bhujanga-prayata-stava.kn.md)** — Kannada
-- **[ಶ್ರೀ ರವಿ ಸ್ತೋತ್ರಂ (ಸಾಂಬಪುರಾಣೇ)](../content/kn/sri-ravi-stotram-samba-purane.kn.md)** — Kannada
-- **[ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದ ಷೋಡಶೋಪಚಾರ ಪೂಜಾ](../content/kn/sri-shankaracharya-shodasopachara-puja.kn.md)** — Kannada
-- **[೨](../content/kn/sri-shyamala-ashtottara-shatanama-stotram-2.kn.md)** — Kannada
-- **[ಶ್ರೀ ಶ್ಯಾಮಲಾ ಷೋಡಶನಾಮಾವಳಿಃ](../content/kn/sri-shyamala-shodasa-namavali.kn.md)** — Kannada
-- **[೨ (ತ್ರೈಲೋಕ್ಯಮಂಗಳಂ)](../content/kn/sri-surya-kavacham-2-trilokya-mangalam.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯ ನಾಮವರ್ಣನ ಸ್ತೋತ್ರಂ (ಭವಿಷ್ಯಪುರಾಣೇ)](../content/kn/sri-surya-nama-varnana-stotram-bhavishya-purane.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ](../content/kn/sri-surya-pratah-smarana-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯ ಸ್ತವರಾಜ ಸ್ತೋತ್ರಂ](../content/kn/sri-surya-stavaraja-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯ ಸ್ತೋತ್ರಂ 2 (ದೇವ ಕೃತಂ)](../content/kn/sri-surya-stotram-2-deva-krutham.kn.md)** — Kannada
-- **[ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)](../content/kn/sri-suryarya-stotram-yajnavalkya-krutham.kn.md)** — Kannada
-- **[ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂ](../content/kn/sri-tulasi-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-veerabhadra-ashtottara-shatanamavali.kn.md)** — Kannada
-- **[ಶ್ರೀ ವೇಂಕಟೇಶ್ವರ ಸ್ತೋತ್ರಂ](../content/kn/sri-venkateshwara-stotram.kn.md)** — Kannada
-- **[ಶ್ರೀ ವಿಷ್ವಕ್ಸೇನಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ](../content/kn/sri-vishwaksena-ashtottara-shatanamavali.kn.md)** — Kannada
-- **[ಸುಂದರಕಾಂಡ ಸಂಕಲ್ಪಂ, ಧ್ಯಾನಂ](../content/kn/sundarakanda-sankalpam-dhyanam.kn.md)** — Kannada
-- **[ಸುಂದರಕಾಂಡ ಪಂಚಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ (೪೫)](../content/kn/sundarakanda-sarga-chapter-45.kn.md)** — Kannada
-- **[ಸೂರ್ಯೋಪನಿಷತ್](../content/kn/surya-upanishad.kn.md)** — Kannada
-- **[ಶ್ರೀ ರವಿ ಸ್ತುತಿಃ (ತ್ರಿದೇವ ಕೃತಂ)](../content/kn/trideva-kruta-ravi-stuti.kn.md)** — Kannada
-- **[ತ್ರಿವೇಣೀ ಸ್ತೋತ್ರಂ](../content/kn/triveni-stotram.kn.md)** — Kannada
-- **[ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ಅರ್ಘ್ಯಪ್ರದಾನ ಕ್ರಮಃ](../content/kn/trucha-kalpa-surya-arghya-krama.kn.md)** — Kannada
-- **[ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ](../content/kn/trucha-kalpa-surya-namaskara-krama.kn.md)** — Kannada
-- **[ವಿಷೂಚಿಕಾ ಮಂತ್ರ ಕಥನಂ (ಯೋಗವಾಸಿಷ್ಠಂ)](../content/kn/visuchika-nivarana-mantra-yoga-vasistham.kn.md)** — Kannada
+- **[अद्वैतलक्षणं](../content/sa/advaitha-lakshanam.sa.md)** — English, Kannada, Sanskrit
+- **[अग्नि स्तोत्रं](../content/sa/agni-stotram-markandeya-puranam.sa.md)** — English, Kannada, Sanskrit
+- **[ऐतरेयोपनिषत्](../content/sa/aitareya-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[अश्वत्थ स्तोत्रं](../content/sa/ashvattha-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[अश्विनी देवता स्तोत्रं](../content/sa/ashwini-devata-stotram-mahabharatam.sa.md)** — English, Kannada, Sanskrit
+- **[बालोपनिषत्](../content/sa/balopanishad.sa.md)** — English, Kannada, Sanskrit
+- **[भावनोपनिषत्](../content/sa/bhavanopanishad.sa.md)** — English, Kannada, Sanskrit
+- **[भीष्माष्टमी तर्पण स्लोकम्](../content/sa/bheeshma-ashtami-tarpana-slokam.sa.md)** — English, Kannada, Sanskrit
+- **[बिल्वोपनिषत्](../content/sa/bilva-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[ब्रह्मकृत सूर्यस्तुतिः](../content/sa/brahma-krutha-surya-stuti.sa.md)** — English, Kannada, Sanskrit
+- **[देवी वैभवाश्चर्याष्टोत्तरशतनाम स्तोत्रं](../content/sa/devi-vaibhava-ashcharya-ashtottara-shatanama-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[देवीवैभवाश्चर्याष्टोत्तरशतनामावलिः](../content/sa/devi-vaibhava-ashcharya-ashtottara-shatanamavali.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीदुर्गासुप्रभातम्](../content/sa/durga-suprabhata.sa.md)** — English, Kannada, Sanskrit
+- **[गजेन्द्रमोक्षः (श्रीमद्भागवतम्) २](../content/sa/gajendra-moksha-srimad-bhagavatam-part-2.sa.md)** — English, Kannada, Sanskrit
+- **[गजेन्द्रमोक्षः (श्रीमद्भागवतम्) ३](../content/sa/gajendra-moksha-srimad-bhagavatam-part-3.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश पञ्चरत्नम्](../content/sa/ganesha-pancharatnam.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश प्रातःस्मरणं](../content/sa/ganesha-pratah-smarana-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणेशसुप्रभातम्](../content/sa/ganesha-suprabhata.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गङ्गा स्तोत्रम्](../content/sa/ganga-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[गोमाता प्रार्थना](../content/sa/gomatha-prarthana.sa.md)** — English, Kannada, Sanskrit
+- **[ईशावास्योपनिषद्](../content/sa/ishavasya-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[जाबालोपनिषद्](../content/sa/jabalopanishad.sa.md)** — English, Kannada, Sanskrit
+- **[जगद्विलक्षण सूर्य कवचम्](../content/sa/jagad-vilakshana-surya-kavacham.sa.md)** — English, Kannada, Sanskrit
+- **[जय श्रीराम्](../content/sa/jai-shree-ram.sa.md)** — English, Kannada, Sanskrit
+- **[कैवल्योपनिषत्](../content/sa/kaivalya-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[कठोपनिषत्](../content/sa/kathopanishad.sa.md)** — English, Kannada, Sanskrit
+- **[केनोपनिषत्](../content/sa/kenopanishad.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीकृष्णसुप्रभातम्](../content/sa/krishna-suprabhata.sa.md)** — English, Kannada, Sanskrit
+- **[कुण्डलिनी स्तोत्रम्](../content/sa/kundalini-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीमहालक्ष्मीसुप्रभातम्](../content/sa/lakshmi-suprabhata.sa.md)** — English, Kannada, Sanskrit
+- **[लिङ्गोपनिषत्](../content/sa/lingopanishad.sa.md)** — English, Kannada, Sanskrit
+- **[मणिद्वीप वर्णनम - देवी भागवतम पार्ट २](../content/sa/manidweepa-varnanam-devi-bhagavatam-part-2.sa.md)** — English, Kannada, Sanskrit
+- **[मणिद्वीप वर्णनम - देवी भागवतम पार्ट ३](../content/sa/manidweepa-varnanam-devi-bhagavatam-part-3.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्य स्तुतिः (मनु कृतं)](../content/sa/manu-krutha-surya-stuti.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणपति स्तोत्रं (नारद कृतं)](../content/sa/narada-kruta-ganapati-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[पञ्चब्रह्मोपनिषत्](../content/sa/pancha-brahma-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[परमाद्वैतं](../content/sa/paramadvaitham.sa.md)** — English, Kannada, Sanskrit
+- **[श्री शनि स्तोत्रं (पिप्पलाद कृतं)](../content/sa/pippalada-krutha-sri-shani-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[राजश्यामलारहस्योपनिषत्](../content/sa/raja-shyamala-rahasya-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीरामसुप्रभातम्](../content/sa/rama-suprabhata.sa.md)** — English, Kannada, Sanskrit
+- **[रत्नद्वयम्](../content/sa/ratna-dvayam.sa.md)** — English, Kannada, Sanskrit
+- **[ऋद्धि स्तवः](../content/sa/riddhi-stava.sa.md)** — English, Kannada, Sanskrit
+- **[रुद्रोपनिषत्](../content/sa/rudropanishad.sa.md)** — English, Kannada, Sanskrit
+- **[श्री ऋणहर्तृ गणेश स्तोत्रं](../content/sa/runa-hartru-ganesha-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री ऋणविमोचन महागणपति स्तोत्रं](../content/sa/runa-vimochana-ganesha-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[शमी प्रार्थना](../content/sa/sami-vruksha-prarthana.sa.md)** — English, Kannada, Sanskrit
+- **[सन्तान गणपति स्तोत्रं](../content/sa/santana-ganapati-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[षडाननाष्टकम्](../content/sa/shadanana-ashtakam.sa.md)** — English, Kannada, Sanskrit
+- **[शिवसंकल्पोपनिषत्](../content/sa/shiva-sankalpa-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणाधीश स्तोत्रं (शिवशक्तिकृतं)](../content/sa/shiva-shakti-kruta-ganadhisha-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीशिवसुप्रभातम्](../content/sa/shiva-suprabhata.sa.md)** — English, Kannada, Sanskrit
+- **[श्री अरुणाचलेश्वर अष्टोत्तरशतनामावलिः](../content/sa/sri-arunachaleshwara-ashtottara-shatanamavali.sa.md)** — English, Kannada, Sanskrit
+- **[श्री अय्यप्प शरणुघोष १](../content/sa/sri-ayyappa-sharanu-gosha-1.sa.md)** — English, Kannada, Sanskrit
+- **[श्री भूतनाथ दशकम्](../content/sa/sri-bhoothanatha-dasakam.sa.md)** — English, Kannada, Sanskrit
+- **[श्री भूतनाथ करावलम्ब स्तवः](../content/sa/sri-bhuthanatha-karavalamba-stava.sa.md)** — English, Kannada, Sanskrit
+- **[श्री चन्द्र स्तोत्रम् २](../content/sa/sri-chandra-stotram-2.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीचन्द्रस्तोत्रम् ३](../content/sa/sri-chandra-stotram-3.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीचन्द्रस्तोत्रम् ४](../content/sa/sri-chandra-stotram-4.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीदत्तनक्षत्रमालिका](../content/sa/sri-datta-nakshatra-malika.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीधर्मशास्त्रस्तोत्रम् (शृङ्गेरी जगद्गुरुविरचितम्)](../content/sa/sri-dharma-sastha-stotram-by-sringeri-jagadguru.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणाधिपपञ्चरत्नम्](../content/sa/sri-ganadhipa-pancharatnam.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणपतिमङ्गलाष्टकम्](../content/sa/sri-ganapathi-mangalashtakam.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणपतिस्तोत्रम्](../content/sa/sri-ganapathi-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणपतिमन्त्राक्षरावलिस्तोत्रम्](../content/sa/sri-ganapati-mantraksharavali-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणेशावतारस्तोत्रम्](../content/sa/sri-ganesha-avatara-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीगणेशभुजङ्गस्तुतिः](../content/sa/sri-ganesha-bhujanga-stuti.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश भुजंगं](../content/sa/sri-ganesha-bhujangam.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश हृदय कवचं](../content/sa/sri-ganesha-hrudaya-kavacham.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश हृदयं](../content/sa/sri-ganesha-hrudayam.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश मन्त्रप्रभाव स्तुतिः](../content/sa/sri-ganesha-prabhava-stuti.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गणेश वज्रपञ्जर स्तोत्रं](../content/sa/sri-ganesha-vajra-panjara-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गङ्गाष्टोत्तरशतनामावलिः](../content/sa/sri-ganga-ashtottara-shatanamavali.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गायत्री शापविमोचनं](../content/sa/sri-gayatri-shapa-vimochanam.sa.md)** — English, Kannada, Sanskrit
+- **[श्री गायत्री तत्त्वमालामन्त्रं](../content/sa/sri-gayatri-tattva-mala-mantram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री लक्ष्म्यष्टोत्तरशतनामावलिः ३](../content/sa/sri-lakshmi-ashtottara-shatanamavali-3.sa.md)** — English, Kannada, Sanskrit
+- **[श्री ललिता लकारादि शतनाम स्तोत्रं](../content/sa/sri-lalita-lakaradi-shatanama-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीमातङ्गीकवचम् ३](../content/sa/sri-matangi-kavacham-3.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीमातङ्गीस्तोत्रम् ३](../content/sa/sri-matangi-stotram-3.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीमातङ्गीस्तोत्रम् ४ (देवीषट्कम्)](../content/sa/sri-matangi-stotram-4-devi-shatkam.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीमातङ्गीस्तोत्रम् ५](../content/sa/sri-matangi-stotram-5.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीनृसिंहाष्टकम्](../content/sa/sri-narasimha-ashtakam.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीनृसिंहावतारचूर्णिका](../content/sa/sri-narasimha-avatara-churnika.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीनृसिंहभुजङ्गप्रयातस्तवः](../content/sa/sri-nrusimha-bhujanga-prayata-stava.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीरविस्तोत्रम् (साम्बपुराणे)](../content/sa/sri-ravi-stotram-samba-purane.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीशङ्करभगवत्पादषोडशोपचारपूजा](../content/sa/sri-shankaracharya-shodasopachara-puja.sa.md)** — English, Kannada, Sanskrit
+- **[श्रीश्यामलाष्टोत्तरशतनामस्तोत्रम् २](../content/sa/sri-shyamala-ashtottara-shatanama-stotram-2.sa.md)** — English, Kannada, Sanskrit
+- **[श्री श्यामला षोडशनामावलिः](../content/sa/sri-shyamala-shodasa-namavali.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्य कवचम् २ (त्रैलोक्यमंगलम्)](../content/sa/sri-surya-kavacham-2-trilokya-mangalam.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्य नामवर्णन स्तोत्रम् (भविष्यपुराणे)](../content/sa/sri-surya-nama-varnana-stotram-bhavishya-purane.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्य प्रातः स्मरण स्तोत्रम्](../content/sa/sri-surya-pratah-smarana-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्य स्तवराज स्तोत्रम्](../content/sa/sri-surya-stavaraja-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्य स्तोत्रम् २ (देव कृतं)](../content/sa/sri-surya-stotram-2-deva-krutham.sa.md)** — English, Kannada, Sanskrit
+- **[श्री सूर्यार्या स्तोत्रम् (याज्ञवल्क्य कृतं)](../content/sa/sri-suryarya-stotram-yajnavalkya-krutham.sa.md)** — English, Kannada, Sanskrit
+- **[श्री तुलसी स्तोत्रम्](../content/sa/sri-tulasi-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री वीरभद्राष्टोत्तरशतनामावलिः](../content/sa/sri-veerabhadra-ashtottara-shatanamavali.sa.md)** — English, Kannada, Sanskrit
+- **[श्री वेंकटेश्वर स्तोत्रम्](../content/sa/sri-venkateshwara-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[श्री विष्वक्सेनाष्टोत्तरशतनामावलिः](../content/sa/sri-vishwaksena-ashtottara-shatanamavali.sa.md)** — English, Kannada, Sanskrit
+- **[सुन्दरकाण्ड सङ्कल्पं, ध्यानं](../content/sa/sundarakanda-sankalpam-dhyanam.sa.md)** — English, Kannada, Sanskrit
+- **[सुन्दरकाण्ड पञ्चचत्वारिंशः सर्गः (४५)](../content/sa/sundarakanda-sarga-chapter-45.sa.md)** — English, Kannada, Sanskrit
+- **[सूर्योपनिषत्](../content/sa/surya-upanishad.sa.md)** — English, Kannada, Sanskrit
+- **[श्री रवि स्तुतिः (त्रिदेव कृतम्)](../content/sa/trideva-kruta-ravi-stuti.sa.md)** — English, Kannada, Sanskrit
+- **[त्रिवेणी स्तोत्रम्](../content/sa/triveni-stotram.sa.md)** — English, Kannada, Sanskrit
+- **[तृचाकल्प सूर्य अर्घ्यप्रदान क्रमः](../content/sa/trucha-kalpa-surya-arghya-krama.sa.md)** — English, Kannada, Sanskrit
+- **[तृचाकल्प सूर्य नमस्कार क्रमः](../content/sa/trucha-kalpa-surya-namaskara-krama.sa.md)** — English, Kannada, Sanskrit
+- **[विषूचिका मन्त्र कथनम् (योगवासिष्ठम्)](../content/sa/visuchika-nivarana-mantra-yoga-vasistham.sa.md)** — English, Kannada, Sanskrit

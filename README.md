@@ -21,16 +21,16 @@ Each markdown file is **self-contained** with all metadata in front matter and m
 
 ## Key Files
 
-| File | Purpose |
-|------|----------|
-| [`metadata.json`](metadata.json) | All valid categories, purposes, traditions, languages, tags |
-| `content/<lang>/` | Mantra content by language |
-| `catalog/` | Auto-generated browsable index (do not edit) |
-| `scripts/validate.mjs` | Validates content against metadata.json |
-| `scripts/generate-catalog.mjs` | Generates catalog/ from content |
-| `scripts/generate-artifacts.mjs` | Generates publishable JSON artifacts in `dist/latest/` |
-| `docs/CONTENT_PRD.md` | Product and governance spec |
-| `docs/AI_CONTENT_INSTRUCTIONS.md` | AI agent content guidelines |
+| File                              | Purpose                                                     |
+| --------------------------------- | ----------------------------------------------------------- |
+| [`metadata.json`](metadata.json)  | All valid categories, purposes, traditions, languages, tags |
+| `content/<lang>/`                 | Mantra content by language                                  |
+| `catalog/`                        | Auto-generated browsable index (do not edit)                |
+| `scripts/validate.mjs`            | Validates content against metadata.json                     |
+| `scripts/generate-catalog.mjs`    | Generates catalog/ from content                             |
+| `scripts/generate-artifacts.mjs`  | Generates publishable JSON artifacts in `dist/latest/`      |
+| `docs/CONTENT_PRD.md`             | Product and governance spec                                 |
+| `docs/AI_CONTENT_INSTRUCTIONS.md` | AI agent content guidelines                                 |
 
 ## Contributing
 
@@ -68,7 +68,7 @@ dist/
       <canonical_id>.json
 ```
 
-`manifest.json` contains the content version, generation timestamp, category path, and the published mantra index. `categories.json` is derived from `metadata.json`, and each mantra artifact groups localizations by `mantra_id`.
+`manifest.json` contains the content version, generation timestamp, category path, and the published mantra index. `categories.json` is derived from `metadata.json`, and each mantra artifact groups localizations by `mantra_id` while preserving nested `tags` from source frontmatter alongside the normalized `category_ids` list.
 
 ## Non-Goals
 

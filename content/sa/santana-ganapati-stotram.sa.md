@@ -11,6 +11,10 @@ tradition: stotra
 tags:
   content_type:
     - stotra
+  ritual:
+    - festival
+  occasion:
+    - ganesh-chaturthi
 keywords:
   - ganapati
   - santana
@@ -22,7 +26,7 @@ license: public-domain
 quality_level: community
 phonetic: null
 created_at: '2026-02-15T07:06:28.137Z'
-updated_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-21T00:00:00.000Z'
 ---
 नमोऽस्तु गणनाथाय सिद्धिबुद्धियुताय च |
 सर्वप्रदाय देवाय पुत्रवृद्धिप्रदाय च || १ ||

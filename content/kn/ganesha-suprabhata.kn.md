@@ -12,8 +12,11 @@ tradition: stotra
 tags:
   content_type:
     - stotra
+  ritual:
+    - festival
   occasion:
     - morning
+    - ganesh-chaturthi
 keywords:
   - ganesha
 source:
@@ -23,7 +26,7 @@ license: public-domain
 quality_level: community
 phonetic: null
 created_at: '2026-03-20T00:00:00.000Z'
-updated_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-21T00:00:00.000Z'
 ---
 ॥ ಶ್ರೀಗಣೇಶಾಯ ನಮಃ ॥
 

@@ -46,7 +46,8 @@
       "Bash(ls -la content/sa/*.sa.md)",
       "Bash(ls content/en/*.en.md)",
       "Bash(ls content/kn/*.kn.md)",
-      "Bash(ls content/sa/*.sa.md)"
+      "Bash(ls content/sa/*.sa.md)",
+      "Bash(ls -1 /c/dev/1p/mob/japakosha-content/content/en/*.md)"
     ]
   }
 }
