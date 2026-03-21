@@ -2,29 +2,29 @@
 id: krishna-suprabhata.kn
 mantra_id: krishna-suprabhata
 language_code: kn
-title: "ಶ್ರೀ ಕೃಷ್ಣ ಸುಪ್ರಭಾತ"
+title: ಶ್ರೀ ಕೃಷ್ಣ ಸುಪ್ರಭಾತ
 deity_theme:
   - krishna
   - vishnu
 purpose:
   - auspiciousness
   - devotion
-tradition: suprabhata
+tradition: stotra
 tags:
   content_type:
-    - suprabhata
-  keywords:
-    - krishna
+    - stotra
   occasion:
     - morning
+keywords:
+  - krishna
 source:
-  text: "Traditional Sri Vaishnava prayer"
-  citation: "Traditional Suprabhata literature"
-  license: public-domain
+  text: Traditional Sri Vaishnava prayer
+  citation: Traditional Suprabhata literature
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 ಕೌಸುಂಭೌರ್ಭಾಸುರಸಹಸ್ರೈರ್ಮಂಡಲೀಕೃತಭಾಸ್ಕರಃ ।
 ಪ್ರಭಾತೇ ಕರುಣಾಪೂರ್ಣಃ ಸ ಕೃಷ್ಣಃ ಕೇಶವಃ ಪ್ರಭುಃ ॥ ೧॥

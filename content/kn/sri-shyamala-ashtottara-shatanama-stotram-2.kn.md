@@ -11,20 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-  keywords:
-    - ashtottara
-    - shatanama
-    - shyamala
-    - sri
-    - stotram
-    - ೨
-  text: "Public Domain"
+keywords:
+  - ashtottara
+  - shatanama
+  - shyamala
+  - sri
+  - stotram
+  - ೨
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಸ್ಯ ಶ್ರೀಶ್ಯಾಮಲಾಷ್ಟೋತ್ತರಶತನಾಮಸ್ತೋತ್ರ ಮಹಾಮಂತ್ರಸ್ಯ, ಮಹಾಭೈರವ ಋಷಿಃ, ಅನುಷ್ಟುಪ್ ಛಂದಃ, ಶ್ರೀಮಾತಂಗೀಶ್ವರೀ ದೇವತಾ, ಆದಿಶಕ್ತಿರಿತಿ ಬೀಜಂ, ಸರ್ವಕಾಮಪ್ರದೇತಿ ಶಕ್ತಿಃ, ಪರಂಜ್ಯೋತಿಃ ಸ್ವರೂಪಿಣೀತಿ ಕೀಲಕಂ, ಶ್ಯಾಮಲಾಷ್ಟೋತ್ತರಶತನಾಮ ಜಪೇ ವಿನಿಯೋಗಃ 
 ನಮಸ್ತೇಽಸ್ತು ಜಗದ್ಧಾತ್ರಿ ಮಾತಂಗೀಶ್ವರಿ ತೇ ನಮಃ |  

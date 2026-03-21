@@ -12,18 +12,19 @@ tradition: upanishadic
 tags:
   content_type:
     - upanishad
-  keywords:
-    - rahasya
-    - raja
-    - shyamala
-    - upanishad
-  text: "Public Domain"
+keywords:
+  - rahasya
+  - raja
+  - shyamala
+  - upanishad
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः
 स्वस्ति नः पूषा विश्ववेदाः |

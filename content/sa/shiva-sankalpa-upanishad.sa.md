@@ -13,17 +13,18 @@ tradition: upanishadic
 tags:
   content_type:
     - upanishad
-  keywords:
-    - sankalpa
-    - shiva
-    - upanishad
-  text: "Public Domain"
+keywords:
+  - sankalpa
+  - shiva
+  - upanishad
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ येनेदं भूतं भुवनं भविष्यत्परिगृहीतममृतेन सर्वम् ।
 येन यज्ञस्त्रायते सप्तहोता तन्मे मनः शिवसंकल्पमस्तु ॥ १

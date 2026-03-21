@@ -2,7 +2,7 @@
 id: sri-ganapathi-mangalashtakam.kn
 mantra_id: sri-ganapathi-mangalashtakam
 language_code: kn
-title: "ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ"
+title: ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - ashtakam
-  keywords:
-    - ganapathi
-    - mangalashtakam
-    - sri
-    - ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ
-  text: "Public Domain"
+keywords:
+  - ganapathi
+  - mangalashtakam
+  - sri
+  - ಶ್ರೀ ಗಣಪತಿ ಮಂಗಳಾಷ್ಟಕಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಗಜಾನನಾಯ ಗಾಂಗೇಯಸಹಜಾಯ ಸದಾತ್ಮನೇ |  
     ಗೌರೀಪ್ರಿಯತನೂಜಾಯ ಗಣೇಶಾಯಾಸ್ತು ಮಂಗಳಮ್ || ೧ ||

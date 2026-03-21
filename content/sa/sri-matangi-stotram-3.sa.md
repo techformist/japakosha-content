@@ -2,7 +2,7 @@
 id: sri-matangi-stotram-3.sa
 mantra_id: sri-matangi-stotram-3
 language_code: sa
-title: "श्रीमातङ्गीस्तोत्रम् ३"
+title: श्रीमातङ्गीस्तोत्रम् ३
 deity_theme:
   - devi
 purpose:
@@ -11,18 +11,19 @@ tradition: tantric
 tags:
   content_type:
     - stotra
-  keywords:
-    - 3
-    - matangi
-    - sri
-    - stotram
-  text: "Public Domain"
+keywords:
+  - 3
+  - matangi
+  - sri
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 नमामि वरदां देवीं सुमुखीं सर्वसिद्धिदाम् |

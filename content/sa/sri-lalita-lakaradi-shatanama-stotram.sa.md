@@ -2,7 +2,7 @@
 id: sri-lalita-lakaradi-shatanama-stotram.sa
 mantra_id: sri-lalita-lakaradi-shatanama-stotram
 language_code: sa
-title: "श्री ललिता लकारादि शतनाम स्तोत्रं"
+title: श्री ललिता लकारादि शतनाम स्तोत्रं
 deity_theme:
   - lalitha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - lakaradi
-    - lalita
-    - shatanama
-    - sri
-    - stotram
-  text: "Public Domain"
+keywords:
+  - lakaradi
+  - lalita
+  - shatanama
+  - sri
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ## पूर्वपीठिका
 कैलाशशिखरासीनं देवदेवं जगद्गुरुम् |

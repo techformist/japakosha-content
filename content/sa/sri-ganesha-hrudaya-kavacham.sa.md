@@ -2,7 +2,7 @@
 id: sri-ganesha-hrudaya-kavacham.sa
 mantra_id: sri-ganesha-hrudaya-kavacham
 language_code: sa
-title: "श्री गणेश हृदय कवचं"
+title: श्री गणेश हृदय कवचं
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - kavacham
-  keywords:
-    - ganesha
-    - hrudaya
-    - kavacham
-    - sri
-  text: "Public Domain"
+keywords:
+  - ganesha
+  - hrudaya
+  - kavacham
+  - sri
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 नमस्तस्मै गणेशाय सर्वविघ्नविनाशिने |
     कार्यारम्भेषु सर्वेषु पूजितो यः सुरैरपि || १ ||

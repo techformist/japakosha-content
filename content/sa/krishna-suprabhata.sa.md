@@ -9,22 +9,22 @@ deity_theme:
 purpose:
   - auspiciousness
   - devotion
-tradition: suprabhata
+tradition: stotra
 tags:
   content_type:
-    - suprabhata
-  keywords:
-    - krishna
+    - stotra
   occasion:
     - morning
+keywords:
+  - krishna
 source:
-  text: "Traditional Sri Vaishnava prayer"
-  citation: "Traditional Suprabhata literature"
-  license: public-domain
+  text: Traditional Sri Vaishnava prayer
+  citation: Traditional Suprabhata literature
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 कौसुम्भौर्भासुरसहस्रैर्मण्डलीकृतभास्करः ।
 प्रभाते करुणापूर्णः स कृष्णः केशवः प्रभुः ॥ १॥

@@ -12,16 +12,17 @@ tradition: upanishadic
 tags:
   content_type:
     - upanishad
-  keywords:
-    - ishavasya
-    - upanishad
-  text: "Public Domain"
+keywords:
+  - ishavasya
+  - upanishad
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
 पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥

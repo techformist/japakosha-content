@@ -2,7 +2,7 @@
 id: sri-dharma-sastha-stotram-by-sringeri-jagadguru.sa
 mantra_id: sri-dharma-sastha-stotram-by-sringeri-jagadguru
 language_code: sa
-title: "श्रीधर्मशास्त्रस्तोत्रम् (शृङ्गेरी जगद्गुरुविरचितम्)"
+title: श्रीधर्मशास्त्रस्तोत्रम् (शृङ्गेरी जगद्गुरुविरचितम्)
 deity_theme:
   - ayyappa
 purpose:
@@ -11,20 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - dharma
-    - jagadguru
-    - sastha
-    - sri
-    - sringeri
-    - stotram
-  text: "Public Domain"
+keywords:
+  - dharma
+  - jagadguru
+  - sastha
+  - sri
+  - sringeri
+  - stotram
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 जगत्प्रतिष्ठाहेतुर्यः धर्मः श्रुत्यन्तकीर्तितः |

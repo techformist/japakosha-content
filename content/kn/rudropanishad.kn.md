@@ -12,16 +12,17 @@ tradition: upanishadic
 tags:
   content_type:
     - stotra
-  keywords:
-    - rudropanishad
-    - ರುದ್ರೋಪನಿಷತ್
-  text: "Public Domain"
+keywords:
+  - rudropanishad
+  - ರುದ್ರೋಪನಿಷತ್
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ವಿಶ್ವಮಯೋ ಬ್ರಾಹ್ಮಣಃ ಶಿವಂ ವ್ರಜತಿ |
 ಬ್ರಾಹ್ಮಣಃ ಪಞ್ಚಾಕ್ಷರಮನುಭವತಿ |

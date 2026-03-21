@@ -2,7 +2,7 @@
 id: sundarakanda-sankalpam-dhyanam.sa
 mantra_id: sundarakanda-sankalpam-dhyanam
 language_code: sa
-title: "सुन्दरकाण्ड सङ्कल्पं, ध्यानं"
+title: 'सुन्दरकाण्ड सङ्कल्पं, ध्यानं'
 deity_theme:
   - hanuman
   - rama
@@ -13,18 +13,18 @@ tradition: puranic
 tags:
   content_type:
     - stotra
-  keywords:
-    - dhyanam
-    - sankalpam
-    - sundarakanda
+keywords:
+  - dhyanam
+  - sankalpam
+  - sundarakanda
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ## सङ्कल्पम्
 गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः |

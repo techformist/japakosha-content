@@ -2,7 +2,7 @@
 id: pippalada-krutha-sri-shani-stotram.kn
 mantra_id: pippalada-krutha-sri-shani-stotram
 language_code: kn
-title: "ಶ್ರೀ ಶನಿ ಸ್ತೋತ್ರಂ (ಪಿಪ್ಪಲಾದ ಕೃತಂ)"
+title: ಶ್ರೀ ಶನಿ ಸ್ತೋತ್ರಂ (ಪಿಪ್ಪಲಾದ ಕೃತಂ)
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - krutha
-    - pippalada
-    - shani
-    - sri
-    - stotram
-    - ಶ್ರೀ ಶನಿ ಸ್ತೋತ್ರಂ (ಪಿಪ್ಪಲಾದ ಕೃತಂ)
-  text: "Public Domain"
+keywords:
+  - krutha
+  - pippalada
+  - shani
+  - sri
+  - stotram
+  - ಶ್ರೀ ಶನಿ ಸ್ತೋತ್ರಂ (ಪಿಪ್ಪಲಾದ ಕೃತಂ)
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮೋಽಸ್ತು ಕೋಣಸಂಸ್ಥಾಯ ಪಿಂಗಳಾಯ ನಮೋಽಸ್ತು ತೇ |
     ಕ್ರೋಧನಾಯ ಕೃಷ್ಣಾಯ ನಮಸ್ತೇ ಬಭ್ರುರೂಪಾಯ ಕೃಷ್ಣಾಯ ಚ ನಮೋಽಸ್ತು ತೇ || ೧ ||

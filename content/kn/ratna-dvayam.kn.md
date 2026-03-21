@@ -11,17 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - dvayam
-    - ratna
-    - ರತ್ನದ್ವಯಂ
-  text: "Public Domain"
+keywords:
+  - dvayam
+  - ratna
+  - ರತ್ನದ್ವಯಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನ ಮೇಽಸ್ತಿ ದೇಹೇಂದ್ರಿಯಬುದ್ಧಿಯೋಗೋ  
 ನ ಪುಣ್ಯಲೇಶೋಽಪಿ ನ ಪಾಪಲೇಶಃ |  

@@ -3,23 +3,26 @@ id: sri-datta-nakshatra-malika.sa
 mantra_id: sri-datta-nakshatra-malika
 language_code: sa
 title: श्रीदत्तनक्षत्रमालिका
-deity_theme: "[\"dattatreya\"]"
-purpose: "[\"devotion\"]"
+deity_theme:
+  - dattatreya
+purpose:
+  - devotion
 tradition: stotra
 tags:
-  content_type:
-  keywords:
-    - datta
-    - malika
-    - nakshatra
-    - sri
-  text: "Public Domain"
+  content_type: []
+keywords:
+  - datta
+  - malika
+  - nakshatra
+  - sri
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 गोदावर्या महानद्या उत्तरे सिंहपर्वते |

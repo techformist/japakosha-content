@@ -2,27 +2,28 @@
 id: manu-krutha-surya-stuti.sa
 mantra_id: manu-krutha-surya-stuti
 language_code: sa
-title: "श्री सूर्य स्तुतिः (मनु कृतं)"
+title: श्री सूर्य स्तुतिः (मनु कृतं)
 deity_theme:
   - surya
 purpose:
   - auspiciousness
-tradition: stuti
+tradition: stotra
 tags:
   content_type:
     - stuti
-  keywords:
-    - krutha
-    - manu
-    - stuti
-    - surya
-  text: "Public Domain"
+keywords:
+  - krutha
+  - manu
+  - stuti
+  - surya
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 मनुरुवाच |
     नमो नमो वरेण्याय वरदायाऽंशुमालिने |

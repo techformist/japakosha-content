@@ -2,7 +2,7 @@
 id: sundarakanda-sarga-chapter-45.sa
 mantra_id: sundarakanda-sarga-chapter-45
 language_code: sa
-title: "सुन्दरकाण्ड पञ्चचत्वारिंशः सर्गः (४५)"
+title: सुन्दरकाण्ड पञ्चचत्वारिंशः सर्गः (४५)
 deity_theme:
   - rama
 purpose:
@@ -12,18 +12,18 @@ tradition: puranic
 tags:
   content_type:
     - stotra
-  keywords:
-    - chapter
-    - sarga
-    - sundarakanda
+keywords:
+  - chapter
+  - sarga
+  - sundarakanda
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 || अमात्यपुत्रवधः ||
 ततस्ते राक्षसेन्द्रेण चोदिता मन्त्रिणां सुताः |

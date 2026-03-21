@@ -2,7 +2,7 @@
 id: gajendra-moksha-srimad-bhagavatam-part-3.sa
 mantra_id: gajendra-moksha-srimad-bhagavatam-part-3
 language_code: sa
-title: "गजेन्द्रमोक्षः (श्रीमद्भागवतम्) ३"
+title: गजेन्द्रमोक्षः (श्रीमद्भागवतम्) ३
 deity_theme:
   - vishnu
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - gajendra
-    - moksha
-    - part
-    - srimad bhagavatam
-  text: "Public Domain"
+keywords:
+  - gajendra
+  - moksha
+  - part
+  - srimad bhagavatam
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 श्रीशुक उवाच –
 तदा देवर्षिगन्धर्वा ब्रह्मेशानपुरोगमाः |
@@ -49,7 +50,7 @@ updated_at: "2026-02-15T07:06:28.137Z"
 स एकदाऽऽराधनकाल आत्मवान् |
     गृहीतमौनव्रतमीश्वरं हरिम् |
     जटाधरस्तापस आप्लुतोऽच्युत-
-\-स्तमर्चयामास कुलाचलाश्रमः || ८ ||
+स्तमर्चयामास कुलाचलाश्रमः || ८ ||
 
 यदृच्छया तत्र महायशा मुनिः |
     समागमच्छिष्यगणैः परिश्रितः |
@@ -57,7 +58,7 @@ updated_at: "2026-02-15T07:06:28.137Z"
     रहस्युपासीनमृषिचुकोप ह || ९ ||
 
 तस्मा इमं शापमदादसाधु-
-\-रयं दुरात्माऽकृतबुद्धिरत्र |
+रयं दुरात्माऽकृतबुद्धिरत्र |
     विप्रावमन्ता विशतां तमिस्रं |
     यथा गजः स्तब्धमतिः स एव || १० ||
 
@@ -69,7 +70,7 @@ updated_at: "2026-02-15T07:06:28.137Z"
     हर्यर्चनानुभावेन यद्गजत्वेऽप्यनुस्मृतिः || १२ ||
 
 एवं विमोक्ष्य गजयूथपमब्जनाभ-
-\-स्तेनापि पारिषदतां गमितेन युक्तः |
+स्तेनापि पारिषदतां गमितेन युक्तः |
     गन्धर्वसिद्धविबुधैरनुगीयमान
 कर्माऽद्भुतं स्वभुवनं गरुडासनोऽगात् || १३ ||
 

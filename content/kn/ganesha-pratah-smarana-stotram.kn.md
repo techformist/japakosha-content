@@ -2,7 +2,7 @@
 id: ganesha-pratah-smarana-stotram.kn
 mantra_id: ganesha-pratah-smarana-stotram
 language_code: kn
-title: "ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ"
+title: ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganesha
-    - pratah
-    - smarana
-    - stotram
-    - ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ
-  text: "Public Domain"
+keywords:
+  - ganesha
+  - pratah
+  - smarana
+  - stotram
+  - ಶ್ರೀ ಗಣೇಶ ಪ್ರಾತಃಸ್ಮರಣಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಪ್ರಾತಃ ಸ್ಮರಾಮಿ ಗಣನಾಥಮನಾಥಬಂಧುಂ  
 ಸಿಂದೂರಪೂರಪರಿಶೋಭಿತಗಂಡಯುಗ್ಮಮ್ |  

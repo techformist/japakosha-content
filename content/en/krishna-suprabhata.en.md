@@ -2,29 +2,29 @@
 id: krishna-suprabhata.en
 mantra_id: krishna-suprabhata
 language_code: en
-title: "Sri Krishna Suprabhatam"
+title: Sri Krishna Suprabhatam
 deity_theme:
   - krishna
   - vishnu
 purpose:
   - auspiciousness
   - devotion
-tradition: suprabhata
+tradition: stotra
 tags:
   content_type:
-    - suprabhata
-  keywords:
-    - krishna
+    - stotra
   occasion:
     - morning
+keywords:
+  - krishna
 source:
-  text: "Traditional Sri Vaishnava prayer"
-  citation: "Traditional Suprabhata literature"
-  license: public-domain
+  text: Traditional Sri Vaishnava prayer
+  citation: Traditional Suprabhata literature
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 kaurusumbhaur-bhāsura-sahasraiḥ-maṇḍalī-kṛta-bhāskaraḥ |
 prabhāte karuṇā-pūrṇaḥ sa kṛṣṇaḥ keśavaḥ prabhuḥ || 1 ||

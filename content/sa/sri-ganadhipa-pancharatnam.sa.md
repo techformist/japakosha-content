@@ -11,17 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - pancharatnam
-  keywords:
-    - ganadhipa
-    - pancharatnam
-    - sri
-  text: "Public Domain"
+keywords:
+  - ganadhipa
+  - pancharatnam
+  - sri
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 सरागिलोकदुर्लभं विरागिलोकपूजितम् |

@@ -2,7 +2,7 @@
 id: santana-ganapati-stotram.kn
 mantra_id: santana-ganapati-stotram
 language_code: kn
-title: "ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ"
+title: ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganapati
-    - santana
-    - stotram
-    - ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
-  text: "Public Domain"
+keywords:
+  - ganapati
+  - santana
+  - stotram
+  - ಸಂತಾನ ಗಣಪತಿ ಸ್ತೋತ್ರಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮೋಽಸ್ತು ಗಣನಾಥಾಯ ಸಿದ್ಧಿಬುದ್ಧಿಯುತಾಯ ಚ |  
     ಸರ್ವಪ್ರದಾಯ ದೇವಾಯ ಪುತ್ರವೃದ್ಧಿಪ್ರದಾಯ ಚ || ೧ ||

@@ -2,7 +2,7 @@
 id: brahma-krutha-surya-stuti.sa
 mantra_id: brahma-krutha-surya-stuti
 language_code: sa
-title: "ब्रह्मकृत सूर्यस्तुतिः"
+title: ब्रह्मकृत सूर्यस्तुतिः
 deity_theme:
   - surya
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-  keywords:
-    - brahma
-    - krutha
-    - stuti
-    - surya
-    - ब्रह्मकृत सूर्यस्तुतिः
-  text: "Public Domain"
+keywords:
+  - brahma
+  - krutha
+  - stuti
+  - surya
+  - ब्रह्मकृत सूर्यस्तुतिः
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 # ब्रह्मकृत सूर्यस्तुतिः

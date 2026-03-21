@@ -1,30 +1,31 @@
-﻿---
+---
 id: sri-nrusimha-bhujanga-prayata-stava.kn
 mantra_id: sri-nrusimha-bhujanga-prayata-stava
 language_code: kn
-title: "ಶ್ರೀ ನೃಸಿಂಹ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತವಃ"
+title: ಶ್ರೀ ನೃಸಿಂಹ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತವಃ
 deity_theme:
   - narasimha
 purpose:
   - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - sri
-    - nrusimha
-    - bhujanga
-    - prayata
-    - stava
-    - ಶ್ರೀ ನೃಸಿಂಹ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತವಃsource:
-  text: "Public Domain"
+keywords:
+  - sri
+  - nrusimha
+  - bhujanga
+  - prayata
+  - stava
+  - ಶ್ರೀ ನೃಸಿಂಹ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತವಃ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಋತಂ ಕರ್ತುಮೇವಾಶು ನಮ್ರಸ್ಯ ವಾಕ್ಯಂ  

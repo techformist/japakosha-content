@@ -2,7 +2,7 @@
 id: narada-kruta-ganapati-stotram.sa
 mantra_id: narada-kruta-ganapati-stotram
 language_code: sa
-title: "श्री गणपति स्तोत्रं (नारद कृतं)"
+title: श्री गणपति स्तोत्रं (नारद कृतं)
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganapati
-    - kruta
-    - narada
-    - stotram
-  text: "Public Domain"
+keywords:
+  - ganapati
+  - kruta
+  - narada
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 नारद उवाच |
 भो गणेश सुरश्रेष्ठ लम्बोदर परात्पर |

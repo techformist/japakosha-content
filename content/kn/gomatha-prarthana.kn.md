@@ -1,8 +1,8 @@
-﻿---
+---
 id: gomatha-prarthana.kn
 mantra_id: gomatha-prarthana
 language_code: kn
-title: "ಗೋಮಾತ ಪ್ರಾರ್ಥನ"
+title: ಗೋಮಾತ ಪ್ರಾರ್ಥನ
 deity_theme:
   - universal
 purpose:
@@ -10,19 +10,20 @@ purpose:
   - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - gomatha
-    - prarthana
-    - ಗೋಮಾತ ಪ್ರಾರ್ಥನsource:
-  text: "Public Domain"
+keywords:
+  - gomatha
+  - prarthana
+  - ಗೋಮಾತ ಪ್ರಾರ್ಥನ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ನಮೋ ಬ್ರಹ್ಮಣ್ಯದೇವಾಯ ಗೋ ಬ್ರಾಹ್ಮಣ ಹಿತಾಯ ಚ |  

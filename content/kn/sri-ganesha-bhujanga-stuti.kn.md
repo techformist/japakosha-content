@@ -2,7 +2,7 @@
 id: sri-ganesha-bhujanga-stuti.kn
 mantra_id: sri-ganesha-bhujanga-stuti
 language_code: kn
-title: "ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗ ಸ್ತುತಿಃ"
+title: ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗ ಸ್ತುತಿಃ
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-  keywords:
-    - bhujanga
-    - ganesha
-    - sri
-    - stuti
-    - ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗ ಸ್ತುತಿಃ
-  text: "Public Domain"
+keywords:
+  - bhujanga
+  - ganesha
+  - sri
+  - stuti
+  - ಶ್ರೀ ಗಣೇಶ ಭುಜಂಗ ಸ್ತುತಿಃ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರಿಯಃ ಕಾರ್ಯಸಿದ್ಧೇರ್ಧಿಯಃ ಸತ್ಸುಖರ್ಧೇಃ  
 ಪತಿಂ ಸಜ್ಜನಾನಾಂ ಗತಿಂ ದೇವತಾನಾಮ್ |  

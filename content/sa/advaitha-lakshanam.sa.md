@@ -12,17 +12,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - advaitha
-    - lakshanam
-    - अद्वैतलक्षणं
-  text: "Public Domain"
+keywords:
+  - advaitha
+  - lakshanam
+  - अद्वैतलक्षणं
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 
 अज्ञानमेतद्द्वैताख्यमद्वैतं श्रेयसां परम् ।

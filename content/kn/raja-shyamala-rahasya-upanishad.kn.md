@@ -1,33 +1,34 @@
-﻿---
+---
 id: raja-shyamala-rahasya-upanishad.kn
 mantra_id: raja-shyamala-rahasya-upanishad
 language_code: kn
-title: "ರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷತ್"
+title: ರಾಜಶ್ಯಾಮಲಾ ರಹಸ್ಯೋಪನಿಷತ್
 deity_theme:
-  - devi
+  - universal
 purpose:
   - liberation
   - wisdom
 tradition: upanishadic
 tags:
-  content_type: 
+  content_type:
     - upanishad
-  keywords:
-    - raja
-    - shyamala
-    - rahasya
-    - upanishad
-    - ರಾಜಶ್ಯಾಮಲಾ
-    - ರಹಸ್ಯೋಪನಿಷತ್
-    - ದೇವಿ
-    - ಶ್ಯಾಮಲಾsource:
-  text: "Public Domain"
+keywords:
+  - raja
+  - shyamala
+  - rahasya
+  - upanishad
+  - ರಾಜಶ್ಯಾಮಲಾ
+  - ರಹಸ್ಯೋಪನಿಷತ್
+  - ದೇವಿ
+  - ಶ್ಯಾಮಲಾ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 
 ಓಂ ಸ್ವಸ್ತಿ ನ ಇಂದ್ರೋ ವೃದ್ಧಶ್ರವಾಃ  

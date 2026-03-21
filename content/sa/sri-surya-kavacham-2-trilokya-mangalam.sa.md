@@ -2,7 +2,7 @@
 id: sri-surya-kavacham-2-trilokya-mangalam.sa
 mantra_id: sri-surya-kavacham-2-trilokya-mangalam
 language_code: sa
-title: "श्री सूर्य कवचम् २ (त्रैलोक्यमंगलम्)"
+title: श्री सूर्य कवचम् २ (त्रैलोक्यमंगलम्)
 deity_theme:
   - surya
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - kavacham
-  keywords:
-    - kavacham
-    - mangalam
-    - sri
-    - surya
-    - trilokya
-  text: "Public Domain"
+keywords:
+  - kavacham
+  - mangalam
+  - sri
+  - surya
+  - trilokya
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 श्रीसूर्य उवाच |
 साम्ब साम्ब महाबाहो शृणु मे कवचं शुभम् |

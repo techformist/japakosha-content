@@ -12,18 +12,19 @@ tradition: upanishadic
 tags:
   content_type:
     - upanishad
-  keywords:
-    - brahma
-    - pancha
-    - upanishad
-    - ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್
-  text: "Public Domain"
+keywords:
+  - brahma
+  - pancha
+  - upanishad
+  - ಪಂಚಬ್ರಹ್ಮೋಪನಿಷತ್
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಸಹ ನಾವವತು |
 ಸಹ ನೌ ಭುನಕ್ತು

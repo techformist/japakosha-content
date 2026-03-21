@@ -2,7 +2,7 @@
 id: sri-chandra-stotram-4.kn
 mantra_id: sri-chandra-stotram-4
 language_code: kn
-title: "ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೪"
+title: ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೪
 deity_theme:
   - navagraha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - chandra
-    - sri
-    - stotram
-    - ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೪
-  text: "Public Domain"
+keywords:
+  - chandra
+  - sri
+  - stotram
+  - ಶ್ರೀ ಚಂದ್ರ ಸ್ತೋತ್ರಂ ೪
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಧ್ಯಾನಮ್ –  
 ಶ್ವೇತಾಂಬರಾನ್ವಿತವಪುರ್ವರಶುಭ್ರವರ್ಣಂ  

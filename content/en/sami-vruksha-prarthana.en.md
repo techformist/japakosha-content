@@ -3,16 +3,19 @@ id: sami-vruksha-prarthana.en
 mantra_id: sami-vruksha-prarthana
 language_code: en
 title: "Shami Tree Prayer"
-deity_theme: "[\\"universal\\"]"
-purpose: "[\\"devotion\\"]"
+deity_theme:
+  - universal
+purpose:
+  - devotion
 tradition: stotra
 tags:
   content_type:
-  keywords:
-    - "prarthana"
-    - "sami"
-    - "shami tree prayer"
-    - "vruksha"
+    - stotra
+keywords:
+  - prarthana
+  - sami
+  - shami tree prayer
+  - vruksha
 source:
   text: "Public Domain"
   citation: null
@@ -22,6 +25,7 @@ phonetic: null
 created_at: "2026-02-15T07:06:28.137Z"
 updated_at: "2026-02-15T07:06:28.137Z"
 ---
+
 shamii shamaya te paapam shamii shatru vinaashinii |
 arjunasya dhanurdhaarii raamasya priyadarshinii || 1 ||
 

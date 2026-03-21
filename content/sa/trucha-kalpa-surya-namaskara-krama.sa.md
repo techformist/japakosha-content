@@ -2,7 +2,7 @@
 id: trucha-kalpa-surya-namaskara-krama.sa
 mantra_id: trucha-kalpa-surya-namaskara-krama
 language_code: sa
-title: "तृचाकल्प सूर्य नमस्कार क्रमः"
+title: तृचाकल्प सूर्य नमस्कार क्रमः
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - kalpa
-    - krama
-    - namaskara
-    - surya
-    - trucha
+keywords:
+  - kalpa
+  - krama
+  - namaskara
+  - surya
+  - trucha
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 आचम्य । प्राणानायम्य । देशकालौ संकीर्त्य । गणपति पूजां कृत्वा ।
 ## संकल्पः

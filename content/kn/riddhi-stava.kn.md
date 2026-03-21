@@ -2,7 +2,7 @@
 id: riddhi-stava.kn
 mantra_id: riddhi-stava
 language_code: kn
-title: "ಋದ್ಧಿ ಸ್ತವಃ"
+title: ಋದ್ಧಿ ಸ್ತವಃ
 deity_theme:
   - venkateshwara
 purpose:
@@ -11,17 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - riddhi
-    - stava
-    - ಋದ್ಧಿ ಸ್ತವಃ
-  text: "Public Domain"
+keywords:
+  - riddhi
+  - stava
+  - ಋದ್ಧಿ ಸ್ತವಃ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀಮನ್ವೃಷಭಶೈಲೇಶ ವರ್ಧತಾಂ ವಿಜಯೀ ಭವಾನ್ |  
     ದಿವ್ಯಂ ತ್ವದೀಯಮೈಶ್ವರ್ಯಂ ನಿರ್ಮರ್ಯಾದಂ ವಿಜೃಂಭತಾಮ್ || ೧ ||

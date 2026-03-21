@@ -2,7 +2,7 @@
 id: sri-gayatri-shapa-vimochanam.sa
 mantra_id: sri-gayatri-shapa-vimochanam
 language_code: sa
-title: "श्री गायत्री शापविमोचनं"
+title: श्री गायत्री शापविमोचनं
 deity_theme:
   - surya
   - universal
@@ -12,18 +12,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - gayatri
-    - shapa
-    - sri
-    - vimochanam
-  text: "Public Domain"
+keywords:
+  - gayatri
+  - shapa
+  - sri
+  - vimochanam
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 १. ब्रह्म शापविमोचनं –
 अस्य श्रीब्रह्मशापविमोचन मन्त्रस्य निग्रहानुग्रहकर्ता प्रजापतिरृषिः, कामधुगायत्री छन्दः, भुक्तिमुक्तिप्रदा ब्रह्मशापविमोचनी गायत्रीशक्तिः, सविता देवता, ब्रह्मशापविमोचनार्थे जपे विनियोगः |

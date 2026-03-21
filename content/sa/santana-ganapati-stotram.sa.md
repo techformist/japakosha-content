@@ -2,7 +2,7 @@
 id: santana-ganapati-stotram.sa
 mantra_id: santana-ganapati-stotram
 language_code: sa
-title: "सन्तान गणपति स्तोत्रं"
+title: सन्तान गणपति स्तोत्रं
 deity_theme:
   - ganesha
 purpose:
@@ -11,17 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganapati
-    - santana
-    - stotram
-  text: "Public Domain"
+keywords:
+  - ganapati
+  - santana
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 नमोऽस्तु गणनाथाय सिद्धिबुद्धियुताय च |
 सर्वप्रदाय देवाय पुत्रवृद्धिप्रदाय च || १ ||

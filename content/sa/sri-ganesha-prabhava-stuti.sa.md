@@ -2,7 +2,7 @@
 id: sri-ganesha-prabhava-stuti.sa
 mantra_id: sri-ganesha-prabhava-stuti
 language_code: sa
-title: "श्री गणेश मन्त्रप्रभाव स्तुतिः"
+title: श्री गणेश मन्त्रप्रभाव स्तुतिः
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-  keywords:
-    - ganesha
-    - mantra
-    - prabhava
-    - sri
-    - stuti
-  text: "Public Domain"
+keywords:
+  - ganesha
+  - mantra
+  - prabhava
+  - sri
+  - stuti
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ओमित्यादौ वेदविदो यं प्रवदन्ति
 ब्रह्माद्या यं लोकविधाने प्रणमन्ति |

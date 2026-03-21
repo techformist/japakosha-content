@@ -2,7 +2,7 @@
 id: kundalini-stotram.sa
 mantra_id: kundalini-stotram
 language_code: sa
-title: "कुण्डलिनी स्तोत्रम्"
+title: कुण्डलिनी स्तोत्रम्
 deity_theme:
   - universal
 purpose:
@@ -12,16 +12,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - kundalini
-    - stotram
-  text: "Public Domain"
+keywords:
+  - kundalini
+  - stotram
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 नमस्ते देवदेवेशि योगीशप्राणवल्लभे |
     सिद्धिदे वरदे मातः स्वयम्भूलिंगवेष्टिते || १ ||

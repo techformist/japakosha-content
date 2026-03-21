@@ -4,28 +4,27 @@ mantra_id: durga-suprabhata
 language_code: sa
 title: श्रीदुर्गासुप्रभातम्
 deity_theme:
-  - durga
   - devi
 purpose:
   - auspiciousness
   - devotion
-tradition: suprabhata
+tradition: stotra
 tags:
   content_type:
-    - suprabhata
-  keywords:
-    - devi
-    - durga
+    - stotra
   occasion:
     - morning
+keywords:
+  - devi
+  - durga
 source:
-  text: "Sage Kushika (Kaushika)"
-  citation: "Traditional Suprabhata literature"
-  license: public-domain
+  text: Sage Kushika (Kaushika)
+  citation: Traditional Suprabhata literature
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 ॥ श्रीदुर्गायै नमः ॥
 

@@ -2,7 +2,7 @@
 id: sri-ayyappa-sharanu-gosha-1.sa
 mantra_id: sri-ayyappa-sharanu-gosha-1
 language_code: sa
-title: "श्री अय्यप्प शरणुघोष १"
+title: श्री अय्यप्प शरणुघोष १
 deity_theme:
   - ayyappa
 purpose:
@@ -12,18 +12,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ayyappa
-    - gosha
-    - sharanu
-    - sri
-  text: "Public Domain"
+keywords:
+  - ayyappa
+  - gosha
+  - sharanu
+  - sri
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ श्रीस्वामिये शरणं अय्यप्प |
 हरिहरसुतने |

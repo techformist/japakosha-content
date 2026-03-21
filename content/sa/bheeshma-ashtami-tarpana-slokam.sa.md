@@ -2,7 +2,7 @@
 id: bheeshma-ashtami-tarpana-slokam.sa
 mantra_id: bheeshma-ashtami-tarpana-slokam
 language_code: sa
-title: "भीष्माष्टमी तर्पण स्लोकम्"
+title: भीष्माष्टमी तर्पण स्लोकम्
 deity_theme:
   - universal
 purpose:
@@ -12,20 +12,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ashtami
-    - bheeshma
-    - bhishma
-    - slokam
-    - tarpana
-    - भीष्माष्टमी तर्पण स्लोकम्
-  text: "Public Domain"
+keywords:
+  - ashtami
+  - bheeshma
+  - bhishma
+  - slokam
+  - tarpana
+  - भीष्माष्टमी तर्पण स्लोकम्
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 वैयाघ्रपादगोत्राय सांकृत्यप्रवराय च |

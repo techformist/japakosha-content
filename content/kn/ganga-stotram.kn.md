@@ -1,27 +1,28 @@
-﻿---
+---
 id: ganga-stotram.kn
 mantra_id: ganga-stotram
 language_code: kn
-title: "ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂ"
+title: ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂ
 deity_theme:
   - universal
 purpose:
   - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - ganga
-    - stotram
-    - ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂsource:
-  text: "Public Domain"
+keywords:
+  - ganga
+  - stotram
+  - ಶ್ರೀ ಗಂಗಾ ಸ್ತೋತ್ರಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ದೇವಿ ಸುರೇಶ್ವರಿ ಭಗವತಿ ಗಂಗೇ

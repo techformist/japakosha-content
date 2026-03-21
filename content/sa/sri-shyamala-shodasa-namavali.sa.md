@@ -2,7 +2,7 @@
 id: sri-shyamala-shodasa-namavali.sa
 mantra_id: sri-shyamala-shodasa-namavali
 language_code: sa
-title: "श्री श्यामला षोडशनामावलिः"
+title: श्री श्यामला षोडशनामावलिः
 deity_theme:
   - devi
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - namavali
-    - shodasa
-    - shyamala
-    - sri
-  text: "Public Domain"
+keywords:
+  - namavali
+  - shodasa
+  - shyamala
+  - sri
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ संगीतयोगिन्यै नमः
 ॐ श्यामायै नमः

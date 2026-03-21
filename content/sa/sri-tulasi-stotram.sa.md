@@ -2,7 +2,7 @@
 id: sri-tulasi-stotram.sa
 mantra_id: sri-tulasi-stotram
 language_code: sa
-title: "श्री तुलसी स्तोत्रम्"
+title: श्री तुलसी स्तोत्रम्
 deity_theme:
   - universal
 purpose:
@@ -11,17 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - sri
-    - stotram
-    - tulasi
-  text: "Public Domain"
+keywords:
+  - sri
+  - stotram
+  - tulasi
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 जगद्धात्रि नमस्तुभ्यं विष्णोश्च प्रियवल्लभे |
 यतो ब्रह्मादयो देवाः सृष्टिस्थित्यंतकारिणः |

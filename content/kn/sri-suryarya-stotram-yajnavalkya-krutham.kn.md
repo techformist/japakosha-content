@@ -2,7 +2,7 @@
 id: sri-suryarya-stotram-yajnavalkya-krutham.kn
 mantra_id: sri-suryarya-stotram-yajnavalkya-krutham
 language_code: kn
-title: "ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)"
+title: ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ (ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ)
 deity_theme:
   - navagraha
 purpose:
@@ -11,21 +11,22 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - krutham
-    - sri
-    - stotram
-    - suryarya
-    - yajnavalkya
-    - ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ
-    - ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ
-  text: "Public Domain"
+keywords:
+  - krutham
+  - sri
+  - stotram
+  - suryarya
+  - yajnavalkya
+  - ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತಂ
+  - ಶ್ರೀ ಸೂರ್ಯಾರ್ಯಾ ಸ್ತೋತ್ರಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶುಕತುಂಡಚ್ಛವಿಸವಿತುಶ್ಚಂಡರುಚೇಃ ಪುಂಡರೀಕವನಬಂಧೋಃ |
     ಮಂಡಲಮುದಿತಂ ವಂದೇ ಕುಂಡಲಮಾಖಂಡಲಾಶ್ರಯಾಯ || ೧ ||

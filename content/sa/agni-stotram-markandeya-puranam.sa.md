@@ -2,7 +2,7 @@
 id: agni-stotram-markandeya-puranam.sa
 mantra_id: agni-stotram-markandeya-puranam
 language_code: sa
-title: "अग्नि स्तोत्रं"
+title: अग्नि स्तोत्रं
 deity_theme:
   - universal
 purpose:
@@ -11,21 +11,22 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - agni
-    - markandeya
-    - puranam
-    - stotram
-    - अग्नि स्तोत्रं
-    - पुराणम्
-    - मार्कण्डेय
-  text: "Public Domain"
+keywords:
+  - agni
+  - markandeya
+  - puranam
+  - stotram
+  - अग्नि स्तोत्रं
+  - पुराणम्
+  - मार्कण्डेय
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 
 शान्तिरुवाच |

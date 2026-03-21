@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-  keywords:
-    - ashcharya
-    - ashtottara
-    - devi
-    - shatanamavali
-    - vaibhava
-  text: "Public Domain"
+keywords:
+  - ashcharya
+  - ashtottara
+  - devi
+  - shatanamavali
+  - vaibhava
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ परमानन्दलहर्यै नमः |
     ॐ परचैतन्यदीपिकायै नमः |

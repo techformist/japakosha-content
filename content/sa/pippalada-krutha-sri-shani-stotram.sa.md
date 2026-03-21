@@ -2,7 +2,7 @@
 id: pippalada-krutha-sri-shani-stotram.sa
 mantra_id: pippalada-krutha-sri-shani-stotram
 language_code: sa
-title: "श्री शनि स्तोत्रं (पिप्पलाद कृतं)"
+title: श्री शनि स्तोत्रं (पिप्पलाद कृतं)
 deity_theme:
   - navagraha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - krutha
-    - pippalada
-    - shani
-    - sri
-    - stotram
-  text: "Public Domain"
+keywords:
+  - krutha
+  - pippalada
+  - shani
+  - sri
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 नमोऽस्तु कोणसंस्थाय पिंगळाय नमोऽस्तु ते |
 नमस्ते बभ्रूरूपाय कृष्णाय च नमोऽस्तु ते || १ ||

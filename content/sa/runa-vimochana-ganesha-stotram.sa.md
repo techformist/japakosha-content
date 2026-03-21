@@ -2,7 +2,7 @@
 id: runa-vimochana-ganesha-stotram.sa
 mantra_id: runa-vimochana-ganesha-stotram
 language_code: sa
-title: "श्री ऋणविमोचन महागणपति स्तोत्रं"
+title: श्री ऋणविमोचन महागणपति स्तोत्रं
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganapati
-    - ganesha
-    - runa
-    - stotram
-    - vimochana
-  text: "Public Domain"
+keywords:
+  - ganapati
+  - ganesha
+  - runa
+  - stotram
+  - vimochana
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 स्मरामि देवदेवेशं वक्रतुण्डं महाबलम् |
 षडक्षरं कृपासिन्धुं नमामि ऋणमुक्तये || १ ||

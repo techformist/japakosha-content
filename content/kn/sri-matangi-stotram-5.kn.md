@@ -11,18 +11,19 @@ tradition: tantric
 tags:
   content_type:
     - stotra
-  keywords:
-    - matangi
-    - sri
-    - stotram
-    - ೫
-  text: "Public Domain"
+keywords:
+  - matangi
+  - sri
+  - stotram
+  - ೫
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ನಮಾಮಿ ದೇವೀಂ ನವಚಂದ್ರಮೌಳಿಂ  
 ಮಾತಂಗಿನೀಂ ಚಂದ್ರಕಳಾವತಂಸಾಮ್ |  

@@ -2,7 +2,7 @@
 id: triveni-stotram.sa
 mantra_id: triveni-stotram
 language_code: sa
-title: "त्रिवेणी स्तोत्रम्"
+title: त्रिवेणी स्तोत्रम्
 deity_theme:
   - universal
 purpose:
@@ -12,16 +12,16 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - triveni
+keywords:
+  - triveni
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 मुक्तामयालङ्कृतमुद्रवेणी भक्ताभयत्राणसुबद्धवेणी ।

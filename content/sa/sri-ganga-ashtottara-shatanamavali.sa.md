@@ -2,7 +2,7 @@
 id: sri-ganga-ashtottara-shatanamavali.sa
 mantra_id: sri-ganga-ashtottara-shatanamavali
 language_code: sa
-title: "श्री गङ्गाष्टोत्तरशतनामावलिः"
+title: श्री गङ्गाष्टोत्तरशतनामावलिः
 deity_theme:
   - universal
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-  keywords:
-    - ashtottara
-    - ganga
-    - shatanamavali
-    - sri
-  text: "Public Domain"
+keywords:
+  - ashtottara
+  - ganga
+  - shatanamavali
+  - sri
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ गङ्गायै नमः |
     ॐ विष्णुपादसम्भूतायै नमः |

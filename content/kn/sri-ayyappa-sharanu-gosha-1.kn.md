@@ -2,7 +2,7 @@
 id: sri-ayyappa-sharanu-gosha-1.kn
 mantra_id: sri-ayyappa-sharanu-gosha-1
 language_code: kn
-title: "ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1"
+title: ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1
 deity_theme:
   - ayyappa
 purpose:
@@ -12,19 +12,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ayyappa
-    - gosha
-    - sharanu
-    - sri
-    - ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1
-  text: "Public Domain"
+keywords:
+  - ayyappa
+  - gosha
+  - sharanu
+  - sri
+  - ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಶರಣುಘೋಷ 1
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಶ್ರೀಸ್ವಾಮಿಯೇ ಶರಣಂ ಅಯ್ಯಪ್ಪ |  
     ಹರಿಹರಸುತನೇ |  

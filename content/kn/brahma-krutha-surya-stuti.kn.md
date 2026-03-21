@@ -2,7 +2,7 @@
 id: brahma-krutha-surya-stuti.kn
 mantra_id: brahma-krutha-surya-stuti
 language_code: kn
-title: "ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)"
+title: ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)
 deity_theme:
   - surya
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-  keywords:
-    - brahma
-    - krutha
-    - stuti
-    - surya
-    - ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)
-  text: "Public Domain"
+keywords:
+  - brahma
+  - krutha
+  - stuti
+  - surya
+  - ಶ್ರೀ ಸೂರ್ಯ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮ ಕೃತಂ)
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಬ್ರಹ್ಮೋವಾಚ |  
     ಆದಿದೇವೋಽಸಿ ದೇವಾನಾಮೈಶ್ವರ್ಯಾಚ್ಚ ತ್ವಮೀಶ್ವರಃ |  

@@ -1,32 +1,33 @@
-﻿---
+---
 id: manidweepa-varnanam-devi-bhagavatam-part-2.kn
 mantra_id: manidweepa-varnanam-devi-bhagavatam-part-2
 language_code: kn
-title: "ಮಣಿದ್ವೀಪ ವರ್ಣನಂ - ದೇವೀ ಭಾಗವತಂ ಭಾಗ ೨"
+title: ಮಣಿದ್ವೀಪ ವರ್ಣನಂ - ದೇವೀ ಭಾಗವತಂ ಭಾಗ ೨
 deity_theme:
   - devi
 purpose:
-  - liberation
+  - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - manidweepa
-    - varnanam
-    - devi bhagavatam
-    - ಮಣಿದ್ವೀಪ
-    - ದೇವೀಭಾಗವತ
-    - ಮಾರ್ಕಂಡೇಯ
-    - ದೇವಿ
-    - ಶಕ್ತಿsource:
-  text: "Public Domain"
-  citation: "ದೇವೀ ಭಾಗವತ ಮೂಲಮ್"
+keywords:
+  - manidweepa
+  - varnanam
+  - devi bhagavatam
+  - ಮಣಿದ್ವೀಪ
+  - ದೇವೀಭಾಗವತ
+  - ಮಾರ್ಕಂಡೇಯ
+  - ದೇವಿ
+  - ಶಕ್ತಿ
+source:
+  text: Public Domain
+  citation: ದೇವೀ ಭಾಗವತ ಮೂಲಮ್
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 
 ವ್ಯಾಸ ಉವಾಚ |  

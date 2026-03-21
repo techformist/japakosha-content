@@ -12,17 +12,18 @@ tradition: upanishadic
 tags:
   content_type:
     - upanishad
-  keywords:
-    - surya
-    - upanishad
-    - ಸೂರ್ಯೋಪನಿಷತ್
-  text: "Public Domain"
+keywords:
+  - surya
+  - upanishad
+  - ಸೂರ್ಯೋಪನಿಷತ್
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಭ॒ದ್ರಂ ಕರ್ಣೇ॑ಭಿಃ ಶೃಣು॒ಯಾಮ॑ ದೇವಾಃ । ಭ॒ದ್ರಂ ಪ॑ಶ್ಯೇಮಾ॒ಕ್ಷಭಿ॒ರ್ಯಜ॑ತ್ರಾಃ । ಸ್ಥಿ॒ರೈರಙ್ಗೈ᳚ಸ್ತುಷ್ಟು॒ವಾಗ್ಂ ಸ॑ಸ್ತ॒ನೂಭಿ॑: । ವ್ಯಶೇ॑ಮ ದೇ॒ವಹಿ॑ತಂ॒ ಯದಾಯು॑: । ಸ್ವ॒ಸ್ತಿ ನ॒ ಇಂದ್ರೋ॑ ವೃ॒ದ್ಧಶ್ರ॑ವಾಃ । ಸ್ವ॒ಸ್ತಿ ನ॑: ಪೂ॒ಷಾ ವಿ॒ಶ್ವವೇ॑ದಾಃ । ಸ್ವ॒ಸ್ತಿ ನ॒ಸ್ತಾರ್ಕ್ಷ್ಯೋ॒ ಅರಿ॑ಷ್ಟನೇಮಿಃ । ಸ್ವ॒ಸ್ತಿ ನೋ॒ ಬೃಹ॒ಸ್ಪತಿ॑ರ್ದಧಾತು ॥  
 ಓಂ ಶಾಂತಿ॒: ಶಾಂತಿ॒: ಶಾಂತಿ॑: ॥

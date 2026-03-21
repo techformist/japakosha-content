@@ -2,7 +2,7 @@
 id: sri-shyamala-ashtottara-shatanama-stotram-2.sa
 mantra_id: sri-shyamala-ashtottara-shatanama-stotram-2
 language_code: sa
-title: "श्रीश्यामलाष्टोत्तरशतनामस्तोत्रम् २"
+title: श्रीश्यामलाष्टोत्तरशतनामस्तोत्रम् २
 deity_theme:
   - devi
 purpose:
@@ -11,20 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-  keywords:
-    - 2
-    - ashtottara
-    - shatanama
-    - shyamala
-    - sri
-    - stotram
-  text: "Public Domain"
+keywords:
+  - 2
+  - ashtottara
+  - shatanama
+  - shyamala
+  - sri
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 अस्य श्रीश्यामलाष्टोत्तरशतनामस्तोत्र महामन्त्रस्य, महाभैरव ऋषिः, अनुष्टुप् छन्दः, श्रीमातङ्गीश्वरी देवता, आदिशक्तिरिति बीजं, सर्वकामप्रदेति शक्तिः, परञ्ज्योतिः स्वरूपिणीति कीलकं, श्यामलाष्टोत्तरशतनाम जपे विनियोगः

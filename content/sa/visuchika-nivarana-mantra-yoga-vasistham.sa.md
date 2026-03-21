@@ -2,7 +2,7 @@
 id: visuchika-nivarana-mantra-yoga-vasistham.sa
 mantra_id: visuchika-nivarana-mantra-yoga-vasistham
 language_code: sa
-title: "विषूचिका मन्त्र कथनम् (योगवासिष्ठम्)"
+title: विषूचिका मन्त्र कथनम् (योगवासिष्ठम्)
 deity_theme:
   - universal
 purpose:
@@ -11,18 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - mantra
-  keywords:
-    - nivarana
-    - visuchika
-    - yoga vasistham
+keywords:
+  - nivarana
+  - visuchika
+  - yoga vasistham
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 श्री वसिष्ठ उवाच ।

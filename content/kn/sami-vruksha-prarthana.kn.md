@@ -1,29 +1,29 @@
-﻿---
+---
 id: sami-vruksha-prarthana.kn
 mantra_id: sami-vruksha-prarthana
 language_code: kn
-title: "ಶಮೀ ಪ್ರಾರ್ಥನ"
+title: ಶಮೀ ಪ್ರಾರ್ಥನ
 deity_theme:
   - universal
 purpose:
-  - gratitude
   - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - sami
-    - vruksha
-    - prarthana
-    - ಶಮೀ ಪ್ರಾರ್ಥನsource:
-  text: "Public Domain"
+keywords:
+  - sami
+  - vruksha
+  - prarthana
+  - ಶಮೀ ಪ್ರಾರ್ಥನ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಶಮೀ ಶಮಯ ತೇ ಪಾಪಂ ಶಮೀ ಶತ್ರು ವಿನಾಶಿನೀ |  

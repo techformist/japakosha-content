@@ -2,28 +2,31 @@
 id: manidweepa-varnanam-devi-bhagavatam-part-3.sa
 mantra_id: manidweepa-varnanam-devi-bhagavatam-part-3
 language_code: sa
-title: "मणिद्वीप वर्णनम - देवी भागवतम पार्ट ३"
-deity_theme: "[\"devi\"]"
-purpose: "[\"devotion\"]"
+title: मणिद्वीप वर्णनम - देवी भागवतम पार्ट ३
+deity_theme:
+  - devi
+purpose:
+  - devotion
 tradition: stotra
 tags:
-  content_type:
-  keywords:
-    - (devi
-    - bhagavatam
-    - bhagavatam)
-    - devi
-    - manidweepa
-    - part
-    - varnanam
-    - ३
-  text: "Public Domain"
+  content_type: []
+keywords:
+  - (devi
+  - bhagavatam
+  - bhagavatam)
+  - devi
+  - manidweepa
+  - part
+  - varnanam
+  - ३
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 व्यास उवाच |
     तदेव देवीसदनं मध्यभागे विराजते |

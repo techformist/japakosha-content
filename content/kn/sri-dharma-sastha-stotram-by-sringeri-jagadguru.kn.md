@@ -2,7 +2,7 @@
 id: sri-dharma-sastha-stotram-by-sringeri-jagadguru.kn
 mantra_id: sri-dharma-sastha-stotram-by-sringeri-jagadguru
 language_code: kn
-title: "ಶ್ರೀ ಧರ್ಮಶಾಸ್ತಾ ಸ್ತೋತ್ರಂ (ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ವಿರಚಿತಂ)"
+title: ಶ್ರೀ ಧರ್ಮಶಾಸ್ತಾ ಸ್ತೋತ್ರಂ (ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ವಿರಚಿತಂ)
 deity_theme:
   - ayyappa
 purpose:
@@ -11,21 +11,22 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - dharma
-    - jagadguru
-    - sastha
-    - sri
-    - sringeri
-    - stotram
-    - ಶ್ರೀ ಧರ್ಮಶಾಸ್ತಾ ಸ್ತೋತ್ರಂ (ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ವಿರಚಿತಂ)
-  text: "Public Domain"
+keywords:
+  - dharma
+  - jagadguru
+  - sastha
+  - sri
+  - sringeri
+  - stotram
+  - ಶ್ರೀ ಧರ್ಮಶಾಸ್ತಾ ಸ್ತೋತ್ರಂ (ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ವಿರಚಿತಂ)
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಜಗತ್ಪ್ರತಿಷ್ಠಾಹೇತುರ್ಯಃ ಧರ್ಮಃ ಶ್ರುತ್ಯಂತಕೀರ್ತಿತಃ |  
     ತಸ್ಯಾಪಿ ಶಾಸ್ತಾ ಯೋ ದೇವಸ್ತಂ ಸದಾ ಸಮುಪಾಶ್ರಯೇ || ೧ ||

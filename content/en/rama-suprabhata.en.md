@@ -2,29 +2,29 @@
 id: rama-suprabhata.en
 mantra_id: rama-suprabhata
 language_code: en
-title: "Sri Rama Suprabhatam"
+title: Sri Rama Suprabhatam
 deity_theme:
   - rama
   - vishnu
 purpose:
   - auspiciousness
   - devotion
-tradition: suprabhata
+tradition: stotra
 tags:
   content_type:
-    - suprabhata
-  keywords:
-    - rama
+    - stotra
   occasion:
     - morning
+keywords:
+  - rama
 source:
-  text: "Attributed to Appayya Dikshitar / Sri Vaishnava tradition"
-  citation: "Traditional Suprabhata literature"
-  license: public-domain
+  text: Attributed to Appayya Dikshitar / Sri Vaishnava tradition
+  citation: Traditional Suprabhata literature
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 || shrii-rāmāya namaḥ ||
 

@@ -2,7 +2,7 @@
 id: sri-ganapati-mantraksharavali-stotram.kn
 mantra_id: sri-ganapati-mantraksharavali-stotram
 language_code: kn
-title: "ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ"
+title: ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - mantra
-  keywords:
-    - ganapati
-    - mantraksharavali
-    - sri
-    - stotram
-    - ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ
-  text: "Public Domain"
+keywords:
+  - ganapati
+  - mantraksharavali
+  - sri
+  - stotram
+  - ಶ್ರೀ ಗಣಪತಿ ಮಂತ್ರಾಕ್ಷರಾವಳಿ ಸ್ತೋತ್ರಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಶ್ರೀದೇವ್ಯುವಾಚ |  
     ವಿನಾ ತಪೋ ವಿನಾ ಧ್ಯಾನಂ ವಿನಾ ಹೋಮಂ ವಿನಾ ಜಪಮ್ |  

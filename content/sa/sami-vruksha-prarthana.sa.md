@@ -2,24 +2,27 @@
 id: sami-vruksha-prarthana.sa
 mantra_id: sami-vruksha-prarthana
 language_code: sa
-title: "शमी प्रार्थना"
-deity_theme: "[\"universal\"]"
-purpose: "[\"devotion\"]"
+title: शमी प्रार्थना
+deity_theme:
+  - universal
+purpose:
+  - devotion
 tradition: stotra
 tags:
-  content_type:
-  keywords:
-    - prarthana
-    - sami
-    - vruksha
-    - शमी प्रार्थना
-  text: "Public Domain"
+  content_type: []
+keywords:
+  - prarthana
+  - sami
+  - vruksha
+  - शमी प्रार्थना
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 शमी शमय ते पापं शमी शत्रु विनाशिनी |
 अर्जुनस्य धनुर्धारी रामस्य प्रियदर्शिनी || १ ||

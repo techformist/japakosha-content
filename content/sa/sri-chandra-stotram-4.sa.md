@@ -2,7 +2,7 @@
 id: sri-chandra-stotram-4.sa
 mantra_id: sri-chandra-stotram-4
 language_code: sa
-title: "श्रीचन्द्रस्तोत्रम् ४"
+title: श्रीचन्द्रस्तोत्रम् ४
 deity_theme:
   - navagraha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - chandra
-    - sri
-    - stotram
-    - ४
-  text: "Public Domain"
+keywords:
+  - chandra
+  - sri
+  - stotram
+  - ४
+source:
+  text: Public Domain
   citation: null
-  license: public-domain
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ## ध्यानम्

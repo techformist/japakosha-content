@@ -2,7 +2,7 @@
 id: trideva-kruta-ravi-stuti.sa
 mantra_id: trideva-kruta-ravi-stuti
 language_code: sa
-title: "श्री रवि स्तुतिः (त्रिदेव कृतम्)"
+title: श्री रवि स्तुतिः (त्रिदेव कृतम्)
 deity_theme:
   - navagraha
 purpose:
@@ -11,17 +11,17 @@ tradition: stotra
 tags:
   content_type:
     - stuti
-  keywords:
-    - ravi
-    - trideva
+keywords:
+  - ravi
+  - trideva
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 दृष्ट्वैवं देवदेवस्य रूपं भानोर्महात्मनः ।

@@ -1,28 +1,27 @@
-﻿---
+---
 id: bhavanopanishad.kn
 mantra_id: bhavanopanishad
 language_code: kn
-title: "ಭಾವನೋಪನಿಷತ್"
+title: ಭಾವನೋಪನಿಷತ್
 deity_theme:
   - universal
 purpose:
-  - liberation
-  - wisdom
-  - meditation
+  - devotion
 tradition: upanishadic
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - bhavanopanishad
-    - ಭಾವನೋಪನಿಷತ್source:
-  text: "Public Domain"
+keywords:
+  - bhavanopanishad
+  - ಭಾವನೋಪನಿಷತ್
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಸ್ವಾವಿದ್ಯಾಪದತತ್ಕಾರ್ಯಂ ಶ್ರೀಚಕ್ರೋಪರಿ ಭಾಸುರಮ್ |

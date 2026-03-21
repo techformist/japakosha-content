@@ -2,7 +2,7 @@
 id: ashvattha-stotram.sa
 mantra_id: ashvattha-stotram
 language_code: sa
-title: "अश्वत्थ स्तोत्रं"
+title: अश्वत्थ स्तोत्रं
 deity_theme:
   - universal
 purpose:
@@ -11,17 +11,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ashvattha
-    - stotram
-    - अश्वत्थ स्तोत्रं
-  text: "Public Domain"
+keywords:
+  - ashvattha
+  - stotram
+  - अश्वत्थ स्तोत्रं
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 श्रीनारद उवाच |

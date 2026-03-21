@@ -2,7 +2,7 @@
 id: sri-surya-stotram-2-deva-krutham.sa
 mantra_id: sri-surya-stotram-2-deva-krutham
 language_code: sa
-title: "श्री सूर्य स्तोत्रम् २ (देव कृतं)"
+title: श्री सूर्य स्तोत्रम् २ (देव कृतं)
 deity_theme:
   - navagraha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - deva
-    - krutham
-    - sri
-    - stotram
-    - surya
-  text: "Public Domain"
+keywords:
+  - deva
+  - krutham
+  - sri
+  - stotram
+  - surya
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 देवा ऊचुः |
 नमस्ते ऋक्स्वरूपाय सामरूपाय ते नमः |

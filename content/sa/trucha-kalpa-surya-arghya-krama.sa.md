@@ -2,7 +2,7 @@
 id: trucha-kalpa-surya-arghya-krama.sa
 mantra_id: trucha-kalpa-surya-arghya-krama
 language_code: sa
-title: "तृचाकल्प सूर्य अर्घ्यप्रदान क्रमः"
+title: तृचाकल्प सूर्य अर्घ्यप्रदान क्रमः
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - arghya
-    - kalpa
-    - krama
-    - surya
-    - trucha
+keywords:
+  - arghya
+  - kalpa
+  - krama
+  - surya
+  - trucha
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ध्यानम् ।

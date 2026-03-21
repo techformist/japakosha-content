@@ -12,16 +12,17 @@ tradition: upanishadic
 tags:
   content_type:
     - stotra
-  keywords:
-    - jabalopanishad
-    - ಜಾಬಾಲೋಪನಿಷತ್
-  text: "Public Domain"
+keywords:
+  - jabalopanishad
+  - ಜಾಬಾಲೋಪನಿಷತ್
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ಪೂರ್ಣಮದಃ ಪೂರ್ಣಮಿದಂ ಪೂರ್ಣಾತ್ ಪೂರ್ಣಮುದಚ್ಯತೇ |
     ಪೂರ್ಣಸ್ಯ ಪೂರ್ಣಮಾದಾಯ ಪೂರ್ಣಮೇವಾವಶಿಷ್ಯತೇ

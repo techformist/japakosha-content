@@ -2,7 +2,7 @@
 id: sri-lakshmi-ashtottara-shatanamavali-3.sa
 mantra_id: sri-lakshmi-ashtottara-shatanamavali-3
 language_code: sa
-title: "श्री लक्ष्म्यष्टोत्तरशतनामावलिः ३"
+title: श्री लक्ष्म्यष्टोत्तरशतनामावलिः ३
 deity_theme:
   - lakshmi
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-  keywords:
-    - ashtottara
-    - lakshmi
-    - shatanamavali
-    - sri
-  text: "Public Domain"
+keywords:
+  - ashtottara
+  - lakshmi
+  - shatanamavali
+  - sri
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ ब्रह्मज्ञायै नमः |
     ॐ ब्रह्मसुखदायै नमः |

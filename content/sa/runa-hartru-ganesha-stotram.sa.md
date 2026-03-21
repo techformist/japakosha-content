@@ -2,7 +2,7 @@
 id: runa-hartru-ganesha-stotram.sa
 mantra_id: runa-hartru-ganesha-stotram
 language_code: sa
-title: "श्री ऋणहर्तृ गणेश स्तोत्रं"
+title: श्री ऋणहर्तृ गणेश स्तोत्रं
 deity_theme:
   - ganesha
 purpose:
@@ -11,18 +11,19 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganesha
-    - hartru
-    - runa
-    - stotram
-  text: "Public Domain"
+keywords:
+  - ganesha
+  - hartru
+  - runa
+  - stotram
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 || अथ स्तोत्रम् |
 सृष्ट्यादौ ब्रह्मणा सम्यक्पूजितः फलसिद्धये |

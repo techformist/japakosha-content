@@ -2,7 +2,7 @@
 id: trucha-kalpa-surya-namaskara-krama.kn
 mantra_id: trucha-kalpa-surya-namaskara-krama
 language_code: kn
-title: "ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ"
+title: ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ
 deity_theme:
   - navagraha
 purpose:
@@ -11,20 +11,21 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - kalpa
-    - krama
-    - namaskara
-    - surya
-    - trucha
-    - ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ
-  text: "Public Domain"
+keywords:
+  - kalpa
+  - krama
+  - namaskara
+  - surya
+  - trucha
+  - ತೃಚಾಕಲ್ಪ ಸೂರ್ಯ ನಮಸ್ಕಾರ ಕ್ರಮಃ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಆಚಮ್ಯ । ಪ್ರಾಣಾನಾಯಮ್ಯ । ದೇಶಕಾಲೌ ಸಂಕೀರ್ತ್ಯ । ಗಣಪತಿ ಪೂಜಾಂ ಕೃತ್ವಾ ।
 ಸಂಕಲ್ಪಃ –  

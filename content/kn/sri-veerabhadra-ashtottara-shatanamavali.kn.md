@@ -2,7 +2,7 @@
 id: sri-veerabhadra-ashtottara-shatanamavali.kn
 mantra_id: sri-veerabhadra-ashtottara-shatanamavali
 language_code: kn
-title: "ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ"
+title: ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
 deity_theme:
   - shiva
 purpose:
@@ -12,19 +12,20 @@ tradition: stotra
 tags:
   content_type:
     - ashtottara
-  keywords:
-    - ashtottara
-    - shatanamavali
-    - sri
-    - veerabhadra
-    - ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
-  text: "Public Domain"
+keywords:
+  - ashtottara
+  - shatanamavali
+  - sri
+  - veerabhadra
+  - ಶ್ರೀ ವೀರಭದ್ರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಳಿಃ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಓಂ ವೀರಭದ್ರಾಯ ನಮಃ |  
     ಓಂ ಮಹಾಶೂರಾಯ ನಮಃ |  

@@ -1,28 +1,29 @@
-﻿---
+---
 id: sri-tulasi-stotram.kn
 mantra_id: sri-tulasi-stotram
 language_code: kn
-title: "ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂ"
+title: ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂ
 deity_theme:
   - universal
 purpose:
   - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - sri
-    - tulasi
-    - stotram
-    - ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂsource:
-  text: "Public Domain"
+keywords:
+  - sri
+  - tulasi
+  - stotram
+  - ಶ್ರೀ ತುಲಸೀ ಸ್ತೋತ್ರಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಜಗದ್ಧಾತ್ರಿ ನಮಸ್ತುಭ್ಯಂ ವಿಷ್ಣೋಶ್ಚ ಪ್ರಿಯವಲ್ಲಭೇ |  

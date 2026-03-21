@@ -12,17 +12,18 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - advaitha
-    - lakshanam
-    - ಅದ್ವೈತಲಕ್ಷಣಂ
-  text: "Public Domain"
+keywords:
+  - advaitha
+  - lakshanam
+  - ಅದ್ವೈತಲಕ್ಷಣಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಅಜ್ಞಾನಮೇತದ್ ದ್ವೈತಾಖ್ಯಂ ಅದ್ವೈತಂ ಶ್ರೇಯಸಾಂ ಪರಮ್

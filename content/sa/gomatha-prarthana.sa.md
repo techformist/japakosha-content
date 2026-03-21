@@ -2,7 +2,7 @@
 id: gomatha-prarthana.sa
 mantra_id: gomatha-prarthana
 language_code: sa
-title: "गोमाता प्रार्थना"
+title: गोमाता प्रार्थना
 deity_theme:
   - universal
 purpose:
@@ -12,16 +12,17 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - gomatha
-    - prarthana
-  text: "Public Domain"
+keywords:
+  - gomatha
+  - prarthana
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 नमो ब्रह्मण्यदेवाय गो ब्राह्मण हिताय च |
     जगद्धिताय कृष्णाय गोविन्दाय नमो नमः || १ ||

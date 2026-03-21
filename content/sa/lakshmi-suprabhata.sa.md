@@ -9,23 +9,23 @@ deity_theme:
 purpose:
   - auspiciousness
   - devotion
-tradition: suprabhata
+tradition: stotra
 tags:
   content_type:
-    - suprabhata
-  keywords:
-    - lakshmi
-    - mahalakshmi
+    - stotra
   occasion:
     - morning
+keywords:
+  - lakshmi
+  - mahalakshmi
 source:
-  text: "Traditional Suprabhata literature"
-  citation: "Traditional Suprabhata literature"
-  license: public-domain
+  text: Traditional Suprabhata literature
+  citation: Traditional Suprabhata literature
+license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 ॥ श्रीमहालक्ष्म्यै नमः ॥
 

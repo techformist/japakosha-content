@@ -2,7 +2,7 @@
 id: sri-matangi-kavacham-3.kn
 mantra_id: sri-matangi-kavacham-3
 language_code: kn
-title: "ಶ್ರೀ ಮಾತಂಗೀ ಕವಚಂ"
+title: ಶ್ರೀ ಮಾತಂಗೀ ಕವಚಂ
 deity_theme:
   - devi
 purpose:
@@ -11,18 +11,19 @@ tradition: tantric
 tags:
   content_type:
     - kavacham
-  keywords:
-    - kavacham
-    - matangi
-    - sri
-    - ಶ್ರೀ ಮಾತಂಗೀ ಕವಚಂ
-  text: "Public Domain"
+keywords:
+  - kavacham
+  - matangi
+  - sri
+  - ಶ್ರೀ ಮಾತಂಗೀ ಕವಚಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ಅಸ್ಯ ಶ್ರೀಮಾತಂಗೀ ಕವಚಮಂತ್ರಸ್ಯ ಮಹಾಯೋಗೀಶ್ವರಋಷಿಃ ಅನುಷ್ಟುಪ್ ಛಂದಃ ಶ್ರೀಮಾತಂಗೀಶ್ವರೀ ದೇವತಾ ಶ್ರೀಮಾತಂಗೀಪ್ರಸಾದಸಿದ್ಧ್ಯರ್ಥೇ ಜಪೇ ವಿನಿಯೋಗಃ |
     ನೀಲೋತ್ಪಲಪ್ರತೀಕಾಶಾಮಂಜನಾದ್ರಿಸಮಪ್ರಭಾಮ್ |  

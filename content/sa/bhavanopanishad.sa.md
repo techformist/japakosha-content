@@ -3,21 +3,24 @@ id: bhavanopanishad.sa
 mantra_id: bhavanopanishad
 language_code: sa
 title: भावनोपनिषत्
-deity_theme: "[\"universal\"]"
-purpose: "[\"devotion\"]"
+deity_theme:
+  - universal
+purpose:
+  - devotion
 tradition: upanishadic
 tags:
-  content_type:
-  keywords:
-    - bhavanopanishad
-    - भावनोपनिषत्
-  text: "Public Domain"
+  content_type: []
+keywords:
+  - bhavanopanishad
+  - भावनोपनिषत्
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-03-20T00:00:00.000Z"
-updated_at: "2026-03-20T00:00:00.000Z"
+created_at: '2026-03-20T00:00:00.000Z'
+updated_at: '2026-03-20T00:00:00.000Z'
 ---
 
 स्वाविद्यापदतत्कार्यं श्रीचक्रोपरि भासुरम् |

@@ -2,7 +2,7 @@
 id: sri-ganesha-vajra-panjara-stotram.sa
 mantra_id: sri-ganesha-vajra-panjara-stotram
 language_code: sa
-title: "श्री गणेश वज्रपञ्जर स्तोत्रं"
+title: श्री गणेश वज्रपञ्जर स्तोत्रं
 deity_theme:
   - ganesha
 purpose:
@@ -11,19 +11,20 @@ tradition: stotra
 tags:
   content_type:
     - stotra
-  keywords:
-    - ganesha
-    - panjara
-    - sri
-    - stotram
-    - vajra
-  text: "Public Domain"
+keywords:
+  - ganesha
+  - panjara
+  - sri
+  - stotram
+  - vajra
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ## ध्यानम्
     त्रिनेत्रं गजास्यं चतुर्बाहुधारं

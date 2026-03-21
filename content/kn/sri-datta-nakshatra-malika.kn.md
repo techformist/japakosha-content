@@ -1,29 +1,30 @@
-﻿---
+---
 id: sri-datta-nakshatra-malika.kn
 mantra_id: sri-datta-nakshatra-malika
 language_code: kn
-title: "ಶ್ರೀ ದತ್ತ ನಕ್ಷತ್ರಮಾಲಿಕಾ ಸ್ತೋತ್ರಂ"
+title: ಶ್ರೀ ದತ್ತ ನಕ್ಷತ್ರಮಾಲಿಕಾ ಸ್ತೋತ್ರಂ
 deity_theme:
   - dattatreya
 purpose:
   - devotion
 tradition: stotra
 tags:
-  content_type: 
+  content_type:
     - stotra
-  keywords:
-    - sri
-    - datta
-    - nakshatra
-    - malika
-    - ಶ್ರೀ ದತ್ತ ನಕ್ಷತ್ರಮಾಲಿಕಾ ಸ್ತೋತ್ರಂsource:
-  text: "Public Domain"
+keywords:
+  - sri
+  - datta
+  - nakshatra
+  - malika
+  - ಶ್ರೀ ದತ್ತ ನಕ್ಷತ್ರಮಾಲಿಕಾ ಸ್ತೋತ್ರಂ
+source:
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 
 ಗೋದಾವರ್ಯಾ ಮಹಾನದ್ಯಾ ಉತ್ತರೇ ಸಿಂಹಪರ್ವತೇ |  

@@ -12,16 +12,16 @@ tradition: upanishadic
 tags:
   content_type:
     - upanishad
-  keywords:
-    - surya
+keywords:
+  - surya
 source:
-  text: "Public Domain"
+  text: Public Domain
   citation: null
 license: public-domain
 quality_level: community
 phonetic: null
-created_at: "2026-02-15T07:06:28.137Z"
-updated_at: "2026-02-15T07:06:28.137Z"
+created_at: '2026-02-15T07:06:28.137Z'
+updated_at: '2026-02-15T07:06:28.137Z'
 ---
 ॐ भद्रं कर्णेभिः शृणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाग्ं सस्तनूभिः । व्यशेम देवहितं यदायुः । स्वस्ति न इन्द्रो वृद्धश्रवाः । स्वस्ति नः पूषा विश्वेदेवाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु ॥
 ॐ शान्तिः शान्तिः शान्तिः ॥
